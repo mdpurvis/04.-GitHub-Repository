@@ -1,0 +1,807 @@
+
+ 
+Chubb Limited NYSE:CB
+FQ3 2019 Earnings Call Transcripts
+Wednesday October 30 2019 12:30 PM GMT
+S&P Global Market Intelligence Estimates
+  -FQ3 2019- -FQ4 2019- -FY 2019- -FY 2020-
+  CONSENSUS ACTUAL SURPRISE CONSENSUS CONSENSUS CONSENSUS
+EPS Normalized  2.61 2.70 3.45 2.71 10.50 11.11
+Revenue  (mm) 7821.00 8010.00 2.42 7080.50 30657.50 30620.10
+Currency: USD
+Consensus as of  Oct-30-2019 9:53 AM GMT
+    - EPS NORMALIZED  -  
+  CONSENSUS ACTUAL SURPRISE
+FQ4 2018 2.00 2.02 1.00 %
+FQ1 2019 2.56 2.54 (0.78 %)
+FQ2 2019 2.56 2.60 1.56 %
+FQ3 2019 2.61 2.70 3.45 %
+1
+COPYRIGHT © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+Contents
+Table of Contents
+ 
+Call Participants .................................................................................. 3
+Presentation .................................................................................. 4
+Question and Answer .................................................................................. 8
+2
+COPYRIGHT © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All rights reserved
+spglobal.com/marketintelligence
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Call Participants
+EXECUTIVES
+Evan G. Greenberg
+Chairman & CEO
+John Joseph Lupica
+Vice Chairman and President of
+North America Major Accounts &
+Specialty Insurance
+Karen L. Beyer
+Senior Vice President of Investor
+Relations
+Philip V. Bancroft
+EVP & CFO
+ANALYSTS Michael David Zaremski
+Crédit Suisse AG Research Division
+Brian Robert Meredith
+UBS Investment Bank Research Michael Wayne Phillips
+Division Morgan Stanley Research Division
+Charles Gregory Peters Ryan James Tunis
+Raymond James & Associates Autonomous Research LLP
+Inc. Research Division
+Yaron Joseph Kinar
+David Kenneth Motemaden Goldman Sachs Group Inc.
+Evercore ISI Institutional Equities Research Division
+Research Division
+Elyse Beth Greenspan
+Wells Fargo Securities LLC
+Research Division
+Jay H. Gelb
+Barclays Bank PLC Research
+Division
+Jon Paul Newsome
+Sandler O'Neill + Partners L.P.
+Research Division
+Meyer Shields
+Keefe Bruyette & Woods Inc.
+Research Division
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 3
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Presentation
+Operator
+Good day everyone and welcome to the Chubb Limited Third Quarter 2019 Earnings Conference Call.
+Today's call is being recorded. [Operator Instructions] And now for opening remarks and introductions I
+would like to turn the call over to Karen Beyer Senior Vice President Investor Relations. Please go ahead
+ma'am.
+Karen L. Beyer
+Senior Vice President of Investor Relations
+Thank you and good morning everyone. Welcome to Chubb's September 30 2019 Third Quarter Earnings
+Conference Call. Our report today will contain forward-looking statements including statements relating
+to company performance and growth opportunities pricing and business mix and economic and market
+conditions which are subject to risks and uncertainties and actual results may differ materially.
+Please see our recent SEC filings earnings release and financial supplement which are available on our
+website at investors.chubb.com for more information on factors that could affect these matters.
+We will also refer today to non-GAAP financial measures reconciliations of which to the most direct
+comparable GAAP measures and related details are provided in our earnings press release and financial
+supplement.
+Now it's my pleasure to introduce our speakers this morning. First we have Evan Greenberg Chairman
+and Chief Executive Officer; followed by Phil Bancroft our Chief Financial Officer we'll then take your
+questions.
+Also with us to assist you with your questions are several members of our management team. And now I'll
+turn the call over to Evan.
+Evan G. Greenberg
+Chairman & CEO
+Good morning. We had a strong third quarter with core operating earnings up double digit and excellent
+premium revenue growth globally. Growth benefited from a continuously improving pricing and
+underwriting environment where insurance rates and terms continued to firm quarter-over-quarter in
+major areas of our business.
+Our growth is also benefiting from our many product customer and distribution-related growth initiatives
+around the globe particularly in the U.S. Asia and Latin America.
+Core operating income was $2.70 per share up 12%. The balance of our earnings between underwriting
+and investment income was very good with underwriting income of $754 million up 12.5% and adjusted
+net investment income of $910 million up 3%.
+Global P&C underwriting income which excludes agriculture was up 27.7%. The combined ratio was
+90.2% and benefited from lower year-on-year cats offset partially by higher crop losses another cat-like
+risk.
+On a current accident year basis excluding cats the combined ratio was 89.5% and excluding ag it
+was 88.3% up modestly like 0.4% from prior year. Book and tangible book value per share were up
+2% and 3.3% respectively in the quarter and are up 9.8% and 15.7% since December 31 driven by a
+combination of strong income and the mark from falling interest rates. While benefiting temporarily our
+company's book value growth prolonged low interest rates a result of over-alliance on monetary policy
+have penalized savers and led to misallocation of capital and overvaluation of assets without substantially
+supporting business investment and economic growth.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 4
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Annualized core operating return on equity for the quarter was 9.5%. Phil will have more to say about
+investment income book value cats and prior period development.
+Turning to growth and the rate environment. P&C premium revenue in the quarter in constant dollars was
+quite strong. Net premiums grew 7.2% and then foreign exchange had a 1 point negative impact.
+As I noted at the beginning the pricing environment continued to improve quarter-on-quarter with the
+rate of increase accelerating and spreading to more classes of business and risk type. For perspective rate
+increases in both our North America commercial lines and on our London wholesale businesses this quarter
+were double those of the first quarter 6.4% versus 3.2% and 17% versus 8% respectively.
+In the U.S. rates continued to firm in major accounts E&S wholesale specialty and the middle market.
+In our international operations we continue to observe firming conditions in the London wholesale
+market and in Australia while rates began to increase in the U.K. retail market and parts of the continent
+particularly for large risks. The market is responding to the fact that rates have not kept pace with loss
+costs over a number of years which has put pressure on margins and ultimately on reserves.
+Rates have gone down while loss costs have risen. Pretty simple math. However as we have been saying
+for some time the frequency of severity and certain long-tail and short-tail classes has been worsening
+while at the same time in other classes it has remained subdued or declined.
+For the sake of simplicity let's divide long-tail loss into 3 buckets. Bucket 1 generally speaking in the
+attritional loss layers severity has been increasing at a relatively modest pace and frequency has been
+steady though there are exceptions.
+In the second bucket in excess layers the frequency of large claims settlements has been increasing
+and putting pressure on rate adequacy a consequence of so-called social inflation but also casualty
+attachment points not moving for years. A $1 million attachment point for casualty excess 10 years ago is
+worth a fraction of the amount today.
+And finally the third bucket. There has been an increase in class actions large to mega everything from
+securities and antitrust related to science-based. For example chemical pharma and physical trauma
+related. And there are casualty cat-type events such as molestation-related reviver statues legislative
+actions.
+I have spoken about all of this for some time now. In my judgment given the simple math the risk
+environment and a reset of risk appetite on the part of many the current market conditions are
+sustainable.
+Returning to the quarter. Overall prices increased in North America commercial on a written basis by 6.8%
+versus a loss cost trend of about 4.5%. Renewal price change includes both rate of 6.4% and exposure
+change of 0.4%.
+As I noted last quarter we are also benefiting from a flight to quality particularly in large account and
+specialty as more business meets our underwriting standards. Given the choice many potential customers
+prefer Chubb.
+New business in North America Commercial Lines was up 18.5% in the quarter with major accounts in
+Specialty up over 23% and middle market and small commercial up over 9.5%.
+Retention of our customers remained very strong across all of our North America Commercial and
+Personal P&C businesses with renewal retention as measured by premium of 96.6%.
+In major accounts and specialty commercial excluding agriculture premiums were up 9.5% with major
+accounts retail up about 5.5% and E&S wholesale up over 18%. Rates for major accounts were up over
+8% with risk management up 4.5% excess casualty up 17.5% and property up over 29%. Public D&O
+rates increased over 17.5%.
+In our E&S wholesale business rates were up about 7.5% with property up 17% and Financial Lines up
+8.5%.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 5
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Turning to our middle-market and small commercial business. Premiums overall were up 5.6% and
+renewal retention in our middle-market business was 92%.
+Middle-market pricing was up over 6% and excluding workers comp up about 6.5%. Pricing for primary
+casualty was up 7.7% property up 7.3% excess umbrella up 7% and public D&O rates up 32%.
+In our North America Personal Lines business net premiums written in the quarter were up 2.7% but
+adjusting for the expanded reinsurance that we have discussed in the past net premiums written were
+up almost 4% our best quarter of the year. Retention remains strong at 97% on a premium basis and
+steady at over 90% on a policy basis. Homeowners pricing was up 10.7% in the quarter.
+Turning to our international business. Growth accelerated in our Overseas General Insurance operations
+with net premiums written up about 11% in constant dollar and FX then had a negative impact of about
+3.5 percentage points. Net premiums for our London market wholesale business were up 29% while our
+retail division was up over 9.5% with growth broadly distributed across the globe.
+Growth in our international retail business was led by Latin America and Asia Pacific up circa 10% and
+9% respectively with U.K. retail in the continent up over 8% and 6% a very good result.
+Overall rates in our London wholesale business were up 17%. Our Asia-focused international life
+insurance business had a strong quarter with net written premiums up over 20% in constant dollar and a
+contribution to earnings of $40 million up over 43% from prior year.
+John Keogh John Lupica and Paul Krump can provide further color on the quarter including current market
+conditions and pricing trends.
+In closing this is a very good quarter for Chubb. Premium revenue growth continued to accelerate as
+more business met our underwriting standards and we continue to achieve greater price adequacy in an
+improving underwriting environment. At the same time we are executing on our many long-term growth
+initiatives around the globe. Our organization is firing on all cylinders.
+With that I'll turn the call over to Phil and then we'll come back to take your questions.
+Philip V. Bancroft
+EVP & CFO
+Thank you Evan. We ended the quarter with a very strong overall financial position. Our businesses and
+investment performance produced positive cash flow in the quarter of $2.2 billion. We grew our assets
+to $175 billion including cash and invested assets of $109 billion which generated strong investment
+income and we grew total capital to over $68 billion.
+Among the capital-related actions in the quarter we returned $819 million to shareholders including $341
+million in dividends and $478 million in share repurchases. Year-to-date through yesterday we have
+repurchased over $1.3 billion in shares at an average price of $145.70 per share.
+Our annualized core operating return on tangible equity was 15.6%. Adjusted net investment income for
+the quarter of $910 million pretax was higher than our estimated range and benefited from higher private
+equity distributions and increased corporate bond call activities.
+Net realized and unrealized gains for the quarter were $263 million after-tax. There was a gain of $503
+million in the investment portfolio from a decline in interest rates partially offset by a loss of $112 million
+from our variable annuity portfolio and a loss of $116 million from FX.
+Although market yields have declined significantly in recent months we will remain conservative in our
+investment strategy and do not contemplate any significant shift in asset allocation.
+Despite the negative impact of lower interest rates we expect our growth in invested assets and strong
+cash flow will support current investment income levels. We now expect our quarterly adjusted net
+investment income run rate to be approximately $900 million.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 6
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Pretax catastrophe losses in the quarter were $232 million with about 90% from U.S. weather-related
+events including Hurricane Dorian and the balance from international events primarily in Japan.
+In addition agriculture underwriting income was adversely impacted by weather conditions resulting in
+underwriting income of $1 million compared to $79 million in the prior year.
+We had favorable prior period development in the quarter of $167 million pretax or $112 million after-
+tax. This included $27 million pretax adverse development related to legacy environmental exposures.
+The remaining favorable development of $194 million comprises $279 million favorable development from
+long-tail lines principally from accident years 2015 and prior and adverse development from $85 million
+in short-tail lines principally from noncat large losses in commercial property lines.
+On a constant dollar basis net loss reserves decreased $137 million reflecting the impact of favorable
+prior period development and catastrophe loss. On a reported basis the paid-to-incurred ratio was 103%
+for the quarter. After adjusting for the items I discussed the paid-to-incurred ratio was 96%.
+Our core operating effective tax rate for the quarter was 15.1% which is in line with our annual expected
+range of 14% to 16%. Through 9 months our core operating effective tax rate was 15%.
+As a clarification to a point in the press release relating to North America commercial we had a 2-point
+increase in our loss ratio. 1 point is property related year-to-date losses were higher than our selected
+loss ratio. The other point is long-tail related simply higher loss fix this year than last and in line with
+previous quarters no change.
+I'll turn the call back over to Karen.
+Karen L. Beyer
+Senior Vice President of Investor Relations
+Thank you. At this point we're happy to take your questions.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 7
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Question and Answer
+Operator
+[Operator Instructions] We'll take our first question from Paul Newsome Sandler O'Neill.
+Jon Paul Newsome
+Sandler O'Neill + Partners L.P. Research Division
+Congratulations on the quarter everyone. I was hoping you could touch a little bit more on your
+comments on the tort environment which I found very interesting. And specifically I'm curious if the
+buckets and descriptions you're using are just attributed to the U.S.? Or given you're international
+focused also something we can think about having similar issues in or developments in the international
+markets?
+Evan G. Greenberg
+Chairman & CEO
+Yes. That's a good question. The -- when it comes to securities related -- and we don't see it in general
+casualty. General casualty is behaving in a steady way. We don't see the same factors that we see now
+the U.K. Germany which is always been the troubled environment and Australia. There you see the
+same trends and in a place like Australia it's even more acute. But that's been for some time and I've
+been talking about it for a while because it's the same -- we've observed the trends for the last couple of
+years. The U.K. has worsened over the last 2 years maybe 3. Australia has been -- it began deteriorating
+about 4 years ago and accelerated and is just a stupid environment now. And Germany given their
+insured versus insured and the fact that they have -- you have 2 Boards in a company has been a difficult
+environment for a long time. But that's about it. The other markets around the world kind of minor.
+Jon Paul Newsome
+Sandler O'Neill + Partners L.P. Research Division
+Great. And then separately just a more topical comment on the California wildfires and exposures. Is
+there anything about Chubb's exposures out there that would be different from the last couple of years
+just from a pure -- from an exposure from a reinsurance perspective?
+Evan G. Greenberg
+Chairman & CEO
+Well let's see the last couple of years we do have a quota share that we did not have before. That would
+be the one major difference. Over the last year in particular though it began 2 years ago but really it's
+been the last year we've been reshaping the portfolio. Given the underwriting environment and the level
+of rate we can charge we've been -- we've aggressively pursued more rate increase so that earns into
+the portfolio and has a benefit and we've reshaped the portfolio around the margin and that continues
+particularly in extreme wildfire zones.
+Operator
+Our next question will come from Elyse Greenspan with Wells Fargo.
+Elyse Beth Greenspan
+Wells Fargo Securities LLC Research Division
+My first question on Evan going back also to some of your comments on inflation. Now North America
+commercial you guys -- you just pointed to consolidated trend about 4.5% which is in line with what you
+guys have been saying in the past couple of quarters. So just given the whole environment and what you
+see out there in terms of class action lawsuits et cetera picking up I mean do you view that as kind of
+the right base on -- as we think about where a trend could be over the next 12 months?
+Evan G. Greenberg
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 8
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Chairman & CEO
+Elyse our trend reflects everything we know. And we have -- and it's the overall portfolio. So that's
+everything. Long and short tail. We have classes in long and short tail where the loss cost trend is benign.
+And we have in both long- and short-tail classes where it is less benign and I specifically spiked out to
+talk about the casualty and I'm using casualty in the broad sense including professional lines. The areas
+where we for some time have been talking about that loss cost trends or the strike loss cost trends the
+loss environment has been worsening or becoming more hostile. That's all baked into that 4.5%. Our
+selected trend factors by line reflect everything we know that we can mathematically calculate is -- and
+substantiate is in our loss picks. Now we can't speak about the future because we don't know the future.
+We only know what we can observe today and the trends as we see them today and we've reflected all of
+that.
+Elyse Beth Greenspan
+Wells Fargo Securities LLC Research Division
+Okay. That's helpful. And then my second question in terms of North America commercial the prior
+year developments slowed I believe it's all due to what Phil pointed out in terms of the noncat losses in
+Commercial Property. I just wanted to clarify -- so did all -- away from just noncat property did all their
+lines within commercial develop favorably in the quarter? If we can just get a little bit more color on that.
+Were there releases within that business?
+Evan G. Greenberg
+Chairman & CEO
+In the current accident year you're speaking to current accident year?
+Elyse Beth Greenspan
+Wells Fargo Securities LLC Research Division
+No. I was talking about the prior year development. So the $109 million this year versus the $216 million
+last year within North America commercial.
+Evan G. Greenberg
+Chairman & CEO
+We had releases and we had -- we took reserve charges as we told you. And when you say lines it's the
+lines that we study in the quarter. We don't study -- or we don't do a deep dive study on all lines every
+quarter. And as we've described numerous times we have a schedule for that. And so of the lines studied
+in the quarter those would be the long-tail ones that had releases. And by the way it's many sub-lines
+and so some have some increases some have decreases but the aggregate that we gave you was a
+decrease in reserve.
+Operator
+We'll take our next question from Greg Peters with Raymond James.
+Charles Gregory Peters
+Raymond James & Associates Inc. Research Division
+I have one question and a follow-up. Evan in your prepared remarks and I'm not trying to put words
+in your mouth but I believe you suggested that assets might be overvalued due to the low interest rate
+environment. And I'm curious how you want your investors to view those comments in the context of your
+investment portfolio.
+Evan G. Greenberg
+Chairman & CEO
+Yes. What I was really relating to more than anything in my mind is I look at the prices people are
+paying to buy assets all kinds of assets. And in my mind in particular I think about is the -- we purchase
+insurance companies and we look at those assets and I find the market knows to be tremendously
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 9
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+overvalued. And when I look at the prices being paid and so much private equity and in high tech and
+IT related and technology related the asset values are tremendously inflated. I'm really making the
+comment that investors are chasing absolute yield not risk-adjusted yield. When I come to our own
+investment portfolio we're very careful about how we invest for risk-adjusted return not absolute yield.
+And that's why Phil made the comment that there won't be and you won't see a change in our investment
+philosophy and strategy because we're disciplined and we're not just going to chase the highest yield
+for example in high-yield bonds where we're active. We know what the -- we know what we think the
+right risk-adjusted price is from looking at historic default trends et cetera. We're not going to chase. And
+that's what my comments were related to.
+Charles Gregory Peters
+Raymond James & Associates Inc. Research Division
+Thanks for the clarification. I want to pivot -- and at the outset I just want you to realize I'm not trying to
+get you to criticize your distribution partners. But if I consider the stock market performance as a measure
+of success the insurance brokers have outperformed the underwriters on a 1 3 and 5-year basis. And
+I was wondering if you could just update us on your views about the symbiotic relationship with your
+insurance brokers and/or if it's changed?
+Evan G. Greenberg
+Chairman & CEO
+Yes. That bounces around and we're in the risk-taking business. Brokerage is in the intermediation
+business only and I realize we're both in the advisory business that way. I -- that they have done well
+it's not a zero-sum game. If they have done well I applaud them for it. I reflect they've done a good job
+and congratulations and we'll run our own race. And I'm not concerned with Chubb's ability to outperform
+over reasonable periods of time and that's particularly in comparison to those who were like us risk
+takers. Secondly has the relationship changed? No it's fundamentally the same relationship it has been
+for years. It changes based on tools and capabilities change. But beyond that the relationship is -- the
+foundation of it is -- hasn't changed. And that is a broker is in the business of representing their client
+and their client's interest and helping them to select -- advising them and helping them to select the
+right coverages the right insurers and put together the right program. They intermediate that and our
+relationship is -- brokerage is an ambivalent relationship. You work in partnership together and you also
+work -- you work for each of your respective interests.
+Operator
+Our next question will come from Mike Zaremski with Crédit Suisse.
+Michael David Zaremski
+Crédit Suisse AG Research Division
+First question Evan when you were talking about the competitive environment in your prepared remarks
+I think you used the term reset of risk appetite on the part of some competitors. Do you feel that that
+reset is causing maybe pricing to move well in excess of loss trend and low interest rate pressures in
+certain lines? And I guess what I'm trying to get at is that I think we all know that there is a number of
+competitors kind of resetting and that gives us confidence -- a new confidence that the rate environment
+stays -- is moving in the right direction. But I guess a lot of investors ask us whether Chubb's margins can
+maybe eventually benefit more so than peers if the environment persists?
+Evan G. Greenberg
+Chairman & CEO
+Yes. Look I can only speak about what I know not what I don't know. There are lines of business -- there
+are numerous lines of business where rate is exceeding loss cost trend and that is it's healing margins
+and therefore it is naturally ameliorating and benefiting margin and then there are other lines. And some
+of that it's actually improving the underwriting margin and in some areas it needs to go further because
+it's not -- it's still not adequate to earn in a positive underwriting margin. So it's all over the line. As far
+as Chubb's margin goes I'm not going to prognosticate about the future. The trends as we see them are
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 10
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+positive they are good and all things being equal it benefits margin. However I can't speak to the future
+loss cost environment and future trends that way so that's why I never predict the future when it comes
+to that. We're in the risk business.
+Michael David Zaremski
+Crédit Suisse AG Research Division
+Okay. That's helpful. And lastly kind of as a follow-up to one of the previous questions Evan you said
+that broadly speaking asset values are inflated and I think you alluded to also the M&A environment
+but you can correct me if I'm wrong. So does that imply that there's maybe less M&A opportunities today
+than I guess -- well there hasn't been much M&A for you guys in recent years? And maybe Phil can also
+remind us of the drag excess capital is having on your ROE?
+Evan G. Greenberg
+Chairman & CEO
+Yes. In the environment sure you haven't -- you've seen us quiet and you observe the prices for assets
+yourselves. I assume you come to the same conclusion I do. Phil on ROE?
+Philip V. Bancroft
+EVP & CFO
+The drag on the ROE it's in the range of 0.7% to 1%.
+Operator
+Our next question will come from Yaron Kinar with Goldman Sachs.
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+Evan this is probably just me not in full capacity after a busy night so I apologize in advance but there is
+something I don't quite understand.
+Evan G. Greenberg
+Chairman & CEO
+Did you drink too much?
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+I drank a lot of insurance P&L.
+Evan G. Greenberg
+Chairman & CEO
+That's intoxicating.
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+So overall loss trend remained stable at 4.5% which incorporates lines that are deteriorating others that
+are benign. But if it remains stable why are we seeing Chubb and peers increasingly vocalizing concerns
+over loss trend deterioration? And why are rates as a whole firming?
+Evan G. Greenberg
+Chairman & CEO
+Because the loss environment in those troubled lines you do see trends and you do see it showing up
+in overall loss picks that you've seen loss ratios in casualty rising -- and I'm using casualty broadly I'm
+using the term to include professional lines and general casualty and taking out workers comp. It varies by
+line but you've been hearing about it and seeing it in commercial auto. You've been hearing about it and
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 11
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+you've seen it in D&O and medical malpractice and excess liability. And so that has focus and attention
+from -- underwriters see it and the investing community sees it so there is dialogue about that. And I
+do think that it is -- the loss cost environment there has not been benign. I've been talking about it for a
+while. Our own loss picks in those areas have been increasing. It does have an impact on our overall loss
+ratios because it gets blended in there and it has. And so you need to be aware of it and focus on it. And it
+is a trend right now. It has been and is. Am I making sense to you?
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+Yes. And is this the way it means though that even if the loss -- long-term loss remains stable there is a
+certain reset of a base given the recent experience?
+Evan G. Greenberg
+Chairman & CEO
+Not a reset of the base. But remember we're talking loss ratios and that's calendar year that can include
+prior period reserves that includes current accident year. So naturally you've seen very strong rate and
+with more benign loss years releasing reserves -- industry releasing reserves into earnings when I take
+prior period. And you know as you get to more recent years rates had been going down loss cost trends
+have been rising and you've seen underneath the surface of these loss cost trends some of these ones
+that I just talked about and have been talking about that are more troubling and they show up. And then
+in the current that all then rolls forward to the current accident year loss picks where you raise your
+expectations based on what you see today and has -- it has trended from the recent and past years.
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+Okay. And then my follow-up question is...
+Evan G. Greenberg
+Chairman & CEO
+Am I making sense? Am I being clear for you?
+Yaron Joseph Kinar
+Goldman Sachs Group Inc. Research Division
+I think so. I may follow-up off-line but I think I got the general gist. And then my second question is just
+around -- you had mentioned the 3 buckets attritional loss layers excess in large to mega. Can you offer
+maybe a broad distribution of premiums for Chubb by those buckets?
+Evan G. Greenberg
+Chairman & CEO
+No no. I don't have those...
+Operator
+We'll go next to Michael Phillips with Morgan Stanley.
+Michael Wayne Phillips
+Morgan Stanley Research Division
+I guess I appreciate Evan your comments on not wanting to kind of go and predict the future. I guess I
+would ask then on your North America commercial that you had 90 bps of deterioration in the core how
+much of -- and you call out the commercial property. I mean can you say how much that 90 bps would
+have been without that commercial property losses?
+Evan G. Greenberg
+Chairman & CEO
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 12
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Well we said that -- I'm a little lost. The 90 bps is in the combined ratio.
+Michael Wayne Phillips
+Morgan Stanley Research Division
+That's correct. Yes.
+Evan G. Greenberg
+Chairman & CEO
+The loss ratio in North America commercial was 2 points. We told you 1 point was year-to-date property
+where loss is outside the loss pick and we said the other 1 point was casualty related. That's casualty
+long-tail lines which is casualty broadly. And that was just -- and that was in line with our loss picks all
+year. No change. That's just rate and trend. And we -- Phil gave you that.
+Michael Wayne Phillips
+Morgan Stanley Research Division
+Yes. No perfect. And then I guess on those 3 buckets again that was just asked do you have any
+concerns on what you see in that second layer kind of filtering back down into the first layer that you
+talked about the first bucket?
+Evan G. Greenberg
+Chairman & CEO
+No. We're not -- no we're not seeing it that way. And think about it a little bit. The average loss always it
+increases by the -- a normal trend factor in the primary layer. Frequency has been pretty steady. So we --
+jittery a little bit and -- but steady. And the severity has risen at a -- kind of a normal loss cost trend. But
+what it does is when attachment points -- and that's what I was trying to say -- in excess don't change
+over years and years and years then more losses bleed into that layer. Do you get it?
+Michael Wayne Phillips
+Morgan Stanley Research Division
+Yes.
+Evan G. Greenberg
+Chairman & CEO
+And that's separate from the larger one-offs that large excess losses that I talked about. I broke bucket
+2 down into 2 pieces for you. And so to answer your question no I don't see that. Actually it works the
+opposite.
+Operator
+We'll go next to Ryan Tunis with Autonomous Research.
+Ryan James Tunis
+Autonomous Research LLP
+Evan I wanted to go back to your comment in your prepared remarks where you said that conditions
+are sustainable. I was just a little bit confused on what in particular is sustainable. Is it the pricing
+environment? Is it where you view the loss trend environment? Just I guess maybe a little more
+specificity on that please.
+Evan G. Greenberg
+Chairman & CEO
+Yes buddy you're overthinking it. I was talking about the underwriting and pricing environment only.
+Ryan James Tunis
+Autonomous Research LLP
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 13
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Got it. So broadly speaking. And I guess I want to follow...
+Evan G. Greenberg
+Chairman & CEO
+Broadly speaking the trend we see in pricing and underwriting we see -- in the areas that this is
+impacting we see it continuing.
+Ryan James Tunis
+Autonomous Research LLP
+Understood. And then I guess my follow-up is keeping it on this discussion about -- it sounds like -- and I
+might be wrong on this but it sounds like there might be a difference between the conversation about loss
+trend and the conversation about loss picks. Is it like for instance Phil mentioned that -- sorry Evan.
+Evan G. Greenberg
+Chairman & CEO
+Go ahead. No go ahead.
+Ryan James Tunis
+Autonomous Research LLP
+So Phil's comment that because it's casualty lines in North America the accident year loss ratio
+deteriorated a point. Yes it's similarly to previous quarters but in previous quarters you seemingly
+didn't have quite as much rate. So is it such that there's an uncertain enough loss environment that
+you're observing a certain level of trend but maybe you're saying we should out of an abundance of
+conservatism just continue to set loss picks a little bit higher and that's why that's perhaps staying at 1
+point? Or is it more simple than that and it's -- and I just have that wrong?
+Evan G. Greenberg
+Chairman & CEO
+It's more simple than that. I'm trying to understand what your -- how you're thinking about it. But
+remember the loss ratio is based on earned rate not written rate. And it's earned rate over the loss pick
+you had earned rate goes into -- again you trend losses forward. We have an overall loss trend factor of
+4.5% we had an earned rate of whatever it was in those long-tail areas. That went into us imagining a
+loss pick for the year in those casualty areas of x and that has remained steady. We have not changed the
+loss ratios we have selected in part of -- in any of our casualty areas.
+Ryan James Tunis
+Autonomous Research LLP
+So as more of that earned rate comes in we would expect that point of deterioration to moderate.
+Evan G. Greenberg
+Chairman & CEO
+Then the earned premium grows then you look at the loss cost trend for each line and you decide does it
+remain the same? Or does it go up or go down? Ok that's what I can give you Ryan. That's why I'm not
+prognosticating future. I go back to that. But I'll -- based on what I see right now I've got a 4.5% loss
+cost trend and I've got -- and that is a blend of all lines of business and we've got rate that exceeds loss
+cost trends in North America on a written basis.
+Operator
+Next Brian Meredith with UBS.
+Brian Robert Meredith
+UBS Investment Bank Research Division
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 14
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Evan I'm just curious are you getting tightening terms and conditions and enough to maybe ameliorate
+some of this loss cost trend if you're going forward? Or should we not think about it that way?
+Evan G. Greenberg
+Chairman & CEO
+Are we getting changes in terms and conditions?
+Brian Robert Meredith
+UBS Investment Bank Research Division
+Yes. Tightening enough that maybe can -- the 4.5% that you're seeing or some of the social inflation.
+Evan G. Greenberg
+Chairman & CEO
+In some -- and I don't want overstate it. So I don't -- you can't bake it in in the overall. But we are
+getting more changes in deductibles we're getting changes in sub-limits we're getting changes in
+attachment points in casualty excess and those things are all part and are ameliorating and we put
+values on those.
+Brian Robert Meredith
+UBS Investment Bank Research Division
+And that's not in your -- when you give us your price increases that's not included in that is it?
+Evan G. Greenberg
+Chairman & CEO
+In some lines it is because where we can actually measure it it is an exposure adjustment and then we
+take rate against exposure and we determine -- what we can determine mathematically that allows us --
+that is the same thing as rate. So we do -- we consider it.
+Brian Robert Meredith
+UBS Investment Bank Research Division
+Great. And then my follow-up question Evan I'm just curious PG&E I know it has been talked about a
+little bit. There's nice subrogation that should be coming through there. What are your kind of thoughts on
+that subrogation when can you potentially see some of that come through?
+Evan G. Greenberg
+Chairman & CEO
+I'm not going to speculate on that. But we don't see any material or substantial future subrogation
+opportunity for Chubb from PG&E.
+Operator
+Our next question will come from Ryan Tunis Autonomous Research.
+Ryan James Tunis
+Autonomous Research LLP
+I actually didn't have another one but I'll ask -- I guess I'll ask on agriculture. I think I asked last quarter
+on this as well.
+Evan G. Greenberg
+Chairman & CEO
+[indiscernible]
+Ryan James Tunis
+Autonomous Research LLP
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 15
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+No no no. I don't think anyone got to it. But yes I guess there was a little bit of a higher loss pick there.
+I mean I guess first of all what does that incorporate? How much development could we potentially
+expect on that in the fourth quarter? And what are you still thinking a good combine ratio use for that
+business is when you look out to 2020 or just I guess normalized annual combined ratio for the overall
+crop segment?
+Evan G. Greenberg
+Chairman & CEO
+I'll just take that last part. We've run in the in the high 80s to 90% historically and we don't see a change
+to that. And by the way look at the last number of years we had excellent results the last few years in
+that business. It has a natural volatility it's crops it has both an attritional and a cat-like nature to it. And
+this year we're going to have a less-than-average year for that business and let me turn it over to John
+Lupica for a minute to give you a little more color on that.
+John Joseph Lupica
+Vice Chairman and President of North America Major Accounts & Specialty Insurance
+Yes. Thanks Evan and Ryan too. We certainly adjusted the year-to-date numbers in the quarter based
+on what we know today. And we still have to capture all of the yields from the field before we can really
+put a final number. The nice part about the year is prices are pretty much at base prices we finish out the
+October harvest price schedule. So due to the delay in planting the harvest period has been pushed out 5
+to 6 weeks. So I think by the end of the year we'll obviously have a better sense of the year. And as Evan
+noted if we don't see any change off our expectation we certainly expect it to be in that low 90s area.
+Evan G. Greenberg
+Chairman & CEO
+Low 90s combined for the fourth quarter would be about where we would imagine if nothing changes from
+what we know now. But God there's a lot of unknowns out there. We have no idea right now about yields.
+We just don't know.
+Ryan James Tunis
+Autonomous Research LLP
+Perfect. And I guess I want to ask one more. Workers comp Evan obviously been at some rate pressure.
+I mean how are you seeing absolute levels of profitability there? Are there fewer opportunities today than
+there were one -- at one point? Yes I mean what's the outlook right now on workers comp?
+Evan G. Greenberg
+Chairman & CEO
+For Chubb that's not a growth area at this time. We -- it has -- loss cost trends have been quite benign
+and the industry has responded with a lot of competition and lowering the prices some of it rational
+some of it to us just beginning to overshoot that mark. And loss -- the benign loss cost environment it's
+questionable whether that will remain. And so we have been -- as rates have been coming down we have
+been exerting more discipline in that area. It has not been a growth area for us. And I'm speaking about
+first dollar primary risk transfer business. In our risk management business that's a whole different book.
+And that's where the -- that's large account where it's self-insured or self-funded on some basis and we
+provide all kinds of services and we provide excess coverage. And there we're -- that's an area that we're
+quite active and probably the largest writer of that in the United States and we have a lot of knowledge
+and capability and that's where the client has skin in the game and so that seems to be different.
+Operator
+Next we'll go to Jay Gelb with Barclays.
+Jay H. Gelb
+Barclays Bank PLC Research Division
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 16
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+I know it's early days with regard to other catastrophe loss potential in 4Q but any initial perspective
+on Typhoon Hagibis and the California wildfires? And looking at that relative to what was a pretty heavy
+catastrophe loss a year ago in the fourth quarter around 8 points of catastrophe losses on the combined
+ratio how should we think about that?
+Evan G. Greenberg
+Chairman & CEO
+Well you should think that this is the end of October. So we're 1/3 through the movie. And I can't tell
+you how the movie ends. I didn't see it before. So I don't know. We're in the risk business and we're in
+-- and part of being in the risk business we take catastrophe exposure. And so I don't wring my hands
+about having catastrophe losses I'm just concerned did we measure the exposure correctly? And did
+we charge a proper price for taking the risk? Other than that I'm going to have that volatility. So I'm not
+wringing my hands. On the Japan typhoon so far from everything we know it is not a significant event
+for Chubb. On the California wildfires they are ongoing right now. The only thing we know is the Tick fire
+is the one that's out. And on that one we didn't have any -- we didn't have any losses. And on the other
+2 I -- it's just very early days and I'd rather not predict. And I don't know what the outcomes will be. At
+this moment our losses are very minor.
+Jay H. Gelb
+Barclays Bank PLC Research Division
+Right. Understood. And then on a separate issue I just want to follow up on the North America
+commercial. The gross written premium in the third quarter was up 10% year-over-year. Was there
+anything -- any one-timers in there that would have influenced that? Or was that kind of a true
+perspective on the growth rate that you're now seeing in that business giving improving market
+conditions?
+Evan G. Greenberg
+Chairman & CEO
+We didn't have anything mega in the quarter but we write large account there. And so we won a number
+of new large accounts and that's what just gets baked into that. But nothing in particular that stands out
+to us.
+Jay H. Gelb
+Barclays Bank PLC Research Division
+So a strong acceleration in the core business production?
+Evan G. Greenberg
+Chairman & CEO
+It was a strong growth quarter. We won a number of new large accounts in the quarter. I -- but remember
+it's lumpy business so I can't tell you the next quarter is going to be the same. It bounces around a bit.
+But it was very good. We liked everything we saw about how the market behaved and moved towards us
+in terms of rate and terms.
+Operator
+Our next question will come from David Motemaden with Evercore ISI.
+David Kenneth Motemaden
+Evercore ISI Institutional Equities Research Division
+Just had a question and appreciate the color on the 3 buckets. Just wanted to get a little bit more detail on
+when you really saw or have seen an acceleration in the loss trends in the last 2 buckets? And specifically
+if you've seen any increase over the last couple of quarters that you'd note?
+Evan G. Greenberg
+Chairman & CEO
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 17
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Nothing over the last couple of quarters that we'd note. I've been talking about this. If you go back into
+shareholder letters into quarterly commentaries we've been talking about this for 2 years.
+David Kenneth Motemaden
+Evercore ISI Institutional Equities Research Division
+Got it. So no meaningful acceleration beyond what you've been mentioning. Okay. That's helpful. And then
+just on the PPD in North America commercial. The Child Victims Act obviously went into effect this quarter.
+Just wondering any early indications you got on your exposure there. And if that was an element that led
+to the lower year-over-year PPD?
+Evan G. Greenberg
+Chairman & CEO
+No. 0 number one. Number two I think you're referring to New York. California went into effect I believe
+the governor signed it last week. And there are a number of other states that are in the middle of passing
+reviver statutes now. We have no way at this point of estimating the exposure and ultimate loss to Chubb
+in that. And so -- you're at the very beginning it's way too early.
+Operator
+And ladies and gentlemen at this time we'll take our final question from Meyer Shields with KBW.
+Meyer Shields
+Keefe Bruyette & Woods Inc. Research Division
+Evan I was wondering if there is any way of quantifying broadly how much of the current insurance
+market is adequately priced compared to a year ago.
+Evan G. Greenberg
+Chairman & CEO
+Well Meyer we haven't done -- we haven't added it up that way or thought about it that way. And when
+you say the market I -- that's asking -- I can't -- I cannot tell you the adequacy of the ocean overall. So
+no.
+Meyer Shields
+Keefe Bruyette & Woods Inc. Research Division
+Okay. Fair enough. Second question given -- I don't know whether it's external weather issues or the
+underlying climatological changes. Is there any way of assessing what loss trend is for North America
+property lines?
+Evan G. Greenberg
+Chairman & CEO
+There is no way for you to assess that but we can assess that.
+Meyer Shields
+Keefe Bruyette & Woods Inc. Research Division
+Can you tell us what you've come up with?
+Evan G. Greenberg
+Chairman & CEO
+And it'll vary -- Meyer I'm not disclosing it but it will vary -- we're not going into sub-lines but it'll vary
+-- we have a number of property portfolios. We have first dollar property that is admitted risk. We have
+first dollar property that is E&S and they behave differently. We have excess property and we have other
+coverages that go along with that. And then we have large account property and so -- and they all -- it all
+behaves a little bit differently.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 18
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Operator
+And this does conclude today's question-and-answer session. I'd like to turn the call back over to today's
+presenters for any additional or closing remarks.
+Karen L. Beyer
+Senior Vice President of Investor Relations
+Thank you all for your time and attention this morning. We look forward to speaking with you again next
+quarter. Thank you and have a good day.
+Operator
+And this does conclude today's call. Thank you for your participation. You may now disconnect.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 19
+CHUBB LIMITED FQ3 2019 EARNINGS CALL  OCT 30 2019
+Copyright © 2019 by S&P Global Market Intelligence a division of S&P Global Inc. All rights reserved.
+These materials have been prepared solely for information purposes based upon information generally available to the public
+and from sources believed to be reliable. No content (including index data ratings credit-related analyses and data research
+model software or other application or output therefrom) or any part thereof (Content) may be modified reverse engineered
+reproduced or distributed in any form by any means or stored in a database or retrieval system without the prior written permission
+of S&P Global Market Intelligence or its affiliates (collectively S&P Global). The Content shall not be used for any unlawful or
+unauthorized purposes. S&P Global and any third-party providers (collectively S&P Global Parties) do not guarantee the accuracy
+completeness timeliness or availability of the Content. S&P Global Parties are not responsible for any errors or omissions regardless
+of the cause for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON "AS IS" BASIS. S&P GLOBAL
+PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE FREEDOM FROM BUGS SOFTWARE ERRORS OR DEFECTS
+THAT THE CONTENT'S FUNCTIONING WILL BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE
+OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties be liable to any party for any direct indirect incidental
+exemplary compensatory punitive special or consequential damages costs expenses legal fees or losses (including without
+limitation lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the Content
+even if advised of the possibility of such damages. S&P Global Market Intelligence's opinions quotes and credit-related and other
+analyses are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase
+hold or sell any securities or to make any investment decisions and do not address the suitability of any security. S&P Global Market
+Intelligence may provide index data. Direct investment in an index is not possible. Exposure to an asset class represented by an
+index is available through investable instruments based on that index. S&P Global Market Intelligence assumes no obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is not a substitute for the
+skill judgment and experience of the user its management employees advisors and/or clients when making investment and other
+business decisions. S&P Global Market Intelligence does not act as a fiduciary or an investment advisor except where registered
+as such. S&P Global keeps certain activities of its divisions separate from each other in order to preserve the independence and
+objectivity of their respective activities. As a result certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+S&P Global may receive compensation for its ratings and certain analyses normally from issuers or underwriters of securities or from
+obligors. S&P Global reserves the right to disseminate its opinions and analyses. S&P Global's public ratings and analyses are made
+available on its Web sites www.standardandpoors.com (free of charge) and www.ratingsdirect.com and www.globalcreditportal.com
+(subscription) and may be distributed through other means including via S&P Global publications and third-party redistributors.
+Additional information about our ratings fees is available at www.standardandpoors.com/usratingsfees.
+© 2019 S&P Global Market Intelligence.
+Copyright © 2019 S&P Global Market Intelligence a division of S&P Global Inc. All Rights reserved.
+spglobal.com/marketintelligence 20

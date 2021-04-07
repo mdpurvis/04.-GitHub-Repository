@@ -1,0 +1,62 @@
+Date,Month,Sub-Category,Description,Account Name,Transaction Type,Count,Amount
+2020-10-12,2020-10-12,EM - Startup Costs,Charleston Wraps LLC,Discover,debit,1,92.0
+2020-10-12,2020-10-12,EM - Startup Costs,LegalZoom.com,Discover,debit,1,128.0
+2020-10-12,2020-10-12,EM - Supplies,ADOBE 800-833-6687 CA,Discover,debit,1,9.99
+2020-10-13,2020-10-13,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,45.0
+2020-10-14,2020-10-14,EM - Supplies,Amazon,CHECKING,debit,1,22.98
+2020-10-14,2020-10-14,EM - Supplies,FormSwift.com,Discover,debit,1,1.95
+2020-10-15,2020-10-15,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,25.0
+2020-10-16,2020-10-16,EM - Supplies,Jo-Ann Stores,CHECKING,debit,1,46.36
+2020-10-19,2020-10-19,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,2,85.0
+2020-10-21,2020-10-21,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,75.0
+2020-10-21,2020-10-21,EM - Supplies,Amazon,Discover,debit,1,20.99
+2020-10-21,2020-10-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2020-10-22,2020-10-22,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,25.0
+2020-10-22,2020-10-22,EM - Supplies,Amazon,CHECKING,debit,1,9.95
+2020-10-23,2020-10-23,EM - Supplies,MY BUSINESS WEST NEWFIELDME,VISA STARTER,debit,1,15.0
+2020-10-24,2020-10-24,EM - Startup Costs,LegalZoom.com,Discover,debit,1,249.0
+2020-10-26,2020-10-26,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,125.0
+2020-10-27,2020-10-27,EM - Supplies,Amazon,CHECKING,debit,1,13.29
+2020-10-28,2020-10-28,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,36.0
+2020-10-31,2020-10-31,EM - Supplies,Amazon,CHECKING,debit,1,6.95
+2020-11-05,2020-11-05,EM - Education,TANYA LEE HERVEY P GOSQ.COM NH0001152921509630,Discover,debit,1,199.0
+2020-11-09,2020-11-09,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,2,91.25
+2020-11-10,2020-11-10,EM - Supplies,Jo-Ann Stores,VISA STARTER,debit,1,9.98
+2020-11-12,2020-11-12,EM - Startup Costs,LegalZoom.com,Discover,debit,1,128.0
+2020-11-12,2020-11-12,EM - Supplies,ADOBE PRODUCTS 4085366000 CA,Discover,debit,1,9.99
+2020-11-14,2020-11-14,EM - Supplies,Dollar General,VISA STARTER,debit,1,44.15
+2020-11-21,2020-11-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2020-11-23,2020-11-23,EM - Supplies,Amazon,Discover,debit,1,26.99
+2020-11-25,2020-11-25,EM - Supplies,Amazon,CHECKING,debit,2,19.98
+2020-11-25,2020-11-25,EM - Supplies,Amazon,Discover,debit,1,17.99
+2020-11-27,2020-11-27,EM - Income,Deposit,CLUB SAVINGS,credit,1,100.0
+2020-11-30,2020-11-30,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,60.0
+2020-12-02,2020-12-02,EM - Supplies,Amazon,Discover,debit,1,34.97
+2020-12-03,2020-12-03,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,81.0
+2020-12-07,2020-12-07,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,75.0
+2020-12-08,2020-12-08,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,75.0
+2020-12-09,2020-12-09,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,25.0
+2020-12-12,2020-12-12,EM - Startup Costs,LegalZoom.com,Discover,debit,1,128.0
+2020-12-12,2020-12-12,EM - Supplies,ADOBE PRODUCTS 4085366000 CA,Discover,debit,1,9.99
+2020-12-19,2020-12-19,EM - Supplies,Tractor Supply,CHECKING,debit,1,9.99
+2020-12-21,2020-12-21,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,85.0
+2020-12-21,2020-12-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2020-12-23,2020-12-23,EM - Supplies,Jo-Ann Stores,VISA STARTER,debit,1,43.16
+2020-12-25,2020-12-25,EM - Supplies,Amazon,CHECKING,debit,1,6.99
+2020-12-28,2020-12-28,EM - Startup Costs,Amazon,Discover,debit,1,739.0
+2020-12-30,2020-12-30,EM - Income,Venmo,CHECKING,debit,1,75.0
+2021-01-10,2021-01-10,EM - Supplies,Amazon,CHECKING,debit,1,12.85
+2021-01-12,2021-01-12,EM - Supplies,ADOBE PRODUCTS 4085366000 CA,Discover,debit,1,9.99
+2021-01-21,2021-01-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2021-02-04,2021-02-04,EM - Supplies,Jo-Ann Stores,CHECKING,debit,1,22.47
+2021-02-08,2021-02-08,EM - Income,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,125.0
+2021-02-08,2021-02-08,EM - Supplies,TST* THE FRIENDLY T 603-430-2154 NHUS,CHECKING,debit,1,66.71
+2021-02-12,2021-02-12,EM - Supplies,ADOBE PRODUCTS 4085366000 CA,Discover,debit,1,9.99
+2021-02-21,2021-02-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2021-02-22,2021-02-22,EM - Legal/ Complian,NH SEC OF STATE OTC 603-271-2073 NH,Discover,debit,1,102.0
+2021-03-12,2021-03-12,EM - Supplies,ADOBE PRODUCTS 4085366000 CA,Discover,debit,1,9.99
+2021-03-15,2021-03-15,EM - Supplies,Adobe Products Ca,Discover,credit,1,8.99
+2021-03-15,2021-03-15,EM - Supplies,Amazon,CHECKING,debit,1,78.0
+2021-03-15,2021-03-15,EM - Supplies,PHTOSHP LIGHTRM BNDL CA,Discover,debit,1,9.99
+2021-03-21,2021-03-21,EM - Supplies,PIXIESET.COM 8778877815 WA,Discover,debit,1,10.0
+2021-03-30,2021-03-30,EM - Supplies,RIBBETCOM 0289574683 AU,VISA STARTER,debit,1,39.99

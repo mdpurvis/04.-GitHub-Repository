@@ -1,0 +1,2061 @@
+Date,Month,Sub-Category,Description,Account Name,Transaction Type,Count,Amount,Transfer Type
+2017-07-03,2017-07-03,Transfer,Transfer from BABY,CHECKING,credit,1,-50.2,In
+2017-07-03,2017-07-03,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-105.11,In
+2017-07-03,2017-07-03,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-105.11,Out
+2017-07-03,2017-07-03,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-50.2,Out
+2017-07-05,2017-07-05,Transfer,Transfer from HOUSE,CHECKING,credit,2,-80.0,In
+2017-07-05,2017-07-05,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-60.0,In
+2017-07-05,2017-07-05,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-40.0,In
+2017-07-05,2017-07-05,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-60.0,Out
+2017-07-05,2017-07-05,Transfer,Transfer to HOUSE,CHECKING,debit,1,-40.0,Out
+2017-07-05,2017-07-05,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,2,-80.0,Out
+2017-07-06,2017-07-06,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-180.0,In
+2017-07-06,2017-07-06,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-180.0,Out
+2017-07-11,2017-07-11,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-174.94,In
+2017-07-11,2017-07-11,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-174.94,Out
+2017-07-12,2017-07-12,Transfer,Transfer from HOUSE,CHECKING,credit,1,-2020.0,In
+2017-07-12,2017-07-12,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-2020.0,Out
+2017-07-14,2017-07-14,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-300.0,In
+2017-07-14,2017-07-14,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2017-07-17,2017-07-17,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-20.0,In
+2017-07-17,2017-07-17,Transfer,Transfer to HOUSE,CHECKING,debit,1,-20.0,Out
+2017-07-18,2017-07-18,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,2,-450.0,In
+2017-07-18,2017-07-18,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-450.0,In
+2017-07-18,2017-07-18,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-300.0,In
+2017-07-18,2017-07-18,Transfer,Transfer to BABY,CHECKING,debit,1,-450.0,Out
+2017-07-18,2017-07-18,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-450.0,Out
+2017-07-18,2017-07-18,Transfer,Transfer to HOUSE,CHECKING,debit,1,-300.0,Out
+2017-07-20,2017-07-20,Transfer,Capital One,Venture,credit,1,-1520.0,In
+2017-07-20,2017-07-20,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-605.0,In
+2017-07-20,2017-07-20,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1520.22,In
+2017-07-20,2017-07-20,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,2,-225.0,In
+2017-07-20,2017-07-20,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-430.0,In
+2017-07-20,2017-07-20,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-430.0,Out
+2017-07-20,2017-07-20,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-225.0,Out
+2017-07-20,2017-07-20,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-1520.22,Out
+2017-07-20,2017-07-20,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-605.0,Out
+2017-07-21,2017-07-21,Transfer,Capital One,CHECKING,debit,1,-1520.0,Out
+2017-07-24,2017-07-24,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-200.0,In
+2017-07-24,2017-07-24,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-200.0,In
+2017-07-24,2017-07-24,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2017-07-24,2017-07-24,Transfer,Transfer to HOUSE,CHECKING,debit,1,-200.0,Out
+2017-07-26,2017-07-26,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-165.79,In
+2017-07-26,2017-07-26,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-165.79,Out
+2017-08-03,2017-08-03,Transfer,Capital One,Venture,credit,1,-1165.0,In
+2017-08-03,2017-08-03,Transfer,Transfer from BABY,CHECKING,credit,1,-200.23,In
+2017-08-03,2017-08-03,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-365.87,In
+2017-08-03,2017-08-03,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-709.99,In
+2017-08-03,2017-08-03,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-709.99,Out
+2017-08-03,2017-08-03,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-365.87,Out
+2017-08-03,2017-08-03,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-200.23,Out
+2017-08-04,2017-08-04,Transfer,Capital One,CHECKING,debit,1,-1165.0,Out
+2017-08-07,2017-08-07,Transfer,Transfer from BABY,CHECKING,credit,1,-100.0,In
+2017-08-07,2017-08-07,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-175.0,In
+2017-08-07,2017-08-07,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-175.0,Out
+2017-08-07,2017-08-07,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-100.0,Out
+2017-08-14,2017-08-14,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-504.44,In
+2017-08-14,2017-08-14,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-504.44,Out
+2017-08-17,2017-08-17,Transfer,Capital One,Venture,credit,1,-1374.31,In
+2017-08-17,2017-08-17,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-679.44,In
+2017-08-17,2017-08-17,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-679.44,Out
+2017-08-18,2017-08-18,Transfer,Capital One,CHECKING,debit,1,-1374.31,Out
+2017-08-18,2017-08-18,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-08-18,2017-08-18,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-08-24,2017-08-24,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-100.0,In
+2017-08-24,2017-08-24,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2017-08-28,2017-08-28,Transfer,Transfer from BABY,CHECKING,credit,1,-50.0,In
+2017-08-28,2017-08-28,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-50.0,Out
+2017-08-31,2017-08-31,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2017-08-31,2017-08-31,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-220.0,In
+2017-08-31,2017-08-31,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-08-31,2017-08-31,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-08-31,2017-08-31,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-220.0,Out
+2017-08-31,2017-08-31,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-1420.0,Out
+2017-09-05,2017-09-05,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-100.0,In
+2017-09-05,2017-09-05,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2017-09-06,2017-09-06,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-500.34,In
+2017-09-06,2017-09-06,Transfer,Transfer from HOUSE,CHECKING,credit,1,-403.94,In
+2017-09-06,2017-09-06,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-500.34,Out
+2017-09-06,2017-09-06,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-403.94,Out
+2017-09-08,2017-09-08,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-595.0,In
+2017-09-08,2017-09-08,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-595.0,Out
+2017-09-11,2017-09-11,Transfer,Transfer from BABY,CHECKING,credit,1,-50.0,In
+2017-09-11,2017-09-11,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-50.0,Out
+2017-09-13,2017-09-13,Transfer,Capital One,Venture,credit,1,-1615.0,In
+2017-09-13,2017-09-13,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1615.38,In
+2017-09-13,2017-09-13,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-1615.38,Out
+2017-09-14,2017-09-14,Transfer,Capital One,CHECKING,debit,1,-1615.0,Out
+2017-09-14,2017-09-14,Transfer,Transfer from HOUSE,CHECKING,credit,1,-20.0,In
+2017-09-14,2017-09-14,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,2,-310.0,In
+2017-09-14,2017-09-14,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-09-14,2017-09-14,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-20.0,In
+2017-09-14,2017-09-14,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-09-14,2017-09-14,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-310.0,Out
+2017-09-14,2017-09-14,Transfer,Transfer to HOUSE,CHECKING,debit,1,-20.0,Out
+2017-09-14,2017-09-14,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-20.0,Out
+2017-09-21,2017-09-21,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-150.0,In
+2017-09-21,2017-09-21,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-175.0,In
+2017-09-21,2017-09-21,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-175.0,Out
+2017-09-21,2017-09-21,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-150.0,Out
+2017-09-25,2017-09-25,Transfer,Transfer from BABY,CHECKING,credit,1,-50.0,In
+2017-09-25,2017-09-25,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.16,In
+2017-09-25,2017-09-25,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-50.0,Out
+2017-09-25,2017-09-25,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-1420.16,Out
+2017-09-28,2017-09-28,Transfer,Capital One,Venture,credit,1,-2568.0,In
+2017-09-28,2017-09-28,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-985.0,In
+2017-09-28,2017-09-28,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-120.0,In
+2017-09-28,2017-09-28,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-120.0,Out
+2017-09-28,2017-09-28,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-985.0,Out
+2017-09-29,2017-09-29,Transfer,Capital One,CHECKING,debit,1,-2568.0,Out
+2017-09-29,2017-09-29,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-09-29,2017-09-29,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-10-03,2017-10-03,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-130.0,In
+2017-10-03,2017-10-03,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-800.0,In
+2017-10-03,2017-10-03,Transfer,Transfer to BABY,CHECKING,debit,1,-800.0,Out
+2017-10-03,2017-10-03,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-130.0,Out
+2017-10-09,2017-10-09,Transfer,Capital One,Venture,credit,1,-1000.0,In
+2017-10-10,2017-10-10,Transfer,Capital One,CHECKING,debit,1,-1000.0,Out
+2017-10-10,2017-10-10,Transfer,Transfer from HOUSE,CHECKING,credit,1,-1003.21,In
+2017-10-10,2017-10-10,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-1003.21,Out
+2017-10-12,2017-10-12,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-200.0,In
+2017-10-12,2017-10-12,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-10-12,2017-10-12,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-10-12,2017-10-12,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2017-10-16,2017-10-16,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-100.24,In
+2017-10-16,2017-10-16,Transfer,Transfer from SERVICE CHECKING,VISA STARTER,credit,1,-10.64,In
+2017-10-16,2017-10-16,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-100.24,Out
+2017-10-16,2017-10-16,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-10.64,Out
+2017-10-17,2017-10-17,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-200.0,In
+2017-10-17,2017-10-17,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2017-10-19,2017-10-19,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-150.0,In
+2017-10-19,2017-10-19,Transfer,Transfer to BABY,CHECKING,debit,1,-150.0,Out
+2017-10-26,2017-10-26,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-710.0,In
+2017-10-26,2017-10-26,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-900.0,In
+2017-10-26,2017-10-26,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-900.0,Out
+2017-10-26,2017-10-26,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-710.0,Out
+2017-10-31,2017-10-31,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1650.36,In
+2017-10-31,2017-10-31,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-500.0,In
+2017-10-31,2017-10-31,Transfer,Transfer from SERVICE CHECKING,VISA STARTER,credit,1,-5.69,In
+2017-10-31,2017-10-31,Transfer,Transfer to HOUSE,CHECKING,debit,1,-500.0,Out
+2017-10-31,2017-10-31,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-1650.36,Out
+2017-10-31,2017-10-31,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-5.69,Out
+2017-11-01,2017-11-01,Transfer,Capital One,CHECKING,debit,1,-2650.0,Out
+2017-11-01,2017-11-01,Transfer,Capital One,Venture,credit,1,-2650.0,In
+2017-11-08,2017-11-08,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-300.0,In
+2017-11-08,2017-11-08,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-100.0,In
+2017-11-08,2017-11-08,Transfer,Transfer to BABY,CHECKING,debit,1,-100.0,Out
+2017-11-08,2017-11-08,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2017-11-09,2017-11-09,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-11-09,2017-11-09,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-11-10,2017-11-10,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-199.89,In
+2017-11-10,2017-11-10,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-199.89,Out
+2017-11-13,2017-11-13,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,2,-150.0,In
+2017-11-13,2017-11-13,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-150.0,Out
+2017-11-21,2017-11-21,Transfer,Transfer from HOUSE,CHECKING,credit,1,-5.73,In
+2017-11-21,2017-11-21,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-5.73,Out
+2017-11-22,2017-11-22,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-300.0,In
+2017-11-22,2017-11-22,Transfer,Transfer from SERVICE CHECKING,VISA STARTER,credit,1,-16.95,In
+2017-11-22,2017-11-22,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2017-11-22,2017-11-22,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-16.95,Out
+2017-11-24,2017-11-24,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-11-24,2017-11-24,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-11-27,2017-11-27,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2017-11-27,2017-11-27,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-100.0,In
+2017-11-27,2017-11-27,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-50.0,In
+2017-11-27,2017-11-27,Transfer,Transfer to BABY,CHECKING,debit,1,-50.0,Out
+2017-11-27,2017-11-27,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2017-11-27,2017-11-27,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-1420.0,Out
+2017-11-28,2017-11-28,Transfer,Capital One,Venture,credit,1,-1400.0,In
+2017-11-28,2017-11-28,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1400.0,In
+2017-11-28,2017-11-28,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-1400.0,Out
+2017-11-29,2017-11-29,Transfer,Capital One,CHECKING,debit,1,-1400.0,Out
+2017-11-29,2017-11-29,Transfer,Transfer from HOUSE,CHECKING,credit,1,-200.0,In
+2017-11-29,2017-11-29,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-200.0,Out
+2017-11-30,2017-11-30,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-180.0,In
+2017-11-30,2017-11-30,Transfer,Transfer to HOUSE,CHECKING,debit,1,-180.0,Out
+2017-12-04,2017-12-04,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-351.89,In
+2017-12-04,2017-12-04,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-351.89,Out
+2017-12-07,2017-12-07,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2017-12-07,2017-12-07,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-280.0,In
+2017-12-07,2017-12-07,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-12-07,2017-12-07,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,1,-200.0,In
+2017-12-07,2017-12-07,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-12-07,2017-12-07,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-280.0,Out
+2017-12-07,2017-12-07,Transfer,Transfer to HOUSE,CHECKING,debit,1,-200.0,Out
+2017-12-07,2017-12-07,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-100.0,Out
+2017-12-11,2017-12-11,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,2,-175.0,In
+2017-12-11,2017-12-11,Transfer,Transfer to HOUSE,CHECKING,debit,2,-175.0,Out
+2017-12-12,2017-12-12,Transfer,Transfer from BABY,CHECKING,credit,1,-100.0,In
+2017-12-12,2017-12-12,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-68.0,In
+2017-12-12,2017-12-12,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-68.0,Out
+2017-12-12,2017-12-12,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-100.0,Out
+2017-12-14,2017-12-14,Transfer,Transfer from BABY,CHECKING,credit,1,-100.0,In
+2017-12-14,2017-12-14,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-100.0,Out
+2017-12-18,2017-12-18,Transfer,Transfer from BABY,CHECKING,credit,1,-50.0,In
+2017-12-18,2017-12-18,Transfer,Transfer from HOUSE,CHECKING,credit,1,-50.0,In
+2017-12-18,2017-12-18,Transfer,Transfer to SERVICE CHECKING,EMERSYN,debit,1,-50.0,Out
+2017-12-18,2017-12-18,Transfer,Transfer to SERVICE CHECKING,SAFETY NET,debit,1,-50.0,Out
+2017-12-19,2017-12-19,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-150.0,In
+2017-12-19,2017-12-19,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-150.0,Out
+2017-12-21,2017-12-21,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-400.0,In
+2017-12-21,2017-12-21,Transfer,Transfer from SERVICE CHECKING,EMERSYN,credit,1,-200.0,In
+2017-12-21,2017-12-21,Transfer,Transfer from SERVICE CHECKING,MORTGAGE,credit,1,-710.0,In
+2017-12-21,2017-12-21,Transfer,Transfer from SERVICE CHECKING,SAFETY NET,credit,2,-142.0,In
+2017-12-21,2017-12-21,Transfer,Transfer to BABY,CHECKING,debit,1,-200.0,Out
+2017-12-21,2017-12-21,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2017-12-21,2017-12-21,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2017-12-21,2017-12-21,Transfer,Transfer to HOUSE,CHECKING,debit,2,-142.0,Out
+2017-12-26,2017-12-26,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2017-12-26,2017-12-26,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-150.0,In
+2017-12-26,2017-12-26,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-150.0,Out
+2017-12-26,2017-12-26,Transfer,Transfer to SERVICE CHECKING,MORTGAGE,debit,1,-1420.0,Out
+2017-12-27,2017-12-27,Transfer,Capital One,Venture,credit,1,-1450.0,In
+2017-12-27,2017-12-27,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-100.62,In
+2017-12-27,2017-12-27,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1400.0,In
+2017-12-27,2017-12-27,Transfer,Transfer from SERVICE CHECKING,CREDIT CARD,credit,1,-200.0,In
+2017-12-27,2017-12-27,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2017-12-27,2017-12-27,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-100.62,Out
+2017-12-27,2017-12-27,Transfer,Transfer to SERVICE CHECKING,CREDIT CARD,debit,1,-1400.0,Out
+2017-12-28,2017-12-28,Transfer,Capital One,CHECKING,debit,1,-1450.0,Out
+2018-01-02,2018-01-02,Transfer,Transfer from HOUSE,CHECKING,credit,1,-9.4,In
+2018-01-02,2018-01-02,Transfer,Transfer to FIVE STAR CHECKING,SAFETY NET,debit,1,-9.4,Out
+2018-01-04,2018-01-04,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-100.0,In
+2018-01-04,2018-01-04,Transfer,Transfer from 5 STAR SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-01-04,2018-01-04,Transfer,Transfer from 5 STAR SERVICE CHK,SAFETY NET,credit,1,-100.0,In
+2018-01-04,2018-01-04,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-150.0,In
+2018-01-04,2018-01-04,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-01-04,2018-01-04,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2018-01-04,2018-01-04,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-150.0,Out
+2018-01-04,2018-01-04,Transfer,Transfer to HOUSE,CHECKING,debit,1,-100.0,Out
+2018-01-08,2018-01-08,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-40.0,In
+2018-01-08,2018-01-08,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-40.0,Out
+2018-01-09,2018-01-09,Transfer,Transfer from BABY,CHECKING,credit,1,-150.0,In
+2018-01-09,2018-01-09,Transfer,Transfer to 5 STAR SERVICE CHK,EMERSYN,debit,1,-150.0,Out
+2018-01-10,2018-01-10,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-200.0,In
+2018-01-10,2018-01-10,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2018-01-16,2018-01-16,Transfer,Transfer from BABY,CHECKING,credit,1,-100.0,In
+2018-01-16,2018-01-16,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-110.0,In
+2018-01-16,2018-01-16,Transfer,Transfer from STAR CIV VISA CLASS,CHECKING,credit,1,-100.0,In
+2018-01-16,2018-01-16,Transfer,Transfer to 5 STAR SERVICE CHK,EMERSYN,debit,1,-100.0,Out
+2018-01-16,2018-01-16,Transfer,Transfer to 5 STAR SERVICE CHK,VISA STARTER,debit,1,-100.0,Out
+2018-01-16,2018-01-16,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-110.0,Out
+2018-01-18,2018-01-18,Transfer,Capital One,Venture,credit,1,-1600.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-150.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from 5 STAR SERVICE CHK,EMERSYN,credit,1,-700.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from 5 STAR SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from 5 STAR SERVICE CHK,SAFETY NET,credit,2,-315.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from 5 STAR SERVICE CHK,VISA STARTER,credit,1,-50.0,In
+2018-01-18,2018-01-18,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-900.73,In
+2018-01-18,2018-01-18,Transfer,Transfer to 5 STAR SERVICE CHK,CREDIT CARD,debit,1,-900.73,Out
+2018-01-18,2018-01-18,Transfer,Transfer to BABY,CHECKING,debit,1,-700.0,Out
+2018-01-18,2018-01-18,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-01-18,2018-01-18,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-150.0,Out
+2018-01-18,2018-01-18,Transfer,Transfer to HOUSE,CHECKING,debit,2,-315.0,Out
+2018-01-18,2018-01-18,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-50.0,Out
+2018-01-19,2018-01-19,Transfer,Capital One,CHECKING,debit,1,-1600.0,Out
+2018-01-22,2018-01-22,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-140.0,In
+2018-01-22,2018-01-22,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-140.0,Out
+2018-01-24,2018-01-24,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-100.0,In
+2018-01-24,2018-01-24,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-100.0,In
+2018-01-24,2018-01-24,Transfer,Transfer from HOUSE,VISA STARTER,credit,1,-72.0,In
+2018-01-24,2018-01-24,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-100.0,Out
+2018-01-24,2018-01-24,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-100.0,Out
+2018-01-24,2018-01-24,Transfer,Transfer to STAR CIV VISA CLASS,SAFETY NET,debit,1,-72.0,Out
+2018-01-26,2018-01-26,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-109.76,In
+2018-01-26,2018-01-26,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-109.76,Out
+2018-01-29,2018-01-29,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2018-01-29,2018-01-29,Transfer,Transfer to 5 STAR SERVICE CHK,SAFETY NET,debit,1,-100.0,Out
+2018-01-30,2018-01-30,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1500.0,In
+2018-01-30,2018-01-30,Transfer,Transfer to 5 STAR SERVICE CHK,MORTGAGE,debit,1,-1500.0,Out
+2018-02-01,2018-02-01,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-101.15,In
+2018-02-01,2018-02-01,Transfer,Transfer from 5 STAR SERVICE CHK,MORTGAGE,credit,1,-709.02,In
+2018-02-01,2018-02-01,Transfer,Transfer from 5 STAR SERVICE CHK,SAFETY NET,credit,1,-350.0,In
+2018-02-01,2018-02-01,Transfer,Transfer from CLUB SAVINGS,CREDIT CARD,credit,1,-80.0,In
+2018-02-01,2018-02-01,Transfer,Transfer from CLUB SAVINGS,EMERSYN,credit,1,-200.0,In
+2018-02-01,2018-02-01,Transfer,Transfer from CLUB SAVINGS,SAFETY NET,credit,1,-340.0,In
+2018-02-01,2018-02-01,Transfer,Transfer from HOUSE,CHECKING,credit,1,-194.5,In
+2018-02-01,2018-02-01,Transfer,Transfer to 5 STAR SERVICE CHK,SAFETY NET,debit,1,-194.5,Out
+2018-02-01,2018-02-01,Transfer,Transfer to BABY,MORTGAGE,debit,1,-200.0,Out
+2018-02-01,2018-02-01,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-709.02,Out
+2018-02-01,2018-02-01,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-101.15,Out
+2018-02-01,2018-02-01,Transfer,Transfer to CREDIT CARD,MORTGAGE,debit,1,-80.0,Out
+2018-02-01,2018-02-01,Transfer,Transfer to HOUSE,CHECKING,debit,1,-350.0,Out
+2018-02-01,2018-02-01,Transfer,Transfer to HOUSE,MORTGAGE,debit,1,-340.0,Out
+2018-02-05,2018-02-05,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,1,-120.0,In
+2018-02-05,2018-02-05,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-120.0,Out
+2018-02-15,2018-02-15,Transfer,Transfer from 5 STAR SERVICE CHK,CREDIT CARD,credit,2,-450.0,In
+2018-02-15,2018-02-15,Transfer,Transfer from 5 STAR SERVICE CHK,MORTGAGE,credit,1,-700.0,In
+2018-02-15,2018-02-15,Transfer,Transfer from 5 STAR SERVICE CHK,SAFETY NET,credit,1,-850.0,In
+2018-02-15,2018-02-15,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-250.0,In
+2018-02-15,2018-02-15,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-700.0,Out
+2018-02-15,2018-02-15,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-450.0,Out
+2018-02-15,2018-02-15,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-250.0,Out
+2018-02-15,2018-02-15,Transfer,Transfer to HOUSE,CHECKING,debit,1,-850.0,Out
+2018-02-21,2018-02-21,Transfer,Capital One,Venture,credit,1,-1600.0,In
+2018-02-21,2018-02-21,Transfer,Transfer from 5 STAR SERVICE CHK,SAFETY NET,credit,1,-5700.0,In
+2018-02-21,2018-02-21,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2018-02-21,2018-02-21,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1601.0,In
+2018-02-21,2018-02-21,Transfer,Transfer to 5 STAR SERVICE CHK,CREDIT CARD,debit,1,-1601.0,Out
+2018-02-21,2018-02-21,Transfer,Transfer to 5 STAR SERVICE CHK,MORTGAGE,debit,1,-1420.0,Out
+2018-02-21,2018-02-21,Transfer,Transfer to HOUSE,CHECKING,debit,1,-5700.0,Out
+2018-02-22,2018-02-22,Transfer,Capital One,CHECKING,debit,1,-1600.0,Out
+2018-02-22,2018-02-22,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-300.0,In
+2018-02-22,2018-02-22,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-400.0,In
+2018-02-22,2018-02-22,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-300.0,Out
+2018-02-22,2018-02-22,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-400.0,Out
+2018-02-23,2018-02-23,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-100.0,In
+2018-02-23,2018-02-23,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-100.0,Out
+2018-03-01,2018-03-01,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-200.0,In
+2018-03-01,2018-03-01,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-80.0,In
+2018-03-01,2018-03-01,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-03-01,2018-03-01,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-03-01,2018-03-01,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-80.0,Out
+2018-03-01,2018-03-01,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-200.0,Out
+2018-03-08,2018-03-08,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-1000.0,In
+2018-03-08,2018-03-08,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-1000.0,Out
+2018-03-15,2018-03-15,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-500.0,In
+2018-03-15,2018-03-15,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-480.0,In
+2018-03-15,2018-03-15,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-03-15,2018-03-15,Transfer,Transfer from HOUSE,CHECKING,credit,1,-200.0,In
+2018-03-15,2018-03-15,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-925.0,In
+2018-03-15,2018-03-15,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-200.0,Out
+2018-03-15,2018-03-15,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-03-15,2018-03-15,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-480.0,Out
+2018-03-15,2018-03-15,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-500.0,Out
+2018-03-15,2018-03-15,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-925.0,Out
+2018-03-17,2018-03-17,Transfer,Capital One,Venture,credit,1,-3735.0,In
+2018-03-19,2018-03-19,Transfer,Capital One,CHECKING,debit,1,-3735.0,Out
+2018-03-19,2018-03-19,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-3735.0,In
+2018-03-19,2018-03-19,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-3735.0,Out
+2018-03-21,2018-03-21,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-1000.0,In
+2018-03-21,2018-03-21,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-1000.0,Out
+2018-03-26,2018-03-26,Transfer,Transfer from HOUSE,CHECKING,credit,1,-50.0,In
+2018-03-26,2018-03-26,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-50.0,Out
+2018-03-27,2018-03-27,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-50.0,In
+2018-03-27,2018-03-27,Transfer,Transfer to HOUSE,CHECKING,debit,1,-50.0,Out
+2018-04-02,2018-04-02,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-1000.62,In
+2018-04-02,2018-04-02,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-1000.62,Out
+2018-04-05,2018-04-05,Transfer,Transfer,CREDIT CARD,credit,1,-200.0,In
+2018-04-05,2018-04-05,Transfer,Transfer,CREDIT CARD,debit,1,-200.0,Out
+2018-04-05,2018-04-05,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-200.0,In
+2018-04-05,2018-04-05,Transfer,Transfer from CREDIT CARD,SAFETY NET,credit,1,-150.0,In
+2018-04-05,2018-04-05,Transfer,Transfer to BABY,CHECKING,debit,1,-200.0,Out
+2018-04-05,2018-04-05,Transfer,Transfer to HOUSE,CREDIT CARD,debit,1,-150.0,Out
+2018-04-09,2018-04-09,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-101.02,In
+2018-04-09,2018-04-09,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-101.02,Out
+2018-04-16,2018-04-16,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-201.09,In
+2018-04-16,2018-04-16,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-400.0,In
+2018-04-16,2018-04-16,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-04-16,2018-04-16,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-41.0,In
+2018-04-16,2018-04-16,Transfer,Transfer from CLASSIC SERVICE CHK,VISA STARTER,credit,1,-27.48,In
+2018-04-16,2018-04-16,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2018-04-16,2018-04-16,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-100.0,Out
+2018-04-16,2018-04-16,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-04-16,2018-04-16,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2018-04-16,2018-04-16,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-201.09,Out
+2018-04-16,2018-04-16,Transfer,Transfer to HOUSE,CHECKING,debit,1,-41.0,Out
+2018-04-16,2018-04-16,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-27.48,Out
+2018-04-17,2018-04-17,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2018-04-17,2018-04-17,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-100.0,Out
+2018-04-24,2018-04-24,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-300.0,In
+2018-04-24,2018-04-24,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2018-04-25,2018-04-25,Transfer,Capital One,Venture,credit,1,-2900.0,In
+2018-04-25,2018-04-25,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.28,In
+2018-04-25,2018-04-25,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-2901.09,In
+2018-04-25,2018-04-25,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-2901.09,Out
+2018-04-25,2018-04-25,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1420.28,Out
+2018-04-26,2018-04-26,Transfer,Capital One,CHECKING,debit,1,-2900.0,Out
+2018-04-26,2018-04-26,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,2,-1180.0,In
+2018-04-26,2018-04-26,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-04-26,2018-04-26,Transfer,Transfer from HOUSE,CHECKING,credit,2,-350.0,In
+2018-04-26,2018-04-26,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-200.0,In
+2018-04-26,2018-04-26,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,2,-350.0,Out
+2018-04-26,2018-04-26,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-04-26,2018-04-26,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-1180.0,Out
+2018-04-26,2018-04-26,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-200.0,Out
+2018-04-30,2018-04-30,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-150.0,In
+2018-04-30,2018-04-30,Transfer,Transfer from CLASSIC SERVICE CHK,VISA STARTER,credit,1,-11.45,In
+2018-04-30,2018-04-30,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-150.0,Out
+2018-04-30,2018-04-30,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-11.45,Out
+2018-05-02,2018-05-02,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-74.17,In
+2018-05-02,2018-05-02,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-75.0,In
+2018-05-02,2018-05-02,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-44.0,In
+2018-05-02,2018-05-02,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-75.0,Out
+2018-05-02,2018-05-02,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-74.17,Out
+2018-05-02,2018-05-02,Transfer,Transfer to HOUSE,CHECKING,debit,1,-44.0,Out
+2018-05-04,2018-05-04,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-150.0,In
+2018-05-04,2018-05-04,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-150.0,Out
+2018-05-08,2018-05-08,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-100.0,In
+2018-05-08,2018-05-08,Transfer,Transfer from HOUSE,CHECKING,credit,2,-300.0,In
+2018-05-08,2018-05-08,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,2,-300.0,Out
+2018-05-08,2018-05-08,Transfer,Transfer to HOUSE,CHECKING,debit,1,-100.0,Out
+2018-05-10,2018-05-10,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,2,-370.0,In
+2018-05-10,2018-05-10,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-74.0,In
+2018-05-10,2018-05-10,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-710.0,In
+2018-05-10,2018-05-10,Transfer,Transfer to BABY,CHECKING,debit,1,-74.0,Out
+2018-05-10,2018-05-10,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-710.0,Out
+2018-05-10,2018-05-10,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-370.0,Out
+2018-05-15,2018-05-15,Transfer,Capital One,Venture,credit,1,-2200.0,In
+2018-05-15,2018-05-15,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-2199.51,In
+2018-05-15,2018-05-15,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-2199.51,Out
+2018-05-16,2018-05-16,Transfer,Capital One,CHECKING,debit,1,-2200.0,Out
+2018-05-16,2018-05-16,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-100.0,In
+2018-05-16,2018-05-16,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-100.0,Out
+2018-05-18,2018-05-18,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-300.0,In
+2018-05-18,2018-05-18,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2018-05-21,2018-05-21,Transfer,Transfer,EMERSYN,credit,1,-300.0,In
+2018-05-21,2018-05-21,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-400.0,In
+2018-05-21,2018-05-21,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-300.0,Out
+2018-05-21,2018-05-21,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-400.0,Out
+2018-05-24,2018-05-24,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-100.0,In
+2018-05-24,2018-05-24,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-200.0,In
+2018-05-24,2018-05-24,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-500.0,In
+2018-05-24,2018-05-24,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2018-05-24,2018-05-24,Transfer,Transfer from HOUSE,MORTGAGE,credit,1,-400.0,In
+2018-05-24,2018-05-24,Transfer,Transfer to BABY,CHECKING,debit,1,-200.0,Out
+2018-05-24,2018-05-24,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1420.0,Out
+2018-05-24,2018-05-24,Transfer,Transfer to CLUB SAVINGS,SAFETY NET,debit,1,-400.0,Out
+2018-05-24,2018-05-24,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2018-05-24,2018-05-24,Transfer,Transfer to HOUSE,CHECKING,debit,1,-500.0,Out
+2018-05-25,2018-05-25,Transfer,Transfer,CHECKING,debit,1,-10.0,Out
+2018-05-25,2018-05-25,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-05-25,2018-05-25,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-05-25,2018-05-25,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-05-31,2018-05-31,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-300.0,In
+2018-05-31,2018-05-31,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-200.0,In
+2018-05-31,2018-05-31,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-200.0,Out
+2018-05-31,2018-05-31,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2018-06-01,2018-06-01,Transfer,Transfer,CHECKING,debit,1,-10.0,Out
+2018-06-01,2018-06-01,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-06-05,2018-06-05,Transfer,Transfer from BABY,CHECKING,credit,1,-20.0,In
+2018-06-05,2018-06-05,Transfer,Transfer to CLASSIC SERVICE CHK,EMERSYN,debit,1,-20.0,Out
+2018-06-07,2018-06-07,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-200.0,In
+2018-06-07,2018-06-07,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-400.0,In
+2018-06-07,2018-06-07,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-400.0,Out
+2018-06-07,2018-06-07,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2018-06-08,2018-06-08,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-06-08,2018-06-08,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-06-08,2018-06-08,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-06-08,2018-06-08,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-06-11,2018-06-11,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-300.0,In
+2018-06-11,2018-06-11,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-300.0,Out
+2018-06-12,2018-06-12,Transfer,Capital One,Venture,credit,1,-1500.0,In
+2018-06-12,2018-06-12,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1500.21,In
+2018-06-12,2018-06-12,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1500.21,Out
+2018-06-13,2018-06-13,Transfer,Capital One,CHECKING,debit,1,-1500.0,Out
+2018-06-15,2018-06-15,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-06-15,2018-06-15,Transfer,Transfer from HOUSE,CHECKING,credit,1,-76.0,In
+2018-06-15,2018-06-15,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-06-15,2018-06-15,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-76.0,Out
+2018-06-18,2018-06-18,Transfer,Transfer from BABY,CHECKING,credit,1,-20.0,In
+2018-06-18,2018-06-18,Transfer,Transfer to CLASSIC SERVICE CHK,EMERSYN,debit,1,-20.0,Out
+2018-06-21,2018-06-21,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-620.0,In
+2018-06-21,2018-06-21,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-500.0,In
+2018-06-21,2018-06-21,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-620.0,Out
+2018-06-21,2018-06-21,Transfer,Transfer to HOUSE,CHECKING,debit,1,-500.0,Out
+2018-06-22,2018-06-22,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-175.0,In
+2018-06-22,2018-06-22,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-06-22,2018-06-22,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-06-22,2018-06-22,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-06-22,2018-06-22,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-175.0,Out
+2018-06-22,2018-06-22,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-06-25,2018-06-25,Transfer,Transfer from HOUSE,CHECKING,credit,1,-200.0,In
+2018-06-25,2018-06-25,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-200.0,Out
+2018-06-28,2018-06-28,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.0,In
+2018-06-28,2018-06-28,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1420.0,Out
+2018-06-29,2018-06-29,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-06-29,2018-06-29,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-07-02,2018-07-02,Transfer,Transfer from HOUSE,CHECKING,credit,1,-120.55,In
+2018-07-02,2018-07-02,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-3950.0,In
+2018-07-02,2018-07-02,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-120.55,Out
+2018-07-02,2018-07-02,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-3950.0,Out
+2018-07-03,2018-07-03,Transfer,Transfer from HOUSE,CHECKING,credit,1,-300.0,In
+2018-07-03,2018-07-03,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-300.0,Out
+2018-07-05,2018-07-05,Transfer,Transfer,CHECKING,debit,2,-760.0,Out
+2018-07-05,2018-07-05,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-150.0,In
+2018-07-05,2018-07-05,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-07-05,2018-07-05,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-300.0,In
+2018-07-05,2018-07-05,Transfer,Transfer to HOUSE,CHECKING,debit,1,-300.0,Out
+2018-07-06,2018-07-06,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-07-06,2018-07-06,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-07-06,2018-07-06,Transfer,Transfer from CREDIT CARD,SAFETY NET,credit,1,-2000.0,In
+2018-07-06,2018-07-06,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-07-06,2018-07-06,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-07-06,2018-07-06,Transfer,Transfer to HOUSE,CREDIT CARD,debit,1,-2000.0,Out
+2018-07-09,2018-07-09,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-150.0,In
+2018-07-09,2018-07-09,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-500.0,In
+2018-07-09,2018-07-09,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-500.0,Out
+2018-07-09,2018-07-09,Transfer,Transfer to HOUSE,CHECKING,debit,1,-150.0,Out
+2018-07-10,2018-07-10,Transfer,Capital One Mobile,Venture,credit,1,-4000.0,In
+2018-07-10,2018-07-10,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1000.0,In
+2018-07-10,2018-07-10,Transfer,Transfer from HOUSE,CHECKING,credit,1,-3000.0,In
+2018-07-10,2018-07-10,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1000.0,Out
+2018-07-10,2018-07-10,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-3000.0,Out
+2018-07-11,2018-07-11,Transfer,Capital One,CHECKING,debit,1,-4000.0,Out
+2018-07-12,2018-07-12,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-100.0,In
+2018-07-12,2018-07-12,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2018-07-13,2018-07-13,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-07-13,2018-07-13,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-07-16,2018-07-16,Transfer,Transfer from HOUSE,CHECKING,credit,1,-20.0,In
+2018-07-16,2018-07-16,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-20.0,Out
+2018-07-19,2018-07-19,Transfer,Transfer from BABY,CREDIT CARD,credit,1,-40.33,In
+2018-07-19,2018-07-19,Transfer,Transfer from CREDIT CARD,SAFETY NET,credit,1,-855.08,In
+2018-07-19,2018-07-19,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-40.33,Out
+2018-07-19,2018-07-19,Transfer,Transfer to HOUSE,CREDIT CARD,debit,1,-855.08,Out
+2018-07-20,2018-07-20,Transfer,Capital One,CHECKING,debit,1,-1795.86,Out
+2018-07-20,2018-07-20,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-07-20,2018-07-20,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-07-20,2018-07-20,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-07-20,2018-07-20,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-07-26,2018-07-26,Transfer,Capital One Mobile,Venture,credit,1,-300.0,In
+2018-07-27,2018-07-27,Transfer,Capital One,CHECKING,debit,1,-300.0,Out
+2018-07-27,2018-07-27,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-07-27,2018-07-27,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-01,2018-08-01,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1220.0,In
+2018-08-01,2018-08-01,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1220.0,Out
+2018-08-02,2018-08-02,Transfer,Capital One Mobile,Venture,credit,1,-200.0,In
+2018-08-02,2018-08-02,Transfer,Transfer from HOUSE,MORTGAGE,credit,1,-609.42,In
+2018-08-02,2018-08-02,Transfer,Transfer to CLUB SAVINGS,SAFETY NET,debit,1,-609.42,Out
+2018-08-03,2018-08-03,Transfer,Capital One,CHECKING,debit,1,-200.0,Out
+2018-08-03,2018-08-03,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-08-03,2018-08-03,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-08-03,2018-08-03,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-03,2018-08-03,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-08-09,2018-08-09,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-150.0,In
+2018-08-09,2018-08-09,Transfer,Transfer from HOUSE,VISA STARTER,credit,1,-15.0,In
+2018-08-09,2018-08-09,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-150.0,Out
+2018-08-09,2018-08-09,Transfer,Transfer to STAR CIV VISA CLASS,SAFETY NET,debit,1,-15.0,Out
+2018-08-10,2018-08-10,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-08-10,2018-08-10,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-14,2018-08-14,Transfer,Capital One Mobile,Venture,credit,1,-550.0,In
+2018-08-14,2018-08-14,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-190.0,In
+2018-08-14,2018-08-14,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-190.0,Out
+2018-08-15,2018-08-15,Transfer,Capital One,CHECKING,debit,1,-550.0,Out
+2018-08-16,2018-08-16,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-2000.0,In
+2018-08-16,2018-08-16,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-60.0,In
+2018-08-16,2018-08-16,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-08-16,2018-08-16,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-1700.0,In
+2018-08-16,2018-08-16,Transfer,Transfer to BABY,CHECKING,debit,1,-60.0,Out
+2018-08-16,2018-08-16,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-08-16,2018-08-16,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-2000.0,Out
+2018-08-16,2018-08-16,Transfer,Transfer to HOUSE,CHECKING,debit,1,-1700.0,Out
+2018-08-17,2018-08-17,Transfer,Transfer,CHECKING,debit,1,-10.0,Out
+2018-08-17,2018-08-17,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-08-17,2018-08-17,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-08-17,2018-08-17,Transfer,Transfer from HOUSE,CHECKING,credit,1,-700.0,In
+2018-08-17,2018-08-17,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-500.0,In
+2018-08-17,2018-08-17,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-17,2018-08-17,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-700.0,Out
+2018-08-17,2018-08-17,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-500.0,Out
+2018-08-17,2018-08-17,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-08-24,2018-08-24,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-08-24,2018-08-24,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-30,2018-08-30,Transfer,Transfer from BABY,CHECKING,credit,1,-610.0,In
+2018-08-30,2018-08-30,Transfer,Transfer to CLASSIC SERVICE CHK,EMERSYN,debit,1,-610.0,Out
+2018-08-31,2018-08-31,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-08-31,2018-08-31,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-08-31,2018-08-31,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-08-31,2018-08-31,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-09-07,2018-09-07,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-09-07,2018-09-07,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-09-10,2018-09-10,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-397.14,In
+2018-09-10,2018-09-10,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-397.14,Out
+2018-09-13,2018-09-13,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-09-13,2018-09-13,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-500.0,In
+2018-09-13,2018-09-13,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-09-13,2018-09-13,Transfer,Transfer to HOUSE,CHECKING,debit,1,-500.0,Out
+2018-09-14,2018-09-14,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-09-14,2018-09-14,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-09-14,2018-09-14,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-09-14,2018-09-14,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-09-17,2018-09-17,Transfer,Capital One Mobile,Venture,credit,1,-2200.0,In
+2018-09-17,2018-09-17,Transfer,Transfer from CLASSIC SERVICE CHK,VISA STARTER,credit,1,-41.93,In
+2018-09-17,2018-09-17,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-2700.0,In
+2018-09-17,2018-09-17,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-2700.0,Out
+2018-09-17,2018-09-17,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-41.93,Out
+2018-09-18,2018-09-18,Transfer,Capital One,CHECKING,debit,1,-2200.0,Out
+2018-09-21,2018-09-21,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-09-21,2018-09-21,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-09-27,2018-09-27,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-400.0,In
+2018-09-27,2018-09-27,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2018-09-28,2018-09-28,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-09-28,2018-09-28,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-09-28,2018-09-28,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-610.0,In
+2018-09-28,2018-09-28,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-09-28,2018-09-28,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-610.0,Out
+2018-09-28,2018-09-28,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-10-01,2018-10-01,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-968.14,In
+2018-10-01,2018-10-01,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-320.0,In
+2018-10-01,2018-10-01,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-968.14,Out
+2018-10-01,2018-10-01,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-320.0,Out
+2018-10-02,2018-10-02,Transfer,Capital One Mobile,Venture,credit,1,-950.0,In
+2018-10-03,2018-10-03,Transfer,Capital One,CHECKING,debit,1,-950.0,Out
+2018-10-05,2018-10-05,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-10-05,2018-10-05,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-10-09,2018-10-09,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-50.0,In
+2018-10-09,2018-10-09,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-50.0,Out
+2018-10-11,2018-10-11,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-350.0,In
+2018-10-11,2018-10-11,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-10-11,2018-10-11,Transfer,Transfer from CLASSIC SERVICE CHK,VISA STARTER,credit,1,-22.09,In
+2018-10-11,2018-10-11,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-10-11,2018-10-11,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-350.0,Out
+2018-10-11,2018-10-11,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-22.09,Out
+2018-10-12,2018-10-12,Transfer,Transfer,CHECKING,debit,1,-10.0,Out
+2018-10-12,2018-10-12,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-10-12,2018-10-12,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-10-12,2018-10-12,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-10-19,2018-10-19,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-10-19,2018-10-19,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-10-22,2018-10-22,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-400.0,In
+2018-10-22,2018-10-22,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2018-10-25,2018-10-25,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,2,-500.0,In
+2018-10-25,2018-10-25,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-10-25,2018-10-25,Transfer,Transfer from CLUB SAVINGS,CREDIT CARD,credit,1,-400.0,In
+2018-10-25,2018-10-25,Transfer,Transfer from CLUB SAVINGS,SAFETY NET,credit,1,-620.0,In
+2018-10-25,2018-10-25,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-10-25,2018-10-25,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-500.0,Out
+2018-10-25,2018-10-25,Transfer,Transfer to CREDIT CARD,MORTGAGE,debit,1,-400.0,Out
+2018-10-25,2018-10-25,Transfer,Transfer to HOUSE,MORTGAGE,debit,1,-620.0,Out
+2018-10-26,2018-10-26,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-10-26,2018-10-26,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-10-26,2018-10-26,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-10-26,2018-10-26,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-10-29,2018-10-29,Transfer,Capital One Mobile,Venture,credit,1,-2377.86,In
+2018-10-29,2018-10-29,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1700.0,In
+2018-10-29,2018-10-29,Transfer,Transfer from HOUSE,CHECKING,credit,1,-640.57,In
+2018-10-29,2018-10-29,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-1000.0,In
+2018-10-29,2018-10-29,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1700.0,Out
+2018-10-29,2018-10-29,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-640.57,Out
+2018-10-29,2018-10-29,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-1000.0,Out
+2018-10-30,2018-10-30,Transfer,Capital One,CHECKING,debit,1,-2377.86,Out
+2018-10-31,2018-10-31,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1420.4,In
+2018-10-31,2018-10-31,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1420.4,Out
+2018-11-02,2018-11-02,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-11-02,2018-11-02,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-11-05,2018-11-05,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-100.0,In
+2018-11-05,2018-11-05,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2018-11-06,2018-11-06,Transfer,Capital One,Venture,credit,1,-1100.0,In
+2018-11-06,2018-11-06,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1100.1,In
+2018-11-06,2018-11-06,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1100.1,Out
+2018-11-07,2018-11-07,Transfer,Capital One,CHECKING,debit,1,-1100.0,Out
+2018-11-08,2018-11-08,Transfer,Capital One,Venture,credit,1,-500.0,In
+2018-11-09,2018-11-09,Transfer,Capital One,CHECKING,debit,1,-500.0,Out
+2018-11-09,2018-11-09,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-11-09,2018-11-09,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-11-09,2018-11-09,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-11-09,2018-11-09,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-11-13,2018-11-13,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-100.0,In
+2018-11-13,2018-11-13,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,2,-909.75,In
+2018-11-13,2018-11-13,Transfer,Transfer from CLUB SAVINGS,CREDIT CARD,credit,1,-300.0,In
+2018-11-13,2018-11-13,Transfer,Transfer to BABY,CHECKING,debit,1,-100.0,Out
+2018-11-13,2018-11-13,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,2,-909.75,Out
+2018-11-13,2018-11-13,Transfer,Transfer to CREDIT CARD,MORTGAGE,debit,1,-300.0,Out
+2018-11-16,2018-11-16,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-11-16,2018-11-16,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-11-19,2018-11-19,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,2,-230.0,In
+2018-11-19,2018-11-19,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-230.0,Out
+2018-11-21,2018-11-21,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-800.0,In
+2018-11-21,2018-11-21,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-11-21,2018-11-21,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-11-21,2018-11-21,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-800.0,Out
+2018-11-23,2018-11-23,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-11-23,2018-11-23,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-11-23,2018-11-23,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-11-23,2018-11-23,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-11-26,2018-11-26,Transfer,Capital One,Venture,credit,1,-1330.0,In
+2018-11-26,2018-11-26,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1330.0,In
+2018-11-26,2018-11-26,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1330.0,Out
+2018-11-27,2018-11-27,Transfer,Capital One,CHECKING,debit,1,-1330.0,Out
+2018-11-30,2018-11-30,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-11-30,2018-11-30,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-12-03,2018-12-03,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-99.92,In
+2018-12-03,2018-12-03,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1220.11,In
+2018-12-03,2018-12-03,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1220.11,Out
+2018-12-03,2018-12-03,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-99.92,Out
+2018-12-06,2018-12-06,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-500.0,In
+2018-12-06,2018-12-06,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-12-06,2018-12-06,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2018-12-06,2018-12-06,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-500.0,Out
+2018-12-07,2018-12-07,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-12-07,2018-12-07,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-12-07,2018-12-07,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-12-07,2018-12-07,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-12-10,2018-12-10,Transfer,venmo,CHECKING,credit,1,-20.0,In
+2018-12-14,2018-12-14,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-12-14,2018-12-14,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-12-17,2018-12-17,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2018-12-17,2018-12-17,Transfer,Transfer from HOUSE,CREDIT CARD,credit,1,-339.24,In
+2018-12-17,2018-12-17,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-100.0,Out
+2018-12-17,2018-12-17,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-339.24,Out
+2018-12-20,2018-12-20,Transfer,Online Thank You,XXXXXXXXXX0290,credit,1,-44.19,In
+2018-12-20,2018-12-20,Transfer,Transfer,CHECKING,debit,2,-1065.0,Out
+2018-12-20,2018-12-20,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-455.0,In
+2018-12-20,2018-12-20,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2018-12-21,2018-12-21,Transfer,Share Share Transfer,CHECKING,debit,1,-350.0,Out
+2018-12-21,2018-12-21,Transfer,Share Share Transfer,TEXAS FUND,credit,1,-350.0,In
+2018-12-21,2018-12-21,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-12-21,2018-12-21,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2018-12-21,2018-12-21,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2018-12-21,2018-12-21,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2018-12-24,2018-12-24,Transfer,Amazon,CHECKING,debit,1,-44.19,Out
+2018-12-27,2018-12-27,Transfer,Capital One,Venture,credit,1,-1400.0,In
+2018-12-27,2018-12-27,Transfer,Transfer from CLUB SAVINGS,CHECKING,credit,1,-1220.0,In
+2018-12-27,2018-12-27,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1394.24,In
+2018-12-27,2018-12-27,Transfer,Transfer to CLASSIC SERVICE CHK,CREDIT CARD,debit,1,-1394.24,Out
+2018-12-27,2018-12-27,Transfer,Transfer to CLASSIC SERVICE CHK,MORTGAGE,debit,1,-1220.0,Out
+2018-12-28,2018-12-28,Transfer,Capital One,CHECKING,debit,1,-1400.0,Out
+2018-12-28,2018-12-28,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2018-12-28,2018-12-28,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2019-01-03,2019-01-03,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-200.0,In
+2019-01-03,2019-01-03,Transfer,Transfer from CLASSIC SERVICE CHK,TEXAS FUND,credit,1,-150.0,In
+2019-01-03,2019-01-03,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,2,-350.0,Out
+2019-01-04,2019-01-04,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2019-01-04,2019-01-04,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2019-01-04,2019-01-04,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2019-01-04,2019-01-04,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2019-01-07,2019-01-07,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-610.0,In
+2019-01-07,2019-01-07,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-610.0,Out
+2019-01-11,2019-01-11,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2019-01-11,2019-01-11,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2019-01-15,2019-01-15,Transfer,Transfer from HOUSE,CHECKING,credit,1,-100.0,In
+2019-01-15,2019-01-15,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-100.0,Out
+2019-01-16,2019-01-16,Transfer,Transfer from HOUSE,CHECKING,credit,1,-65.0,In
+2019-01-16,2019-01-16,Transfer,Transfer to CLASSIC SERVICE CHK,SAFETY NET,debit,1,-65.0,Out
+2019-01-17,2019-01-17,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-90.0,In
+2019-01-17,2019-01-17,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-41.92,In
+2019-01-17,2019-01-17,Transfer,Transfer from CLASSIC SERVICE CHK,TEXAS FUND,credit,1,-200.0,In
+2019-01-17,2019-01-17,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,2,-290.0,Out
+2019-01-17,2019-01-17,Transfer,Transfer to HOUSE,CHECKING,debit,1,-41.92,Out
+2019-01-18,2019-01-18,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-400.0,In
+2019-01-18,2019-01-18,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2019-01-18,2019-01-18,Transfer,Transfer from CLASSIC SERVICE CHK,MORTGAGE,credit,1,-220.0,In
+2019-01-18,2019-01-18,Transfer,Transfer from CLASSIC SERVICE CHK,SAFETY NET,credit,1,-10.0,In
+2019-01-18,2019-01-18,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2019-01-18,2019-01-18,Transfer,Transfer to CLUB SAVINGS,CHECKING,debit,1,-220.0,Out
+2019-01-18,2019-01-18,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2019-01-18,2019-01-18,Transfer,Transfer to HOUSE,CHECKING,debit,1,-10.0,Out
+2019-01-21,2019-01-21,Transfer,Transfer from CLASSIC SERVICE CHK,Venture,credit,1,-60.0,In
+2019-01-22,2019-01-22,Transfer,Online Thank You,XXXXXXXXXX0290,credit,1,-203.0,In
+2019-01-22,2019-01-22,Transfer,Transfer from CLASSIC SERVICE CHK,CREDIT CARD,credit,1,-220.0,In
+2019-01-22,2019-01-22,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-220.0,Out
+2019-01-22,2019-01-22,Transfer,Transfer to Venture,CHECKING,debit,1,-60.0,Out
+2019-01-24,2019-01-24,Transfer,Amazon,CHECKING,debit,1,-203.0,Out
+2019-01-25,2019-01-25,Transfer,Transfer from CLASSIC SERVICE CHK,EMERSYN,credit,1,-10.0,In
+2019-01-25,2019-01-25,Transfer,Transfer to BABY,CHECKING,debit,1,-10.0,Out
+2019-01-28,2019-01-28,Transfer,Capital One,Venture,credit,1,-2800.0,In
+2019-01-28,2019-01-28,Transfer,Transfer from CREDIT CARD,CHECKING,credit,2,-1907.94,In
+2019-01-28,2019-01-28,Transfer,Transfer from EMERSYN,CREDIT CARD,credit,1,-296.28,In
+2019-01-28,2019-01-28,Transfer,Transfer from SAFETY NET,CHECKING,credit,1,-900.0,In
+2019-01-28,2019-01-28,Transfer,Transfer from SAFETY NET,CREDIT CARD,credit,1,-511.0,In
+2019-01-28,2019-01-28,Transfer,Transfer from TEXAS FUND,CREDIT CARD,credit,1,-250.03,In
+2019-01-28,2019-01-28,Transfer,Transfer to CHECKING,CREDIT CARD,debit,2,-1907.94,Out
+2019-01-28,2019-01-28,Transfer,Transfer to CHECKING,SAFETY NET,debit,1,-900.0,Out
+2019-01-28,2019-01-28,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-296.28,Out
+2019-01-28,2019-01-28,Transfer,Transfer to CREDIT CARD,SAFETY NET,debit,1,-511.0,Out
+2019-01-28,2019-01-28,Transfer,Transfer to CREDIT CARD,TEXAS FUND,debit,1,-250.03,Out
+2019-01-29,2019-01-29,Transfer,Capital One,CHECKING,debit,1,-2800.0,Out
+2019-01-29,2019-01-29,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-700.0,In
+2019-01-29,2019-01-29,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-40.0,In
+2019-01-29,2019-01-29,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-40.0,Out
+2019-01-29,2019-01-29,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-700.0,Out
+2019-01-30,2019-01-30,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-200.0,In
+2019-01-30,2019-01-30,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-200.0,Out
+2019-01-31,2019-01-31,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-300.0,In
+2019-01-31,2019-01-31,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-500.0,In
+2019-01-31,2019-01-31,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-1380.1,In
+2019-01-31,2019-01-31,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-1380.1,Out
+2019-01-31,2019-01-31,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-300.0,Out
+2019-01-31,2019-01-31,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-500.0,Out
+2019-02-01,2019-02-01,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-02-01,2019-02-01,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-02-01,2019-02-01,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-02-01,2019-02-01,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-02-08,2019-02-08,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-02-08,2019-02-08,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-02-12,2019-02-12,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-180.0,In
+2019-02-12,2019-02-12,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-180.0,Out
+2019-02-14,2019-02-14,Transfer,Transfer from CHECKING,CREDIT CARD,credit,2,-600.0,In
+2019-02-14,2019-02-14,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-620.0,In
+2019-02-14,2019-02-14,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-200.0,In
+2019-02-14,2019-02-14,Transfer,Transfer to CREDIT CARD,CHECKING,debit,2,-600.0,Out
+2019-02-14,2019-02-14,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-620.0,Out
+2019-02-14,2019-02-14,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-200.0,Out
+2019-02-15,2019-02-15,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-02-15,2019-02-15,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-02-15,2019-02-15,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-02-15,2019-02-15,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-02-22,2019-02-22,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-02-22,2019-02-22,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-02-25,2019-02-25,Transfer,Transfer from EMERSYN,CHECKING,credit,1,-20.0,In
+2019-02-25,2019-02-25,Transfer,Transfer from SAFETY NET,CHECKING,credit,1,-100.0,In
+2019-02-25,2019-02-25,Transfer,Transfer to CHECKING,EMERSYN,debit,1,-20.0,Out
+2019-02-25,2019-02-25,Transfer,Transfer to CHECKING,SAFETY NET,debit,1,-100.0,Out
+2019-02-26,2019-02-26,Transfer,Online Thank You,XXXXXXXXXX0290,credit,1,-334.97,In
+2019-02-26,2019-02-26,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-1500.0,In
+2019-02-26,2019-02-26,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-1220.0,In
+2019-02-26,2019-02-26,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-1000.0,In
+2019-02-26,2019-02-26,Transfer,Transfer from CHECKING,TEXAS FUND,credit,2,-1400.0,In
+2019-02-26,2019-02-26,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-1500.0,Out
+2019-02-26,2019-02-26,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-1220.0,Out
+2019-02-26,2019-02-26,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-1000.0,Out
+2019-02-26,2019-02-26,Transfer,Transfer to TEXAS FUND,CHECKING,debit,2,-1400.0,Out
+2019-02-27,2019-02-27,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-700.0,In
+2019-02-27,2019-02-27,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-1220.0,In
+2019-02-27,2019-02-27,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-1220.0,Out
+2019-02-27,2019-02-27,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-700.0,Out
+2019-02-28,2019-02-28,Transfer,Amazon,CHECKING,debit,1,-334.97,Out
+2019-02-28,2019-02-28,Transfer,Capital One,CHECKING,debit,1,-2922.65,Out
+2019-02-28,2019-02-28,Transfer,Capital One,Venture,credit,1,-2922.65,In
+2019-02-28,2019-02-28,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-610.0,In
+2019-02-28,2019-02-28,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-2900.05,In
+2019-02-28,2019-02-28,Transfer,Transfer to CHECKING,CREDIT CARD,debit,1,-2900.05,Out
+2019-02-28,2019-02-28,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-610.0,Out
+2019-03-01,2019-03-01,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-03-01,2019-03-01,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-03-01,2019-03-01,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-03-01,2019-03-01,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-03-04,2019-03-04,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-499.93,In
+2019-03-04,2019-03-04,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-499.93,Out
+2019-03-07,2019-03-07,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-400.0,In
+2019-03-07,2019-03-07,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-470.0,In
+2019-03-07,2019-03-07,Transfer,Transfer from CHECKING,TEXAS FUND,credit,1,-400.0,In
+2019-03-07,2019-03-07,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-400.0,Out
+2019-03-07,2019-03-07,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-470.0,Out
+2019-03-07,2019-03-07,Transfer,Transfer to TEXAS FUND,CHECKING,debit,1,-400.0,Out
+2019-03-08,2019-03-08,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-03-08,2019-03-08,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-03-14,2019-03-14,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-500.0,In
+2019-03-14,2019-03-14,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-610.0,In
+2019-03-14,2019-03-14,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-500.0,Out
+2019-03-14,2019-03-14,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-610.0,Out
+2019-03-15,2019-03-15,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-03-15,2019-03-15,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-03-15,2019-03-15,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-03-15,2019-03-15,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-03-21,2019-03-21,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-200.0,In
+2019-03-21,2019-03-21,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2019-03-22,2019-03-22,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-03-22,2019-03-22,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-03-23,2019-03-23,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-150.0,In
+2019-03-25,2019-03-25,Transfer,Amazon,CHECKING,debit,1,-150.0,Out
+2019-03-26,2019-03-26,Transfer,Capital One,Venture,credit,1,-1200.0,In
+2019-03-26,2019-03-26,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1200.0,In
+2019-03-26,2019-03-26,Transfer,Transfer from SAFETY NET,CHECKING,credit,1,-75.0,In
+2019-03-26,2019-03-26,Transfer,Transfer to CHECKING,CREDIT CARD,debit,1,-1200.0,Out
+2019-03-26,2019-03-26,Transfer,Transfer to CHECKING,SAFETY NET,debit,1,-75.0,Out
+2019-03-27,2019-03-27,Transfer,Capital One,CHECKING,debit,1,-1200.0,Out
+2019-03-28,2019-03-28,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-200.0,In
+2019-03-28,2019-03-28,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-610.0,In
+2019-03-28,2019-03-28,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-250.0,In
+2019-03-28,2019-03-28,Transfer,Transfer from CHECKING,TEXAS FUND,credit,1,-300.0,In
+2019-03-28,2019-03-28,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-200.0,Out
+2019-03-28,2019-03-28,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-610.0,Out
+2019-03-28,2019-03-28,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-250.0,Out
+2019-03-28,2019-03-28,Transfer,Transfer to TEXAS FUND,CHECKING,debit,1,-300.0,Out
+2019-03-29,2019-03-29,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-03-29,2019-03-29,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-03-29,2019-03-29,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-1220.0,In
+2019-03-29,2019-03-29,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-1220.0,Out
+2019-03-29,2019-03-29,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-03-29,2019-03-29,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-04-01,2019-04-01,Transfer,Transfer from MORTGAGE,CREDIT CARD,credit,1,-230.0,In
+2019-04-01,2019-04-01,Transfer,Transfer to CREDIT CARD,MORTGAGE,debit,1,-230.0,Out
+2019-04-04,2019-04-04,Transfer,Transfer from EMERSYN,CREDIT CARD,credit,1,-100.96,In
+2019-04-04,2019-04-04,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-100.96,Out
+2019-04-05,2019-04-05,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-04-05,2019-04-05,Transfer,Transfer from EMERSYN,CHECKING,credit,1,-150.0,In
+2019-04-05,2019-04-05,Transfer,Transfer to CHECKING,EMERSYN,debit,1,-150.0,Out
+2019-04-05,2019-04-05,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-04-09,2019-04-09,Transfer,Deposit,CHECKING,credit,1,-7889.0,In
+2019-04-11,2019-04-11,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-600.0,In
+2019-04-11,2019-04-11,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-600.0,Out
+2019-04-12,2019-04-12,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-04-12,2019-04-12,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-04-12,2019-04-12,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-04-12,2019-04-12,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-04-15,2019-04-15,Transfer,FEDLOANSERVICING DESC: STDNT LOAN,CHECKING,debit,1,-7889.0,Out
+2019-04-15,2019-04-15,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-400.0,In
+2019-04-15,2019-04-15,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2019-04-16,2019-04-16,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-206.33,In
+2019-04-16,2019-04-16,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-100.0,In
+2019-04-16,2019-04-16,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2019-04-17,2019-04-17,Transfer,Amazon,CHECKING,debit,1,-206.33,Out
+2019-04-19,2019-04-19,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-04-19,2019-04-19,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-04-25,2019-04-25,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-100.0,In
+2019-04-25,2019-04-25,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-260.0,In
+2019-04-25,2019-04-25,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-600.0,In
+2019-04-25,2019-04-25,Transfer,Transfer from CHECKING,VISA STARTER,credit,1,-23.25,In
+2019-04-25,2019-04-25,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-260.0,Out
+2019-04-25,2019-04-25,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-600.0,Out
+2019-04-25,2019-04-25,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-23.25,Out
+2019-04-26,2019-04-26,Transfer,Amazon,CHECKING,debit,1,-100.0,Out
+2019-04-26,2019-04-26,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-04-26,2019-04-26,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-04-26,2019-04-26,Transfer,Transfer from CHECKING,VISA STARTER,credit,1,-35.0,In
+2019-04-26,2019-04-26,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-04-26,2019-04-26,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-04-26,2019-04-26,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-35.0,Out
+2019-04-29,2019-04-29,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1801.07,In
+2019-04-29,2019-04-29,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-1220.0,In
+2019-04-29,2019-04-29,Transfer,Transfer to CHECKING,CREDIT CARD,debit,1,-1801.07,Out
+2019-04-29,2019-04-29,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-1220.0,Out
+2019-05-01,2019-05-01,Transfer,Capital One,Venture,credit,1,-1820.0,In
+2019-05-01,2019-05-01,Transfer,Transfer from CHECKING,TEXAS FUND,credit,1,-199.02,In
+2019-05-01,2019-05-01,Transfer,Transfer to TEXAS FUND,CHECKING,debit,1,-199.02,Out
+2019-05-02,2019-05-02,Transfer,Capital One,CHECKING,debit,1,-1820.0,Out
+2019-05-03,2019-05-03,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-05-03,2019-05-03,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-05-09,2019-05-09,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-112.51,In
+2019-05-09,2019-05-09,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-585.0,In
+2019-05-09,2019-05-09,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-600.0,In
+2019-05-09,2019-05-09,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-585.0,Out
+2019-05-09,2019-05-09,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-600.0,Out
+2019-05-10,2019-05-10,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-05-10,2019-05-10,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-05-10,2019-05-10,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-05-10,2019-05-10,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-05-13,2019-05-13,Transfer,Amazon,CHECKING,debit,1,-112.51,Out
+2019-05-14,2019-05-14,Transfer,Transfer from CHECKING,VISA STARTER,credit,1,-15.0,In
+2019-05-14,2019-05-14,Transfer,Transfer from EMERSYN,CREDIT CARD,credit,1,-60.37,In
+2019-05-14,2019-05-14,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-60.37,Out
+2019-05-14,2019-05-14,Transfer,Transfer to STAR CIV VISA CLASS,CHECKING,debit,1,-15.0,Out
+2019-05-17,2019-05-17,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-05-17,2019-05-17,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-05-20,2019-05-20,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-140.0,In
+2019-05-20,2019-05-20,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-140.0,Out
+2019-05-21,2019-05-21,Transfer,Transfer from EMERSYN,CREDIT CARD,credit,1,-110.0,In
+2019-05-21,2019-05-21,Transfer,Transfer from SAFETY NET,CHECKING,credit,1,-80.0,In
+2019-05-21,2019-05-21,Transfer,Transfer to CHECKING,SAFETY NET,debit,1,-80.0,Out
+2019-05-21,2019-05-21,Transfer,Transfer to CREDIT CARD,EMERSYN,debit,1,-110.0,Out
+2019-05-23,2019-05-23,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-400.0,In
+2019-05-23,2019-05-23,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-610.0,In
+2019-05-23,2019-05-23,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-400.0,Out
+2019-05-23,2019-05-23,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-610.0,Out
+2019-05-24,2019-05-24,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-05-24,2019-05-24,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-05-24,2019-05-24,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-05-24,2019-05-24,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-05-28,2019-05-28,Transfer,Venmo,CHECKING,debit,1,-23.0,Out
+2019-05-30,2019-05-30,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-100.0,In
+2019-05-30,2019-05-30,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-1220.0,In
+2019-05-30,2019-05-30,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-1220.0,Out
+2019-05-30,2019-05-30,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-100.0,Out
+2019-05-30,2019-05-30,Transfer,Venmo,CHECKING,debit,1,-20.0,Out
+2019-05-31,2019-05-31,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-05-31,2019-05-31,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-06-03,2019-06-03,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-121.32,In
+2019-06-03,2019-06-03,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-121.32,Out
+2019-06-06,2019-06-06,Transfer,Transfer from CHECKING,CREDIT CARD,credit,1,-500.0,In
+2019-06-06,2019-06-06,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-250.0,In
+2019-06-06,2019-06-06,Transfer,Transfer from CHECKING,MORTGAGE,credit,1,-610.0,In
+2019-06-06,2019-06-06,Transfer,Transfer from CHECKING,TEXAS FUND,credit,1,-100.0,In
+2019-06-06,2019-06-06,Transfer,Transfer to CREDIT CARD,CHECKING,debit,1,-500.0,Out
+2019-06-06,2019-06-06,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-250.0,Out
+2019-06-06,2019-06-06,Transfer,Transfer to MORTGAGE,CHECKING,debit,1,-610.0,Out
+2019-06-06,2019-06-06,Transfer,Transfer to TEXAS FUND,CHECKING,debit,1,-100.0,Out
+2019-06-07,2019-06-07,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-06-07,2019-06-07,Transfer,Transfer from CHECKING,SAFETY NET,credit,1,-10.0,In
+2019-06-07,2019-06-07,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-06-07,2019-06-07,Transfer,Transfer to SAFETY NET,CHECKING,debit,1,-10.0,Out
+2019-06-11,2019-06-11,Transfer,CAPITAL ONE MOBILE payment AuthDate 11-J un,Venture,credit,1,-2000.0,In
+2019-06-11,2019-06-11,Transfer,Transfer from CREDIT CARD,CHECKING,credit,1,-1995.67,In
+2019-06-11,2019-06-11,Transfer,Transfer to CHECKING,CREDIT CARD,debit,1,-1995.67,Out
+2019-06-12,2019-06-12,Transfer,Capital One,CHECKING,debit,1,-2000.0,Out
+2019-06-12,2019-06-12,Transfer,Transfer from MORTGAGE,CHECKING,credit,1,-60.0,In
+2019-06-12,2019-06-12,Transfer,Transfer to CHECKING,MORTGAGE,debit,1,-60.0,Out
+2019-06-14,2019-06-14,Transfer,Transfer from CHECKING,EMERSYN,credit,1,-10.0,In
+2019-06-14,2019-06-14,Transfer,Transfer from EMERSYN,CHECKING,credit,1,-90.0,In
+2019-06-14,2019-06-14,Transfer,Transfer to CHECKING,EMERSYN,debit,1,-90.0,Out
+2019-06-14,2019-06-14,Transfer,Transfer to EMERSYN,CHECKING,debit,1,-10.0,Out
+2019-06-17,2019-06-17,Transfer,Transfer from 28931229-00S 06/17/2019 07:58 651293,CHECKING,credit,1,-126.44,In
+2019-06-17,2019-06-17,Transfer,Transfer to 28931229-09S 06/17/2019 07:58 651293,SAFETY NET,debit,1,-126.44,Out
+2019-06-17,2019-06-17,Transfer,Venmo,CHECKING,debit,1,-28.0,Out
+2019-06-19,2019-06-19,Transfer,Transfer from 28931229-00S 06/19/2019 09:27 679263,CHECKING,credit,1,-20.0,In
+2019-06-19,2019-06-19,Transfer,Transfer to 28931229-09S 06/19/2019 09:27 679263,SAFETY NET,debit,1,-20.0,Out
+2019-06-20,2019-06-20,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-100.0,In
+2019-06-20,2019-06-20,Transfer,Transfer from 28931229-09S 06/20/2019 07:24 692974,MORTGAGE,credit,1,-600.0,In
+2019-06-20,2019-06-20,Transfer,Transfer from 28931229-09S 06/20/2019 07:25 692983,CREDIT CARD,credit,1,-750.0,In
+2019-06-20,2019-06-20,Transfer,Transfer from 28931229-09S 06/20/2019 07:25 692992,SAFETY NET,credit,1,-20.0,In
+2019-06-20,2019-06-20,Transfer,Transfer from 28931229-09S 06/20/2019 07:28 693034,CREDIT CARD,credit,1,-200.0,In
+2019-06-20,2019-06-20,Transfer,Transfer to 28931229-00S 06/20/2019 07:25 692992,CHECKING,debit,1,-20.0,Out
+2019-06-20,2019-06-20,Transfer,Transfer to 28931229-02S 06/20/2019 07:25 692983,CHECKING,debit,1,-750.0,Out
+2019-06-20,2019-06-20,Transfer,Transfer to 28931229-02S 06/20/2019 07:28 693034,CHECKING,debit,1,-200.0,Out
+2019-06-20,2019-06-20,Transfer,Transfer to 28931229-04S 06/20/2019 07:24 692974,CHECKING,debit,1,-600.0,Out
+2019-06-21,2019-06-21,Transfer,Share Deposit,CLUB SAVINGS,credit,1,-10.0,In
+2019-06-21,2019-06-21,Transfer,Share Withdrawal,CHECKING,debit,1,-10.0,Out
+2019-06-21,2019-06-21,Transfer,Transfer from 28931229-09S 06/21/2019 16:10 714910,EMERSYN,credit,1,-10.0,In
+2019-06-21,2019-06-21,Transfer,Transfer from 28931229-09S 06/21/2019 16:43 715552,SAFETY NET,credit,1,-10.0,In
+2019-06-21,2019-06-21,Transfer,Transfer to 28931229-00S 06/21/2019 16:43 715552,CHECKING,debit,1,-10.0,Out
+2019-06-21,2019-06-21,Transfer,Transfer to 28931229-03S 06/21/2019 16:10 714910,CHECKING,debit,1,-10.0,Out
+2019-06-24,2019-06-24,Transfer,Amazon,CHECKING,debit,1,-100.0,Out
+2019-06-28,2019-06-28,Transfer,Transfer from 28931229-09S 06/28/2019 16:10 816047,EMERSYN,credit,1,-10.0,In
+2019-06-28,2019-06-28,Transfer,Transfer to 28931229-03S 06/28/2019 16:10 816047,CHECKING,debit,1,-10.0,Out
+2019-07-01,2019-07-01,Transfer,Transfer from 28931229-04S 06/30/2019 09:12 836873,CHECKING,credit,1,-1220.0,In
+2019-07-01,2019-07-01,Transfer,Transfer from 28931229-04S 06/30/2019 09:12 836881,CREDIT CARD,credit,1,-180.0,In
+2019-07-01,2019-07-01,Transfer,Transfer to 28931229-02S 06/30/2019 09:12 836881,MORTGAGE,debit,1,-180.0,Out
+2019-07-01,2019-07-01,Transfer,Transfer to 28931229-09S 06/30/2019 09:12 836873,MORTGAGE,debit,1,-1220.0,Out
+2019-07-02,2019-07-02,Transfer,Transfer from 28931229-00S 07/02/2019 16:22 881552,CHECKING,credit,1,-50.0,In
+2019-07-02,2019-07-02,Transfer,Transfer to 28931229-09S 07/02/2019 16:22 881552,SAFETY NET,debit,1,-50.0,Out
+2019-07-03,2019-07-03,Transfer,Transfer from 28931229-09S 07/03/2019 08:48 893223,SAFETY NET,credit,1,-50.0,In
+2019-07-03,2019-07-03,Transfer,Transfer from 28931229-09S 07/03/2019 20:36 906445,MORTGAGE,credit,1,-610.0,In
+2019-07-03,2019-07-03,Transfer,Transfer from 28931229-09S 07/03/2019 20:37 906457,CREDIT CARD,credit,1,-600.0,In
+2019-07-03,2019-07-03,Transfer,Transfer to 28931229-00S 07/03/2019 08:48 893223,CHECKING,debit,1,-50.0,Out
+2019-07-03,2019-07-03,Transfer,Transfer to 28931229-02S 07/03/2019 20:37 906457,CHECKING,debit,1,-600.0,Out
+2019-07-03,2019-07-03,Transfer,Transfer to 28931229-04S 07/03/2019 20:36 906445,CHECKING,debit,1,-610.0,Out
+2019-07-05,2019-07-05,Transfer,Transfer from 28931229-09S 07/05/2019 16:10 928150,EMERSYN,credit,1,-10.0,In
+2019-07-05,2019-07-05,Transfer,Transfer from 28931229-09S 07/05/2019 16:43 928943,SAFETY NET,credit,1,-10.0,In
+2019-07-05,2019-07-05,Transfer,Transfer to 28931229-00S 07/05/2019 16:43 928943,CHECKING,debit,1,-10.0,Out
+2019-07-05,2019-07-05,Transfer,Transfer to 28931229-03S 07/05/2019 16:10 928150,CHECKING,debit,1,-10.0,Out
+2019-07-08,2019-07-08,Transfer,Transfer from 28931229-09S 07/08/2019 13:17 960276,CREDIT CARD,credit,1,-100.0,In
+2019-07-08,2019-07-08,Transfer,Transfer to 28931229-02S 07/08/2019 13:17 960276,CHECKING,debit,1,-100.0,Out
+2019-07-09,2019-07-09,Transfer,Amazon,SAFETY NET,debit,1,-1320.0,Out
+2019-07-09,2019-07-09,Transfer,ONLINE payment-THANK YOU ATLANTA GA,XXXXXXXXXX0290,credit,1,-1319.61,In
+2019-07-09,2019-07-09,Transfer,Transfer from 28931229-00S 07/09/2019 09:51 971529-Amazon credit payoff,CHECKING,credit,1,-1320.0,In
+2019-07-09,2019-07-09,Transfer,Transfer from 28931229-04S 07/09/2019 20:21 980196,CHECKING,credit,1,-692.0,In
+2019-07-09,2019-07-09,Transfer,Transfer to 28931229-09S 07/09/2019 20:21 980196,MORTGAGE,debit,1,-692.0,Out
+2019-07-10,2019-07-10,Transfer,Venmo,CHECKING,debit,1,-11.0,Out
+2019-07-11,2019-07-11,Transfer,Amazon,CHECKING,debit,1,-1319.61,Out
+2019-07-11,2019-07-11,Transfer,Transfer from 28931229-04S 07/11/2019 19:16 16095,CHECKING,credit,1,-218.32,In
+2019-07-11,2019-07-11,Transfer,Transfer to 28931229-09S 07/11/2019 19:16 16095,MORTGAGE,debit,1,-218.32,Out
+2019-07-12,2019-07-12,Transfer,Transfer from 28931229-09S 07/12/2019 16:10 28860,EMERSYN,credit,1,-10.0,In
+2019-07-12,2019-07-12,Transfer,Transfer to 28931229-03S 07/12/2019 16:10 28860,CHECKING,debit,1,-10.0,Out
+2019-07-15,2019-07-15,Transfer,Transfer from 28931229-02S 07/14/2019 19:07 52347,CHECKING,credit,1,-130.0,In
+2019-07-15,2019-07-15,Transfer,Transfer from 28931229-03S 07/15/2019 10:52 58794,CHECKING,credit,1,-40.75,In
+2019-07-15,2019-07-15,Transfer,Transfer from 28931229-09S 07/14/2019 19:06 52339,CREDIT CARD,credit,1,-200.0,In
+2019-07-15,2019-07-15,Transfer,Transfer from 28931229-09S 07/14/2019 20:54 53124,MORTGAGE,credit,1,-600.0,In
+2019-07-15,2019-07-15,Transfer,Transfer to 28931229-02S 07/14/2019 19:06 52339,CHECKING,debit,1,-200.0,Out
+2019-07-15,2019-07-15,Transfer,Transfer to 28931229-04S 07/14/2019 20:54 53124,CHECKING,debit,1,-600.0,Out
+2019-07-15,2019-07-15,Transfer,Transfer to 28931229-09S 07/14/2019 19:07 52347,CREDIT CARD,debit,1,-130.0,Out
+2019-07-15,2019-07-15,Transfer,Transfer to 28931229-09S 07/15/2019 10:52 58794,EMERSYN,debit,1,-40.75,Out
+2019-07-18,2019-07-18,Transfer,CAPITAL ONE MOBILE payment AuthDate 18-J ul,Venture,credit,1,-3000.0,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-00S 07/18/2019 15:20 108007,CREDIT CARD,credit,1,-79.9,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-02S 07/18/2019 14:28 107396,CHECKING,credit,1,-3000.0,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-05S 07/18/2019 15:20 108001,CREDIT CARD,credit,1,-129.08,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-09S 07/18/2019 14:11 107180,MORTGAGE,credit,1,-220.0,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-09S 07/18/2019 14:12 107189,CREDIT CARD,credit,1,-1128.0,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-09S 07/18/2019 14:13 107195,TEXAS FUND,credit,1,-1128.0,In
+2019-07-18,2019-07-18,Transfer,Transfer from 28931229-09S 07/18/2019 15:21 108016,CREDIT CARD,credit,1,-150.0,In
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-02S 07/18/2019 14:12 107189,CHECKING,debit,1,-1128.0,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-02S 07/18/2019 15:20 108001,TEXAS FUND,debit,1,-129.08,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-02S 07/18/2019 15:20 108007,SAFETY NET,debit,1,-79.9,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-02S 07/18/2019 15:21 108016,CHECKING,debit,1,-150.0,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-04S 07/18/2019 14:11 107180,CHECKING,debit,1,-220.0,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-05S 07/18/2019 14:13 107195,CHECKING,debit,1,-1128.0,Out
+2019-07-18,2019-07-18,Transfer,Transfer to 28931229-09S 07/18/2019 14:28 107396,CREDIT CARD,debit,1,-3000.0,Out
+2019-07-19,2019-07-19,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-3000.0,Out
+2019-07-19,2019-07-19,Transfer,Transfer from 28931229-09S 07/19/2019 16:10 122203,EMERSYN,credit,1,-10.0,In
+2019-07-19,2019-07-19,Transfer,Transfer from 28931229-09S 07/19/2019 16:43 122844,SAFETY NET,credit,1,-10.0,In
+2019-07-19,2019-07-19,Transfer,Transfer to 28931229-00S 07/19/2019 16:43 122844,CHECKING,debit,1,-10.0,Out
+2019-07-19,2019-07-19,Transfer,Transfer to 28931229-03S 07/19/2019 16:10 122203,CHECKING,debit,1,-10.0,Out
+2019-07-24,2019-07-24,Transfer,Transfer from 28931229-09S 07/24/2019 09:59 172789,CREDIT CARD,credit,1,-156.71,In
+2019-07-24,2019-07-24,Transfer,Transfer to 28931229-02S 07/24/2019 09:59 172789,CHECKING,debit,1,-156.71,Out
+2019-07-25,2019-07-25,Transfer,Transfer from 28931229-00S 07/25/2019 10:50 187083,CREDIT CARD,credit,1,-500.0,In
+2019-07-25,2019-07-25,Transfer,Transfer from 28931229-09S 07/25/2019 12:57 188790,CREDIT CARD,credit,1,-125.0,In
+2019-07-25,2019-07-25,Transfer,Transfer to 28931229-02S 07/25/2019 10:50 187083,SAFETY NET,debit,1,-500.0,Out
+2019-07-25,2019-07-25,Transfer,Transfer to 28931229-02S 07/25/2019 12:57 188790,CHECKING,debit,1,-125.0,Out
+2019-07-26,2019-07-26,Transfer,Transfer from 28931229-09S 07/26/2019 16:10 203384,EMERSYN,credit,1,-10.0,In
+2019-07-26,2019-07-26,Transfer,Transfer to 28931229-03S 07/26/2019 16:10 203384,CHECKING,debit,1,-10.0,Out
+2019-07-29,2019-07-29,Transfer,Transfer from 28931229-00S 07/28/2019 17:00 224195,CHECKING,credit,1,-650.0,In
+2019-07-29,2019-07-29,Transfer,Transfer from 28931229-03S 07/28/2019 15:37 223365,CHECKING,credit,1,-100.0,In
+2019-07-29,2019-07-29,Transfer,Transfer to 28931229-09S 07/28/2019 15:37 223365,EMERSYN,debit,1,-100.0,Out
+2019-07-29,2019-07-29,Transfer,Transfer to 28931229-09S 07/28/2019 17:00 224195,SAFETY NET,debit,1,-650.0,Out
+2019-07-30,2019-07-30,Transfer,Transfer from 28931229-04S 07/30/2019 15:14 256294,CHECKING,credit,1,-1520.0,In
+2019-07-30,2019-07-30,Transfer,Transfer to 28931229-09S 07/30/2019 15:14 256294,MORTGAGE,debit,1,-1520.0,Out
+2019-08-01,2019-08-01,Transfer,Transfer from 28931229-09S 08/01/2019 08:13 287091,MORTGAGE,credit,1,-760.0,In
+2019-08-01,2019-08-01,Transfer,Transfer from 28931229-09S 08/01/2019 13:19 294152,CREDIT CARD,credit,1,-445.16,In
+2019-08-01,2019-08-01,Transfer,Transfer to 28931229-02S 08/01/2019 13:19 294152,CHECKING,debit,1,-445.16,Out
+2019-08-01,2019-08-01,Transfer,Transfer to 28931229-04S 08/01/2019 08:13 287091,CHECKING,debit,1,-760.0,Out
+2019-08-02,2019-08-02,Transfer,Transfer from 28931229-09S 08/02/2019 16:10 316320,EMERSYN,credit,1,-10.0,In
+2019-08-02,2019-08-02,Transfer,Transfer from 28931229-09S 08/02/2019 16:43 317233,SAFETY NET,credit,1,-10.0,In
+2019-08-02,2019-08-02,Transfer,Transfer to 28931229-00S 08/02/2019 16:43 317233,CHECKING,debit,1,-10.0,Out
+2019-08-02,2019-08-02,Transfer,Transfer to 28931229-03S 08/02/2019 16:10 316320,CHECKING,debit,1,-10.0,Out
+2019-08-05,2019-08-05,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-2114.0,Out
+2019-08-05,2019-08-05,Transfer,CAPITAL ONE MOBILE payment AuthDate 05-Aug,Venture,credit,1,-2114.0,In
+2019-08-05,2019-08-05,Transfer,Transfer from 28931229-02S 08/05/2019 12:05 350193,CHECKING,credit,1,-2114.26,In
+2019-08-05,2019-08-05,Transfer,Transfer to 28931229-09S 08/05/2019 12:05 350193,CREDIT CARD,debit,1,-2114.26,Out
+2019-08-05,2019-08-05,Transfer,Venmo,CHECKING,debit,1,-11.0,Out
+2019-08-09,2019-08-09,Transfer,Transfer from 28931229-09S 08/09/2019 13:01 412315,CREDIT CARD,credit,1,-246.39,In
+2019-08-09,2019-08-09,Transfer,Transfer from 28931229-09S 08/09/2019 16:10 414850,EMERSYN,credit,1,-10.0,In
+2019-08-09,2019-08-09,Transfer,Transfer to 28931229-02S 08/09/2019 13:01 412315,CHECKING,debit,1,-246.39,Out
+2019-08-09,2019-08-09,Transfer,Transfer to 28931229-03S 08/09/2019 16:10 414850,CHECKING,debit,1,-10.0,Out
+2019-08-14,2019-08-14,Transfer,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,-120.0,In
+2019-08-14,2019-08-14,Transfer,Transfer from 28931229-00S 08/14/2019 11:11 478634,CHECKING,credit,1,-47.66,In
+2019-08-14,2019-08-14,Transfer,Transfer to 28931229-09S 08/14/2019 11:11 478634,SAFETY NET,debit,1,-47.66,Out
+2019-08-14,2019-08-14,Transfer,Venmo,CHECKING,debit,1,-120.0,Out
+2019-08-16,2019-08-16,Transfer,Transfer from 28931229-09S 08/16/2019 07:04 510810,MORTGAGE,credit,1,-760.0,In
+2019-08-16,2019-08-16,Transfer,Transfer from 28931229-09S 08/16/2019 07:04 510816,CREDIT CARD,credit,1,-500.0,In
+2019-08-16,2019-08-16,Transfer,Transfer from 28931229-09S 08/16/2019 07:04 510824,CLUB SAVINGS,credit,1,-400.0,In
+2019-08-16,2019-08-16,Transfer,Transfer from 28931229-09S 08/16/2019 16:10 518468,EMERSYN,credit,1,-10.0,In
+2019-08-16,2019-08-16,Transfer,Transfer from 28931229-09S 08/16/2019 16:43 519253,SAFETY NET,credit,1,-10.0,In
+2019-08-16,2019-08-16,Transfer,Transfer to 28931229-00S 08/16/2019 16:43 519253,CHECKING,debit,1,-10.0,Out
+2019-08-16,2019-08-16,Transfer,Transfer to 28931229-02S 08/16/2019 07:04 510816,CHECKING,debit,1,-500.0,Out
+2019-08-16,2019-08-16,Transfer,Transfer to 28931229-03S 08/16/2019 16:10 518468,CHECKING,debit,1,-10.0,Out
+2019-08-16,2019-08-16,Transfer,Transfer to 28931229-04S 08/16/2019 07:04 510810,CHECKING,debit,1,-760.0,Out
+2019-08-16,2019-08-16,Transfer,Transfer to 28931229-06S 08/16/2019 07:04 510824,CHECKING,debit,1,-400.0,Out
+2019-08-17,2019-08-17,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-1050.0,Out
+2019-08-17,2019-08-17,Transfer,CAPITAL ONE MOBILE payment AuthDate 17-Aug,Venture,credit,1,-1050.0,In
+2019-08-17,2019-08-17,Transfer,Transfer from 28931229-02S 08/17/2019 15:34 530567,CHECKING,credit,1,-1046.39,In
+2019-08-17,2019-08-17,Transfer,Transfer from 28931229-09S 08/17/2019 15:33 530556,CREDIT CARD,credit,1,-300.0,In
+2019-08-17,2019-08-17,Transfer,Transfer to 28931229-02S 08/17/2019 15:33 530556,CHECKING,debit,1,-300.0,Out
+2019-08-17,2019-08-17,Transfer,Transfer to 28931229-09S 08/17/2019 15:34 530567,CREDIT CARD,debit,1,-1046.39,Out
+2019-08-20,2019-08-20,Transfer,Transfer from 28931229-09S 08/20/2019 22:02 568118,CREDIT CARD,credit,1,-75.0,In
+2019-08-20,2019-08-20,Transfer,Transfer to 28931229-02S 08/20/2019 22:02 568118,CHECKING,debit,1,-75.0,Out
+2019-08-23,2019-08-23,Transfer,Transfer from 28931229-09S 08/23/2019 16:10 609279,EMERSYN,credit,1,-10.0,In
+2019-08-23,2019-08-23,Transfer,Transfer to 28931229-03S 08/23/2019 16:10 609279,CHECKING,debit,1,-10.0,Out
+2019-08-24,2019-08-24,Transfer,Transfer from 28931229-03S 08/24/2019 13:17 619753,CHECKING,credit,1,-60.0,In
+2019-08-24,2019-08-24,Transfer,Transfer to 28931229-09S 08/24/2019 13:17 619753,EMERSYN,debit,1,-60.0,Out
+2019-08-25,2019-08-25,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-425.0,Out
+2019-08-25,2019-08-25,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-425.0,In
+2019-08-25,2019-08-25,Transfer,Transfer from 28931229-06S 08/25/2019 08:20 626100,CHECKING,credit,1,-410.0,In
+2019-08-25,2019-08-25,Transfer,Transfer to 28931229-09S 08/25/2019 08:20 626100,CLUB SAVINGS,debit,1,-410.0,Out
+2019-08-28,2019-08-28,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-800.0,Out
+2019-08-28,2019-08-28,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-800.0,In
+2019-08-28,2019-08-28,Transfer,Transfer from 28931229-05S 08/28/2019 07:26 666434,CHECKING,credit,1,-800.0,In
+2019-08-28,2019-08-28,Transfer,Transfer to 28931229-09S 08/28/2019 07:26 666434,TEXAS FUND,debit,1,-800.0,Out
+2019-08-29,2019-08-29,Transfer,Transfer from 28931229-04S 08/29/2019 10:24 693042,CHECKING,credit,1,-760.0,In
+2019-08-29,2019-08-29,Transfer,Transfer from 28931229-09S 08/29/2019 10:34 693226,CREDIT CARD,credit,1,-400.0,In
+2019-08-29,2019-08-29,Transfer,Transfer to 28931229-02S 08/29/2019 10:34 693226,CHECKING,debit,1,-400.0,Out
+2019-08-29,2019-08-29,Transfer,Transfer to 28931229-09S 08/29/2019 10:24 693042,MORTGAGE,debit,1,-760.0,Out
+2019-08-30,2019-08-30,Transfer,Transfer from 28931229-09S 08/30/2019 16:10 715751,EMERSYN,credit,1,-10.0,In
+2019-08-30,2019-08-30,Transfer,Transfer from 28931229-09S 08/30/2019 16:43 716571,SAFETY NET,credit,1,-10.0,In
+2019-08-30,2019-08-30,Transfer,Transfer to 28931229-00S 08/30/2019 16:43 716571,CHECKING,debit,1,-10.0,Out
+2019-08-30,2019-08-30,Transfer,Transfer to 28931229-03S 08/30/2019 16:10 715751,CHECKING,debit,1,-10.0,Out
+2019-08-30,2019-08-30,Transfer,Venmo,CHECKING,debit,1,-10.0,Out
+2019-09-04,2019-09-04,Transfer,28931229-01L 09/04/2019 06:47 776097,EMERSYN,debit,1,-110.77,Out
+2019-09-04,2019-09-04,Transfer,28931229-01L 09/04/2019 06:47 776106,TEXAS FUND,debit,1,-201.25,Out
+2019-09-04,2019-09-04,Transfer,28931229-03s 09/04/2019 06:47 776097,VISA STARTER,credit,1,-110.77,In
+2019-09-04,2019-09-04,Transfer,28931229-05s 09/04/2019 06:47 776106,VISA STARTER,credit,1,-201.25,In
+2019-09-04,2019-09-04,Transfer,Transfer from 28931229-09S 09/04/2019 18:02 786954,CREDIT CARD,credit,1,-130.0,In
+2019-09-04,2019-09-04,Transfer,Transfer to 28931229-02S 09/04/2019 18:02 786954,CHECKING,debit,1,-130.0,Out
+2019-09-06,2019-09-06,Transfer,Transfer from 28931229-00S 09/06/2019 16:19 817672,CHECKING,credit,1,-488.0,In
+2019-09-06,2019-09-06,Transfer,Transfer to 28931229-09S 09/06/2019 16:19 817672,SAFETY NET,debit,1,-488.0,Out
+2019-09-07,2019-09-07,Transfer,Transfer from 28931229-09S 09/07/2019 06:55 823773,CREDIT CARD,credit,1,-125.39,In
+2019-09-07,2019-09-07,Transfer,Transfer to 28931229-02S 09/07/2019 06:55 823773,CHECKING,debit,1,-125.39,Out
+2019-09-09,2019-09-09,Transfer,28931229-00s 09/09/2019 07:43 844766,VISA STARTER,credit,1,-50.0,In
+2019-09-09,2019-09-09,Transfer,28931229-01L 09/09/2019 07:43 844766,SAFETY NET,debit,1,-50.0,Out
+2019-09-09,2019-09-09,Transfer,28931229-01L 09/09/2019 10:31 846904,CHECKING,debit,1,-52.18,Out
+2019-09-09,2019-09-09,Transfer,28931229-09s 09/09/2019 10:31 846904,VISA STARTER,credit,1,-52.18,In
+2019-09-09,2019-09-09,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-900.0,In
+2019-09-09,2019-09-09,Transfer,Transfer from 28931229-00S 09/09/2019 07:42 844758,CHECKING,credit,1,-11.65,In
+2019-09-09,2019-09-09,Transfer,Transfer from 28931229-02S 09/09/2019 20:54 854448,CHECKING,credit,1,-870.46,In
+2019-09-09,2019-09-09,Transfer,Transfer to 28931229-09S 09/09/2019 07:42 844758,SAFETY NET,debit,1,-11.65,Out
+2019-09-09,2019-09-09,Transfer,Transfer to 28931229-09S 09/09/2019 20:54 854448,CREDIT CARD,debit,1,-870.46,Out
+2019-09-09,2019-09-09,Transfer,Venmo,CHECKING,debit,1,-8.0,Out
+2019-09-11,2019-09-11,Transfer,28931229-01L 09/11/2019 14:03 879369,CHECKING,debit,1,-27.53,Out
+2019-09-11,2019-09-11,Transfer,28931229-09s 09/11/2019 14:03 879369,VISA STARTER,credit,1,-27.53,In
+2019-09-11,2019-09-11,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-900.0,Out
+2019-09-12,2019-09-12,Transfer,28931229-01L 09/12/2019 11:50 896129,CHECKING,debit,1,-55.0,Out
+2019-09-12,2019-09-12,Transfer,28931229-09s 09/12/2019 11:50 896129,VISA STARTER,credit,1,-55.0,In
+2019-09-12,2019-09-12,Transfer,CAPITAL ONE MOBILE payment AuthDate 12-S ep,Venture,credit,1,-150.0,In
+2019-09-12,2019-09-12,Transfer,Transfer from 28931229-09S 09/12/2019 18:54 902823,MORTGAGE,credit,1,-520.0,In
+2019-09-12,2019-09-12,Transfer,Transfer to 28931229-04S 09/12/2019 18:54 902823,CHECKING,debit,1,-520.0,Out
+2019-09-13,2019-09-13,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-150.0,Out
+2019-09-13,2019-09-13,Transfer,Transfer from 28931229-09S 09/13/2019 09:58 909574,CREDIT CARD,credit,1,-320.0,In
+2019-09-13,2019-09-13,Transfer,Transfer from 28931229-09S 09/13/2019 16:10 914453,EMERSYN,credit,1,-10.0,In
+2019-09-13,2019-09-13,Transfer,Transfer from 28931229-09S 09/13/2019 16:43 915096,SAFETY NET,credit,1,-10.0,In
+2019-09-13,2019-09-13,Transfer,Transfer to 28931229-00S 09/13/2019 16:43 915096,CHECKING,debit,1,-10.0,Out
+2019-09-13,2019-09-13,Transfer,Transfer to 28931229-02S 09/13/2019 09:58 909574,CHECKING,debit,1,-320.0,Out
+2019-09-13,2019-09-13,Transfer,Transfer to 28931229-03S 09/13/2019 16:10 914453,CHECKING,debit,1,-10.0,Out
+2019-09-17,2019-09-17,Transfer,28931229-00s 09/17/2019 10:40 957073,VISA STARTER,credit,1,-95.0,In
+2019-09-17,2019-09-17,Transfer,28931229-01L 09/17/2019 10:40 957073,SAFETY NET,debit,1,-95.0,Out
+2019-09-17,2019-09-17,Transfer,Transfer from 28931229-00S 09/17/2019 10:41 957082,EMERSYN,credit,1,-320.0,In
+2019-09-17,2019-09-17,Transfer,Transfer to 28931229-03S 09/17/2019 10:41 957082,SAFETY NET,debit,1,-320.0,Out
+2019-09-20,2019-09-20,Transfer,Transfer from 28931229-09S 09/20/2019 16:10 3715,EMERSYN,credit,1,-10.0,In
+2019-09-20,2019-09-20,Transfer,Transfer to 28931229-03S 09/20/2019 16:10 3715,CHECKING,debit,1,-10.0,Out
+2019-09-23,2019-09-23,Transfer,CAPITAL ONE MOBILE payment AuthDate 23-Sep,Venture,credit,1,-150.0,In
+2019-09-23,2019-09-23,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-150.0,In
+2019-09-23,2019-09-23,Transfer,Transfer from 28931229-02S 09/23/2019 12:50 33026,CHECKING,credit,1,-320.0,In
+2019-09-23,2019-09-23,Transfer,Transfer to 28931229-09S 09/23/2019 12:50 33026,CREDIT CARD,debit,1,-320.0,Out
+2019-09-24,2019-09-24,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-150.0,Out
+2019-09-24,2019-09-24,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-150.0,Out
+2019-09-25,2019-09-25,Transfer,Payroll  NHUS DESC: NHUC BEN,CHECKING,credit,1,-195.0,In
+2019-09-26,2019-09-26,Transfer,28931229-01L 09/26/2019 07:07 68713,CHECKING,debit,1,-50.0,Out
+2019-09-26,2019-09-26,Transfer,28931229-09s 09/26/2019 07:07 68713,VISA STARTER,credit,1,-50.0,In
+2019-09-26,2019-09-26,Transfer,Transfer from 28931229-09S 09/26/2019 07:08 68726,MORTGAGE,credit,1,-240.0,In
+2019-09-26,2019-09-26,Transfer,Transfer to 28931229-04S 09/26/2019 07:08 68726,CHECKING,debit,1,-240.0,Out
+2019-09-27,2019-09-27,Transfer,Transfer from 28931229-09S 09/27/2019 16:10 99101,EMERSYN,credit,1,-10.0,In
+2019-09-27,2019-09-27,Transfer,Transfer from 28931229-09S 09/27/2019 16:43 99838,SAFETY NET,credit,1,-10.0,In
+2019-09-27,2019-09-27,Transfer,Transfer to 28931229-00S 09/27/2019 16:43 99838,CHECKING,debit,1,-10.0,Out
+2019-09-27,2019-09-27,Transfer,Transfer to 28931229-03S 09/27/2019 16:10 99101,CHECKING,debit,1,-10.0,Out
+2019-10-01,2019-10-01,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-400.0,In
+2019-10-01,2019-10-01,Transfer,Transfer from 28931229-00S 10/01/2019 10:04 147950,CHECKING,credit,1,-296.52,In
+2019-10-01,2019-10-01,Transfer,Transfer from 28931229-04S 10/01/2019 10:04 147938,CHECKING,credit,1,-1520.58,In
+2019-10-01,2019-10-01,Transfer,Transfer to 28931229-09S 10/01/2019 10:04 147938,MORTGAGE,debit,1,-1520.58,Out
+2019-10-01,2019-10-01,Transfer,Transfer to 28931229-09S 10/01/2019 10:04 147950,SAFETY NET,debit,1,-296.52,Out
+2019-10-02,2019-10-02,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-400.0,Out
+2019-10-04,2019-10-04,Transfer,Transfer from 28931229-09S 10/04/2019 16:10 208691,EMERSYN,credit,1,-10.0,In
+2019-10-04,2019-10-04,Transfer,Transfer to 28931229-03S 10/04/2019 16:10 208691,CHECKING,debit,1,-10.0,Out
+2019-10-07,2019-10-07,Transfer,Transfer from 28931229-05S 10/07/2019 18:20 245462,CHECKING,credit,1,-1000.0,In
+2019-10-07,2019-10-07,Transfer,Transfer to 28931229-09S 10/07/2019 18:20 245462,TEXAS FUND,debit,1,-1000.0,Out
+2019-10-09,2019-10-09,Transfer,CAPITAL ONE MOBILE payment AuthDate 09-Oct,Venture,credit,1,-70.58,In
+2019-10-09,2019-10-09,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-729.93,In
+2019-10-09,2019-10-09,Transfer,Transfer from 28931229-02S 10/09/2019 14:43 270231,CHECKING,credit,1,-751.29,In
+2019-10-09,2019-10-09,Transfer,Transfer to 28931229-09S 10/09/2019 14:43 270231,CREDIT CARD,debit,1,-751.29,Out
+2019-10-10,2019-10-10,Transfer,28931229-01L 10/10/2019 09:07 284629,CHECKING,debit,1,-53.96,Out
+2019-10-10,2019-10-10,Transfer,28931229-09s 10/10/2019 09:07 284629,VISA STARTER,credit,1,-53.96,In
+2019-10-10,2019-10-10,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-70.58,Out
+2019-10-10,2019-10-10,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-729.93,Out
+2019-10-11,2019-10-11,Transfer,Transfer from 28931229-09S 10/11/2019 16:10 309533,EMERSYN,credit,1,-10.0,In
+2019-10-11,2019-10-11,Transfer,Transfer from 28931229-09S 10/11/2019 16:43 310268,SAFETY NET,credit,1,-10.0,In
+2019-10-11,2019-10-11,Transfer,Transfer to 28931229-00S 10/11/2019 16:43 310268,CHECKING,debit,1,-10.0,Out
+2019-10-11,2019-10-11,Transfer,Transfer to 28931229-03S 10/11/2019 16:10 309533,CHECKING,debit,1,-10.0,Out
+2019-10-13,2019-10-13,Transfer,Transfer from 28931229-09S 10/13/2019 18:18 332512,CREDIT CARD,credit,1,-400.0,In
+2019-10-13,2019-10-13,Transfer,Transfer to 28931229-02S 10/13/2019 18:18 332512,CHECKING,debit,1,-400.0,Out
+2019-10-14,2019-10-14,Transfer,28931229-00s 10/14/2019 21:33 345114,VISA STARTER,credit,1,-408.52,In
+2019-10-14,2019-10-14,Transfer,28931229-01L 10/14/2019 21:33 345114,SAFETY NET,debit,1,-408.52,Out
+2019-10-16,2019-10-16,Transfer,CAPITAL ONE MOBILE payment AuthDate 16-Oct,Venture,credit,1,-209.58,In
+2019-10-16,2019-10-16,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-795.57,In
+2019-10-16,2019-10-16,Transfer,Transfer from 28931229-00S 10/16/2019 07:03 364002,CHECKING,credit,1,-600.0,In
+2019-10-16,2019-10-16,Transfer,Transfer from 28931229-00S 10/16/2019 15:59 372064,CHECKING,credit,1,-350.0,In
+2019-10-16,2019-10-16,Transfer,Transfer from 28931229-02S 10/16/2019 07:03 364007,CHECKING,credit,1,-400.0,In
+2019-10-16,2019-10-16,Transfer,Transfer to 28931229-09S 10/16/2019 07:03 364002,SAFETY NET,debit,1,-600.0,Out
+2019-10-16,2019-10-16,Transfer,Transfer to 28931229-09S 10/16/2019 07:03 364007,CREDIT CARD,debit,1,-400.0,Out
+2019-10-16,2019-10-16,Transfer,Transfer to 28931229-09S 10/16/2019 15:59 372064,SAFETY NET,debit,1,-350.0,Out
+2019-10-17,2019-10-17,Transfer,CAPITAL ONE DESC: MOBILE payment,CHECKING,debit,1,-209.58,Out
+2019-10-17,2019-10-17,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-795.57,Out
+2019-10-18,2019-10-18,Transfer,Transfer from 28931229-09S 10/18/2019 16:10 404471,EMERSYN,credit,1,-10.0,In
+2019-10-18,2019-10-18,Transfer,Transfer to 28931229-03S 10/18/2019 16:10 404471,CHECKING,debit,1,-10.0,Out
+2019-10-20,2019-10-20,Transfer,Transfer from 28931229-00S 10/20/2019 08:13 421360,CHECKING,credit,1,-300.0,In
+2019-10-20,2019-10-20,Transfer,Transfer to 28931229-09S 10/20/2019 08:13 421360,SAFETY NET,debit,1,-300.0,Out
+2019-10-21,2019-10-21,Transfer,WDH E PAYMENTS 855-762-5219 NH,Discover,debit,1,-307.05,Out
+2019-10-22,2019-10-22,Transfer,Transfer from 28931229-00S 10/22/2019 21:34 454754,CREDIT CARD,credit,1,-2000.0,In
+2019-10-22,2019-10-22,Transfer,Transfer from 28931229-05S 10/22/2019 21:34 454757,SAFETY NET,credit,1,-2000.5,In
+2019-10-22,2019-10-22,Transfer,Transfer to 28931229-00S 10/22/2019 21:34 454757,TEXAS FUND,debit,1,-2000.5,Out
+2019-10-22,2019-10-22,Transfer,Transfer to 28931229-02S 10/22/2019 21:34 454754,SAFETY NET,debit,1,-2000.0,Out
+2019-10-24,2019-10-24,Transfer,Transfer from 28931229-09S 10/24/2019 07:42 473529,SAFETY NET,credit,1,-500.0,In
+2019-10-24,2019-10-24,Transfer,Transfer from 28931229-09S 10/24/2019 07:43 473546,EMERSYN,credit,1,-70.0,In
+2019-10-24,2019-10-24,Transfer,Transfer to 28931229-00S 10/24/2019 07:42 473529,CHECKING,debit,1,-500.0,Out
+2019-10-24,2019-10-24,Transfer,Transfer to 28931229-03S 10/24/2019 07:43 473546,CHECKING,debit,1,-70.0,Out
+2019-10-25,2019-10-25,Transfer,Transfer from 28931229-09S 10/25/2019 16:10 495946,EMERSYN,credit,1,-10.0,In
+2019-10-25,2019-10-25,Transfer,Transfer from 28931229-09S 10/25/2019 16:43 496760,SAFETY NET,credit,1,-10.0,In
+2019-10-25,2019-10-25,Transfer,Transfer to 28931229-00S 10/25/2019 16:43 496760,CHECKING,debit,1,-10.0,Out
+2019-10-25,2019-10-25,Transfer,Transfer to 28931229-03S 10/25/2019 16:10 495946,CHECKING,debit,1,-10.0,Out
+2019-10-27,2019-10-27,Transfer,Transfer from 28931229-00S 10/27/2019 07:12 512223,CHECKING,credit,1,-73.71,In
+2019-10-27,2019-10-27,Transfer,Transfer from 28931229-02S 10/27/2019 16:57 518173,CHECKING,credit,1,-2000.0,In
+2019-10-27,2019-10-27,Transfer,Transfer to 28931229-09S 10/27/2019 07:12 512223,SAFETY NET,debit,1,-73.71,Out
+2019-10-27,2019-10-27,Transfer,Transfer to 28931229-09S 10/27/2019 16:57 518173,CREDIT CARD,debit,1,-2000.0,Out
+2019-10-28,2019-10-28,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1896.3,Out
+2019-10-28,2019-10-28,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1896.3,In
+2019-11-01,2019-11-01,Transfer,Transfer from 28931229-09S 11/01/2019 16:10 609116,EMERSYN,credit,1,-10.0,In
+2019-11-01,2019-11-01,Transfer,Transfer to 28931229-03S 11/01/2019 16:10 609116,CHECKING,debit,1,-10.0,Out
+2019-11-04,2019-11-04,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1000.0,In
+2019-11-04,2019-11-04,Transfer,Transfer from 28931229-00S 11/04/2019 10:51 650519,CHECKING,credit,1,-1000.0,In
+2019-11-04,2019-11-04,Transfer,Transfer to 28931229-09S 11/04/2019 10:51 650519,SAFETY NET,debit,1,-1000.0,Out
+2019-11-05,2019-11-05,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1000.0,Out
+2019-11-07,2019-11-07,Transfer,Transfer from 28931229-09S 11/07/2019 08:39 697696,CREDIT CARD,credit,1,-150.0,In
+2019-11-07,2019-11-07,Transfer,Transfer from 28931229-09S 11/07/2019 08:39 697701,SAFETY NET,credit,1,-600.0,In
+2019-11-07,2019-11-07,Transfer,Transfer to 28931229-00S 11/07/2019 08:39 697701,CHECKING,debit,1,-600.0,Out
+2019-11-07,2019-11-07,Transfer,Transfer to 28931229-02S 11/07/2019 08:39 697696,CHECKING,debit,1,-150.0,Out
+2019-11-08,2019-11-08,Transfer,Transfer from 28931229-09S 11/08/2019 14:15 719544,CREDIT CARD,credit,1,-300.0,In
+2019-11-08,2019-11-08,Transfer,Transfer from 28931229-09S 11/08/2019 16:10 721359,EMERSYN,credit,1,-10.0,In
+2019-11-08,2019-11-08,Transfer,Transfer from 28931229-09S 11/08/2019 16:43 722170,SAFETY NET,credit,1,-10.0,In
+2019-11-08,2019-11-08,Transfer,Transfer to 28931229-00S 11/08/2019 16:43 722170,CHECKING,debit,1,-10.0,Out
+2019-11-08,2019-11-08,Transfer,Transfer to 28931229-02S 11/08/2019 14:15 719544,CHECKING,debit,1,-300.0,Out
+2019-11-08,2019-11-08,Transfer,Transfer to 28931229-03S 11/08/2019 16:10 721359,CHECKING,debit,1,-10.0,Out
+2019-11-12,2019-11-12,Transfer,CAPITAL ONE DESC: ONLINE payment,CHECKING,debit,1,-4.5,Out
+2019-11-15,2019-11-15,Transfer,Transfer from 28931229-09S 11/15/2019 16:10 825423,EMERSYN,credit,1,-10.0,In
+2019-11-15,2019-11-15,Transfer,Transfer to 28931229-03S 11/15/2019 16:10 825423,CHECKING,debit,1,-10.0,Out
+2019-11-16,2019-11-16,Transfer,28931229-00s 11/16/2019 08:46 834690,VISA STARTER,credit,1,-22.97,In
+2019-11-16,2019-11-16,Transfer,28931229-01L 11/16/2019 08:46 834690,SAFETY NET,debit,1,-22.97,Out
+2019-11-16,2019-11-16,Transfer,Transfer from 28931229-00S 11/16/2019 08:45 834678,EMERSYN,credit,1,-260.0,In
+2019-11-16,2019-11-16,Transfer,Transfer from 28931229-00S 11/16/2019 08:47 834713,CREDIT CARD,credit,1,-2600.0,In
+2019-11-16,2019-11-16,Transfer,Transfer to 28931229-02S 11/16/2019 08:47 834713,SAFETY NET,debit,1,-2600.0,Out
+2019-11-16,2019-11-16,Transfer,Transfer to 28931229-03S 11/16/2019 08:45 834678,SAFETY NET,debit,1,-260.0,Out
+2019-11-17,2019-11-17,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-2953.35,In
+2019-11-17,2019-11-17,Transfer,Transfer from 28931229-00S 11/17/2019 17:16 851278,CHECKING,credit,1,-250.0,In
+2019-11-17,2019-11-17,Transfer,Transfer from 28931229-02S 11/17/2019 17:56 851671,CHECKING,credit,1,-3000.0,In
+2019-11-17,2019-11-17,Transfer,Transfer to 28931229-09S 11/17/2019 17:16 851278,SAFETY NET,debit,1,-250.0,Out
+2019-11-17,2019-11-17,Transfer,Transfer to 28931229-09S 11/17/2019 17:56 851671,CREDIT CARD,debit,1,-3000.0,Out
+2019-11-18,2019-11-18,Transfer,Transfer from 28931229-00S 11/18/2019 07:50 856019,CHECKING,credit,1,-150.0,In
+2019-11-18,2019-11-18,Transfer,Transfer to 28931229-09S 11/18/2019 07:50 856019,SAFETY NET,debit,1,-150.0,Out
+2019-11-19,2019-11-19,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-2953.35,Out
+2019-11-21,2019-11-21,Transfer,Transfer from 28931229-09S 11/21/2019 06:59 898454,SAFETY NET,credit,1,-600.0,In
+2019-11-21,2019-11-21,Transfer,Transfer from 28931229-09S 11/21/2019 07:00 898470,CREDIT CARD,credit,1,-250.0,In
+2019-11-21,2019-11-21,Transfer,Transfer to 28931229-00S 11/21/2019 06:59 898454,CHECKING,debit,1,-600.0,Out
+2019-11-21,2019-11-21,Transfer,Transfer to 28931229-02S 11/21/2019 07:00 898470,CHECKING,debit,1,-250.0,Out
+2019-11-22,2019-11-22,Transfer,Transfer from 28931229-09S 11/22/2019 16:10 922008,EMERSYN,credit,1,-10.0,In
+2019-11-22,2019-11-22,Transfer,Transfer from 28931229-09S 11/22/2019 16:43 922770,SAFETY NET,credit,1,-10.0,In
+2019-11-22,2019-11-22,Transfer,Transfer to 28931229-00S 11/22/2019 16:43 922770,CHECKING,debit,1,-10.0,Out
+2019-11-22,2019-11-22,Transfer,Transfer to 28931229-03S 11/22/2019 16:10 922008,CHECKING,debit,1,-10.0,Out
+2019-11-25,2019-11-25,Transfer,Transfer from 28931229-00S 11/25/2019 17:48 958169,CREDIT CARD,credit,1,-600.1,In
+2019-11-25,2019-11-25,Transfer,Transfer to 28931229-02S 11/25/2019 17:48 958169,SAFETY NET,debit,1,-600.1,Out
+2019-11-26,2019-11-26,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1300.0,In
+2019-11-26,2019-11-26,Transfer,Transfer from 28931229-02S 11/26/2019 15:05 976182,CHECKING,credit,1,-1296.0,In
+2019-11-26,2019-11-26,Transfer,Transfer to 28931229-09S 11/26/2019 15:05 976182,CREDIT CARD,debit,1,-1296.0,Out
+2019-11-27,2019-11-27,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1300.0,Out
+2019-11-29,2019-11-29,Transfer,Transfer from 28931229-09S 11/29/2019 16:10 26706,EMERSYN,credit,1,-10.0,In
+2019-11-29,2019-11-29,Transfer,Transfer to 28931229-03S 11/29/2019 16:10 26706,CHECKING,debit,1,-10.0,Out
+2019-12-03,2019-12-03,Transfer,28931229-00s 12/03/2019 10:49 90496,VISA STARTER,credit,1,-113.92,In
+2019-12-03,2019-12-03,Transfer,28931229-01L 12/03/2019 10:49 90496,SAFETY NET,debit,1,-113.92,Out
+2019-12-06,2019-12-06,Transfer,Transfer from 28931229-09S 12/06/2019 08:08 141444,CREDIT CARD,credit,1,-600.0,In
+2019-12-06,2019-12-06,Transfer,Transfer from 28931229-09S 12/06/2019 16:10 148977,EMERSYN,credit,1,-10.0,In
+2019-12-06,2019-12-06,Transfer,Transfer from 28931229-09S 12/06/2019 16:43 149727,SAFETY NET,credit,1,-10.0,In
+2019-12-06,2019-12-06,Transfer,Transfer to 28931229-00S 12/06/2019 16:43 149727,CHECKING,debit,1,-10.0,Out
+2019-12-06,2019-12-06,Transfer,Transfer to 28931229-02S 12/06/2019 08:08 141444,CHECKING,debit,1,-600.0,Out
+2019-12-06,2019-12-06,Transfer,Transfer to 28931229-03S 12/06/2019 16:10 148977,CHECKING,debit,1,-10.0,Out
+2019-12-10,2019-12-10,Transfer,Share Deposit,HOLIDAY CLUB SAVINGS,credit,1,-5000.0,In
+2019-12-10,2019-12-10,Transfer,Share Withdrawal,SAFETY NET,debit,1,-5000.0,Out
+2019-12-13,2019-12-13,Transfer,Transfer from 28931229-09S 12/13/2019 16:10 255017,EMERSYN,credit,1,-10.0,In
+2019-12-13,2019-12-13,Transfer,Transfer to 28931229-03S 12/13/2019 16:10 255017,CHECKING,debit,1,-10.0,Out
+2019-12-16,2019-12-16,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-950.0,In
+2019-12-16,2019-12-16,Transfer,Transfer from 28931229-00S 12/16/2019 09:46 288536,CHECKING,credit,1,-900.0,In
+2019-12-16,2019-12-16,Transfer,Transfer to 28931229-09S 12/16/2019 09:46 288536,SAFETY NET,debit,1,-900.0,Out
+2019-12-17,2019-12-17,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-950.0,Out
+2019-12-19,2019-12-19,Transfer,Transfer from 28931229-09S 12/19/2019 09:30 334540,SAFETY NET,credit,1,-600.0,In
+2019-12-19,2019-12-19,Transfer,Transfer from 28931229-09S 12/19/2019 09:30 334543,CREDIT CARD,credit,1,-200.0,In
+2019-12-19,2019-12-19,Transfer,Transfer to 28931229-00S 12/19/2019 09:30 334540,CHECKING,debit,1,-600.0,Out
+2019-12-19,2019-12-19,Transfer,Transfer to 28931229-02S 12/19/2019 09:30 334543,CHECKING,debit,1,-200.0,Out
+2019-12-20,2019-12-20,Transfer,Transfer from 28931229-09S 12/20/2019 16:10 356851,EMERSYN,credit,1,-10.0,In
+2019-12-20,2019-12-20,Transfer,Transfer from 28931229-09S 12/20/2019 16:43 357670,SAFETY NET,credit,1,-10.0,In
+2019-12-20,2019-12-20,Transfer,Transfer to 28931229-00S 12/20/2019 16:43 357670,CHECKING,debit,1,-10.0,Out
+2019-12-20,2019-12-20,Transfer,Transfer to 28931229-03S 12/20/2019 16:10 356851,CHECKING,debit,1,-10.0,Out
+2019-12-23,2019-12-23,Transfer,Transfer from 28931229-09S 12/23/2019 17:56 395286,CREDIT CARD,credit,1,-100.0,In
+2019-12-23,2019-12-23,Transfer,Transfer to 28931229-02S 12/23/2019 17:56 395286,CHECKING,debit,1,-100.0,Out
+2019-12-24,2019-12-24,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-900.0,In
+2019-12-24,2019-12-24,Transfer,Transfer from 28931229-02S 12/24/2019 08:32 401114,CHECKING,credit,1,-900.26,In
+2019-12-24,2019-12-24,Transfer,Transfer to 28931229-09S 12/24/2019 08:32 401114,CREDIT CARD,debit,1,-900.26,Out
+2019-12-24,2019-12-24,Transfer,Venmo,CHECKING,debit,1,-50.0,Out
+2019-12-26,2019-12-26,Transfer,28931229-00s 12/26/2019 09:20 421849,VISA STARTER,credit,1,-15.81,In
+2019-12-26,2019-12-26,Transfer,28931229-01L 12/26/2019 09:20 421849,SAFETY NET,debit,1,-15.81,Out
+2019-12-26,2019-12-26,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-900.0,Out
+2019-12-27,2019-12-27,Transfer,Transfer from 28931229-09S 12/27/2019 16:10 451318,EMERSYN,credit,1,-10.0,In
+2019-12-27,2019-12-27,Transfer,Transfer to 28931229-03S 12/27/2019 16:10 451318,CHECKING,debit,1,-10.0,Out
+2019-12-28,2019-12-28,Transfer,Transfer from 28931229-00S 12/28/2019 08:04 459950,EMERSYN,credit,1,-300.0,In
+2019-12-28,2019-12-28,Transfer,Transfer from 28931229-03S 12/28/2019 14:56 465813,CREDIT CARD,credit,1,-300.0,In
+2019-12-28,2019-12-28,Transfer,Transfer to 28931229-02S 12/28/2019 14:56 465813,EMERSYN,debit,1,-300.0,Out
+2019-12-28,2019-12-28,Transfer,Transfer to 28931229-03S 12/28/2019 08:04 459950,SAFETY NET,debit,1,-300.0,Out
+2019-12-29,2019-12-29,Transfer,Transfer from 28931229-00S 12/29/2019 12:07 474043,CHECKING,credit,1,-100.0,In
+2019-12-29,2019-12-29,Transfer,Transfer to 28931229-09S 12/29/2019 12:07 474043,SAFETY NET,debit,1,-100.0,Out
+2019-12-30,2019-12-30,Transfer,Transfer from 28931229-00S 12/30/2019 09:51 483317,CREDIT CARD,credit,1,-307.58,In
+2019-12-30,2019-12-30,Transfer,Transfer to 28931229-02S 12/30/2019 09:51 483317,SAFETY NET,debit,1,-307.58,Out
+2019-12-30,2019-12-30,Transfer,Transfer to Share Draft Transfer from 28931229-00S,CHECKING,credit,1,-100.0,In
+2019-12-30,2019-12-30,Transfer,Transfer to Share Draft Transfer to 28931229-09S,SAFETY NET,debit,1,-100.0,Out
+2020-01-02,2020-01-02,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-987.22,In
+2020-01-02,2020-01-02,Transfer,Transfer from 28931229-02S 01/02/2020 08:38 533904,CHECKING,credit,1,-607.77,In
+2020-01-02,2020-01-02,Transfer,Transfer from 28931229-09S 01/02/2020 08:37 533885,SAFETY NET,credit,1,-80.0,In
+2020-01-02,2020-01-02,Transfer,Transfer from 28931229-09S 01/02/2020 08:40 533933,EMERSYN,credit,1,-37.0,In
+2020-01-02,2020-01-02,Transfer,Transfer from 28931229-09S 01/02/2020 12:31 539719,CREDIT CARD,credit,1,-200.0,In
+2020-01-02,2020-01-02,Transfer,Transfer from 28931229-09S 01/02/2020 12:32 539749,SAFETY NET,credit,1,-400.0,In
+2020-01-02,2020-01-02,Transfer,Transfer to 28931229-00S 01/02/2020 08:37 533885,CHECKING,debit,1,-80.0,Out
+2020-01-02,2020-01-02,Transfer,Transfer to 28931229-00S 01/02/2020 12:32 539749,CHECKING,debit,1,-400.0,Out
+2020-01-02,2020-01-02,Transfer,Transfer to 28931229-02S 01/02/2020 12:31 539719,CHECKING,debit,1,-200.0,Out
+2020-01-02,2020-01-02,Transfer,Transfer to 28931229-03S 01/02/2020 08:40 533933,CHECKING,debit,1,-37.0,Out
+2020-01-02,2020-01-02,Transfer,Transfer to 28931229-09S 01/02/2020 08:38 533904,CREDIT CARD,debit,1,-607.77,Out
+2020-01-03,2020-01-03,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-987.22,Out
+2020-01-03,2020-01-03,Transfer,Transfer from 28931229-09S 01/03/2020 16:10 564240,EMERSYN,credit,1,-10.0,In
+2020-01-03,2020-01-03,Transfer,Transfer from 28931229-09S 01/03/2020 16:43 565123,SAFETY NET,credit,1,-10.0,In
+2020-01-03,2020-01-03,Transfer,Transfer to 28931229-00S 01/03/2020 16:43 565123,CHECKING,debit,1,-10.0,Out
+2020-01-03,2020-01-03,Transfer,Transfer to 28931229-03S 01/03/2020 16:10 564240,CHECKING,debit,1,-10.0,Out
+2020-01-10,2020-01-10,Transfer,Transfer from 28931229-09S 01/10/2020 16:10 664511,EMERSYN,credit,1,-10.0,In
+2020-01-10,2020-01-10,Transfer,Transfer to 28931229-03S 01/10/2020 16:10 664511,CHECKING,debit,1,-10.0,Out
+2020-01-11,2020-01-11,Transfer,Transfer from 28931229-00S 01/11/2020 10:12 676454,CHECKING,credit,1,-110.0,In
+2020-01-11,2020-01-11,Transfer,Transfer from 28931229-00S 01/11/2020 10:12 676458,CREDIT CARD,credit,1,-300.0,In
+2020-01-11,2020-01-11,Transfer,Transfer to 28931229-02S 01/11/2020 10:12 676458,SAFETY NET,debit,1,-300.0,Out
+2020-01-11,2020-01-11,Transfer,Transfer to 28931229-09S 01/11/2020 10:12 676454,SAFETY NET,debit,1,-110.0,Out
+2020-01-16,2020-01-16,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-878.03,In
+2020-01-16,2020-01-16,Transfer,Transfer from 28931229-00S 01/16/2020 09:22 750379,CHECKING,credit,1,-250.0,In
+2020-01-16,2020-01-16,Transfer,Transfer from 28931229-02S 01/16/2020 09:20 750342,CHECKING,credit,1,-500.0,In
+2020-01-16,2020-01-16,Transfer,Transfer from 28931229-08S 01/16/2020 10:18 751549,CHECKING,credit,1,-300.0,In
+2020-01-16,2020-01-16,Transfer,Transfer from 28931229-09S 01/16/2020 09:19 750302,SAFETY NET,credit,1,-1000.0,In
+2020-01-16,2020-01-16,Transfer,Transfer to 28931229-00S 01/16/2020 09:19 750302,CHECKING,debit,1,-1000.0,Out
+2020-01-16,2020-01-16,Transfer,Transfer to 28931229-09S 01/16/2020 09:20 750342,CREDIT CARD,debit,1,-500.0,Out
+2020-01-16,2020-01-16,Transfer,Transfer to 28931229-09S 01/16/2020 09:22 750379,SAFETY NET,debit,1,-250.0,Out
+2020-01-16,2020-01-16,Transfer,Transfer to 28931229-09S 01/16/2020 10:18 751549,HOLIDAY CLUB SAVINGS,debit,1,-300.0,Out
+2020-01-17,2020-01-17,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-878.03,Out
+2020-01-17,2020-01-17,Transfer,Transfer from 28931229-09S 01/17/2020 16:10 773447,EMERSYN,credit,1,-10.0,In
+2020-01-17,2020-01-17,Transfer,Transfer from 28931229-09S 01/17/2020 16:43 774247,SAFETY NET,credit,1,-10.0,In
+2020-01-17,2020-01-17,Transfer,Transfer to 28931229-00S 01/17/2020 16:43 774247,CHECKING,debit,1,-10.0,Out
+2020-01-17,2020-01-17,Transfer,Transfer to 28931229-03S 01/17/2020 16:10 773447,CHECKING,debit,1,-10.0,Out
+2020-01-24,2020-01-24,Transfer,Transfer from 28931229-00S 01/24/2020 07:13 857728,CREDIT CARD,credit,1,-200.0,In
+2020-01-24,2020-01-24,Transfer,Transfer from 28931229-00S 01/24/2020 07:13 857733,CHECKING,credit,1,-60.98,In
+2020-01-24,2020-01-24,Transfer,Transfer from 28931229-09S 01/24/2020 16:10 865410,EMERSYN,credit,1,-10.0,In
+2020-01-24,2020-01-24,Transfer,Transfer to 28931229-02S 01/24/2020 07:13 857728,SAFETY NET,debit,1,-200.0,Out
+2020-01-24,2020-01-24,Transfer,Transfer to 28931229-03S 01/24/2020 16:10 865410,CHECKING,debit,1,-10.0,Out
+2020-01-24,2020-01-24,Transfer,Transfer to 28931229-09S 01/24/2020 07:13 857733,SAFETY NET,debit,1,-60.98,Out
+2020-01-30,2020-01-30,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-500.0,In
+2020-01-30,2020-01-30,Transfer,Transfer from 28931229-02S 01/30/2020 07:06 947756,CHECKING,credit,1,-200.0,In
+2020-01-30,2020-01-30,Transfer,Transfer from 28931229-09S 01/30/2020 07:05 947737,SAFETY NET,credit,1,-1000.0,In
+2020-01-30,2020-01-30,Transfer,Transfer to 28931229-00S 01/30/2020 07:05 947737,CHECKING,debit,1,-1000.0,Out
+2020-01-30,2020-01-30,Transfer,Transfer to 28931229-09S 01/30/2020 07:06 947756,CREDIT CARD,debit,1,-200.0,Out
+2020-01-31,2020-01-31,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-500.0,Out
+2020-01-31,2020-01-31,Transfer,Transfer from 28931229-09S 01/31/2020 16:10 978567,EMERSYN,credit,1,-10.0,In
+2020-01-31,2020-01-31,Transfer,Transfer from 28931229-09S 01/31/2020 16:43 979539,SAFETY NET,credit,1,-10.0,In
+2020-01-31,2020-01-31,Transfer,Transfer to 28931229-00S 01/31/2020 16:43 979539,CHECKING,debit,1,-10.0,Out
+2020-01-31,2020-01-31,Transfer,Transfer to 28931229-03S 01/31/2020 16:10 978567,CHECKING,debit,1,-10.0,Out
+2020-02-05,2020-02-05,Transfer,Transfer from *********-00S 02/05/2020 12:17 59947,CHECKING,credit,1,-500.0,In
+2020-02-05,2020-02-05,Transfer,Transfer to *********-09S 02/05/2020 12:17 59947,SAFETY NET,debit,1,-500.0,Out
+2020-02-07,2020-02-07,Transfer,Transfer from *********-09S 02/07/2020 16:10 99226,EMERSYN,credit,1,-10.0,In
+2020-02-07,2020-02-07,Transfer,Transfer to *********-03S 02/07/2020 16:10 99226,CHECKING,debit,1,-10.0,Out
+2020-02-08,2020-02-08,Transfer,Transfer from *********-00S 02/08/2020 10:42 109092,CHECKING,credit,1,-100.0,In
+2020-02-08,2020-02-08,Transfer,Transfer from *********-00S 02/08/2020 10:44 109121,CREDIT CARD,credit,1,-429.92,In
+2020-02-08,2020-02-08,Transfer,Transfer to *********-02S 02/08/2020 10:44 109121,SAFETY NET,debit,1,-429.92,Out
+2020-02-08,2020-02-08,Transfer,Transfer to *********-09S 02/08/2020 10:42 109092,SAFETY NET,debit,1,-100.0,Out
+2020-02-10,2020-02-10,Transfer,Transfer from *********-09S 02/10/2020 19:41 141606,EMERSYN,credit,1,-500.0,In
+2020-02-10,2020-02-10,Transfer,Transfer to *********-03S 02/10/2020 19:41 141606,CHECKING,debit,1,-500.0,Out
+2020-02-13,2020-02-13,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1900.0,In
+2020-02-13,2020-02-13,Transfer,Transfer from *********-02S 02/13/2020 07:46 185088,CHECKING,credit,1,-755.94,In
+2020-02-13,2020-02-13,Transfer,Transfer to *********-09S 02/13/2020 07:46 185088,CREDIT CARD,debit,1,-755.94,Out
+2020-02-14,2020-02-14,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1900.0,Out
+2020-02-14,2020-02-14,Transfer,Transfer from *********-09S 02/14/2020 16:10 213046,EMERSYN,credit,1,-10.0,In
+2020-02-14,2020-02-14,Transfer,Transfer from *********-09S 02/14/2020 16:43 213846,SAFETY NET,credit,1,-10.0,In
+2020-02-14,2020-02-14,Transfer,Transfer to *********-00S 02/14/2020 16:43 213846,CHECKING,debit,1,-10.0,Out
+2020-02-14,2020-02-14,Transfer,Transfer to *********-03S 02/14/2020 16:10 213046,CHECKING,debit,1,-10.0,Out
+2020-02-17,2020-02-17,Transfer,*********-09s 02/17/2020 18:40 254843,VISA STARTER,credit,1,-55.07,In
+2020-02-17,2020-02-17,Transfer,Payment to*********-01L 02/17/2020 18:40 254843,CHECKING,debit,1,-55.07,Out
+2020-02-19,2020-02-19,Transfer,*********-09s 02/19/2020 19:52 285109,VISA STARTER,credit,1,-50.0,In
+2020-02-19,2020-02-19,Transfer,Payment to*********-01L 02/19/2020 19:52 285109,CHECKING,debit,1,-50.0,Out
+2020-02-19,2020-02-19,Transfer,Transfer from *********-09S 02/19/2020 19:51 285091,SAFETY NET,credit,1,-5500.0,In
+2020-02-19,2020-02-19,Transfer,Transfer from *********-09S 02/19/2020 19:52 285099,CREDIT CARD,credit,1,-400.0,In
+2020-02-19,2020-02-19,Transfer,Transfer to *********-00S 02/19/2020 19:51 285091,CHECKING,debit,1,-5500.0,Out
+2020-02-19,2020-02-19,Transfer,Transfer to *********-02S 02/19/2020 19:52 285099,CHECKING,debit,1,-400.0,Out
+2020-02-20,2020-02-20,Transfer,Transfer from *********-00S 02/20/2020 06:23 289846-Pay CPCU dues,CHECKING,credit,1,-275.0,In
+2020-02-20,2020-02-20,Transfer,Transfer to *********-09S 02/20/2020 06:23 289846-Pay CPCU dues,SAFETY NET,debit,1,-275.0,Out
+2020-02-21,2020-02-21,Transfer,Transfer from *********-09S 02/21/2020 16:10 316016,EMERSYN,credit,1,-10.0,In
+2020-02-21,2020-02-21,Transfer,Transfer to *********-03S 02/21/2020 16:10 316016,CHECKING,debit,1,-10.0,Out
+2020-02-22,2020-02-22,Transfer,Transfer from *********-00S 02/22/2020 10:32 326279,CHECKING,credit,1,-245.0,In
+2020-02-22,2020-02-22,Transfer,Transfer to *********-09S 02/22/2020 10:32 326279,SAFETY NET,debit,1,-245.0,Out
+2020-02-23,2020-02-23,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1200.0,In
+2020-02-23,2020-02-23,Transfer,Transfer from *********-02S 02/23/2020 13:41 339188,CHECKING,credit,1,-1172.39,In
+2020-02-23,2020-02-23,Transfer,Transfer to *********-09S 02/23/2020 13:41 339188,CREDIT CARD,debit,1,-1172.39,Out
+2020-02-24,2020-02-24,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1200.0,Out
+2020-02-24,2020-02-24,Transfer,Transfer from *********-00S 02/24/2020 19:01 356818,CHECKING,credit,1,-400.0,In
+2020-02-24,2020-02-24,Transfer,Transfer to *********-09S 02/24/2020 19:01 356818,SAFETY NET,debit,1,-400.0,Out
+2020-02-27,2020-02-27,Transfer,Transfer from *********-09S 02/27/2020 07:10 405670,CREDIT CARD,credit,1,-800.0,In
+2020-02-27,2020-02-27,Transfer,Transfer from *********-09S 02/27/2020 07:11 405684,EMERSYN,credit,1,-18.38,In
+2020-02-27,2020-02-27,Transfer,Transfer from *********-09S 02/27/2020 07:11 405700,HOLIDAY CLUB SAVINGS,credit,1,-175.0,In
+2020-02-27,2020-02-27,Transfer,Transfer from *********-09S 02/27/2020 07:12 405722,SAFETY NET,credit,1,-200.0,In
+2020-02-27,2020-02-27,Transfer,Transfer to *********-00S 02/27/2020 07:12 405722,CHECKING,debit,1,-200.0,Out
+2020-02-27,2020-02-27,Transfer,Transfer to *********-02S 02/27/2020 07:10 405670,CHECKING,debit,1,-800.0,Out
+2020-02-27,2020-02-27,Transfer,Transfer to *********-03S 02/27/2020 07:11 405684,CHECKING,debit,1,-18.38,Out
+2020-02-27,2020-02-27,Transfer,Transfer to *********-08S 02/27/2020 07:11 405700,CHECKING,debit,1,-175.0,Out
+2020-02-28,2020-02-28,Transfer,Transfer from *********-09S 02/28/2020 16:10 437168,EMERSYN,credit,1,-10.0,In
+2020-02-28,2020-02-28,Transfer,Transfer from *********-09S 02/28/2020 16:43 437964,SAFETY NET,credit,1,-10.0,In
+2020-02-28,2020-02-28,Transfer,Transfer to *********-00S 02/28/2020 16:43 437964,CHECKING,debit,1,-10.0,Out
+2020-02-28,2020-02-28,Transfer,Transfer to *********-03S 02/28/2020 16:10 437168,CHECKING,debit,1,-10.0,Out
+2020-03-02,2020-03-02,Transfer,Transfer from *********-00S 03/02/2020 20:10 492084,CHECKING,credit,1,-150.0,In
+2020-03-02,2020-03-02,Transfer,Transfer to *********-09S 03/02/2020 20:10 492084,SAFETY NET,debit,1,-150.0,Out
+2020-03-05,2020-03-05,Transfer,Transfer from *********-09S 03/05/2020 08:05 535106,CREDIT CARD,credit,1,-1000.0,In
+2020-03-05,2020-03-05,Transfer,Transfer from *********-09S 03/05/2020 08:05 535114,SAFETY NET,credit,1,-2000.0,In
+2020-03-05,2020-03-05,Transfer,Transfer to *********-00S 03/05/2020 08:05 535114,CHECKING,debit,1,-2000.0,Out
+2020-03-05,2020-03-05,Transfer,Transfer to *********-02S 03/05/2020 08:05 535106,CHECKING,debit,1,-1000.0,Out
+2020-03-06,2020-03-06,Transfer,Transfer from *********-09S 03/06/2020 16:10 560438,EMERSYN,credit,1,-10.0,In
+2020-03-06,2020-03-06,Transfer,Transfer to *********-03S 03/06/2020 16:10 560438,CHECKING,debit,1,-10.0,Out
+2020-03-07,2020-03-07,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-2158.63,In
+2020-03-07,2020-03-07,Transfer,Transfer from *********-00S 03/07/2020 17:08 576601,CREDIT CARD,credit,1,-400.0,In
+2020-03-07,2020-03-07,Transfer,Transfer from *********-02S 03/07/2020 17:09 576607,CHECKING,credit,1,-2200.0,In
+2020-03-07,2020-03-07,Transfer,Transfer to *********-02S 03/07/2020 17:08 576601,SAFETY NET,debit,1,-400.0,Out
+2020-03-07,2020-03-07,Transfer,Transfer to *********-09S 03/07/2020 17:09 576607,CREDIT CARD,debit,1,-2200.0,Out
+2020-03-09,2020-03-09,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-2158.63,Out
+2020-03-09,2020-03-09,Transfer,Transfer from *********-09S 03/09/2020 06:47 591650,CREDIT CARD,credit,1,-200.0,In
+2020-03-09,2020-03-09,Transfer,Transfer to *********-02S 03/09/2020 06:47 591650,CHECKING,debit,1,-200.0,Out
+2020-03-11,2020-03-11,Transfer,Transfer from *********-09S 03/11/2020 08:09 625823,CREDIT CARD,credit,1,-100.0,In
+2020-03-11,2020-03-11,Transfer,Transfer to *********-02S 03/11/2020 08:09 625823,CHECKING,debit,1,-100.0,Out
+2020-03-12,2020-03-12,Transfer,Transfer from *********-09S 03/12/2020 06:59 644487,CREDIT CARD,credit,1,-400.0,In
+2020-03-12,2020-03-12,Transfer,Transfer from *********-09S 03/12/2020 07:00 644489,HOLIDAY CLUB SAVINGS,credit,1,-103.98,In
+2020-03-12,2020-03-12,Transfer,Transfer to *********-02S 03/12/2020 06:59 644487,CHECKING,debit,1,-400.0,Out
+2020-03-12,2020-03-12,Transfer,Transfer to *********-08S 03/12/2020 07:00 644489,CHECKING,debit,1,-103.98,Out
+2020-03-13,2020-03-13,Transfer,Transfer from *********-09S 03/13/2020 16:10 671909,EMERSYN,credit,1,-10.0,In
+2020-03-13,2020-03-13,Transfer,Transfer from *********-09S 03/13/2020 16:43 672690,SAFETY NET,credit,1,-10.0,In
+2020-03-13,2020-03-13,Transfer,Transfer to *********-00S 03/13/2020 16:43 672690,CHECKING,debit,1,-10.0,Out
+2020-03-13,2020-03-13,Transfer,Transfer to *********-03S 03/13/2020 16:10 671909,CHECKING,debit,1,-10.0,Out
+2020-03-20,2020-03-20,Transfer,Transfer from *********-09S 03/20/2020 16:10 771487,EMERSYN,credit,1,-10.0,In
+2020-03-20,2020-03-20,Transfer,Transfer to *********-03S 03/20/2020 16:10 771487,CHECKING,debit,1,-10.0,Out
+2020-03-26,2020-03-26,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1000.0,In
+2020-03-26,2020-03-26,Transfer,Transfer from *********-09S 03/26/2020 08:47 837277,EMERSYN,credit,1,-60.0,In
+2020-03-26,2020-03-26,Transfer,Transfer to *********-03S 03/26/2020 08:47 837277,CHECKING,debit,1,-60.0,Out
+2020-03-27,2020-03-27,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1000.0,Out
+2020-03-27,2020-03-27,Transfer,Transfer from *********-09S 03/27/2020 11:39 854467,CREDIT CARD,credit,1,-150.0,In
+2020-03-27,2020-03-27,Transfer,Transfer from *********-09S 03/27/2020 16:10 858464,EMERSYN,credit,1,-10.0,In
+2020-03-27,2020-03-27,Transfer,Transfer from *********-09S 03/27/2020 16:43 859224,SAFETY NET,credit,1,-10.0,In
+2020-03-27,2020-03-27,Transfer,Transfer to *********-00S 03/27/2020 16:43 859224,CHECKING,debit,1,-10.0,Out
+2020-03-27,2020-03-27,Transfer,Transfer to *********-02S 03/27/2020 11:39 854467,CHECKING,debit,1,-150.0,Out
+2020-03-27,2020-03-27,Transfer,Transfer to *********-03S 03/27/2020 16:10 858464,CHECKING,debit,1,-10.0,Out
+2020-03-30,2020-03-30,Transfer,*********-02s 03/30/2020 10:10 897330,VISA STARTER,credit,1,-500.0,In
+2020-03-30,2020-03-30,Transfer,Payment to*********-01L 03/30/2020 10:10 897330,CREDIT CARD,debit,1,-500.0,Out
+2020-03-30,2020-03-30,Transfer,Transfer from *********-09S 03/30/2020 10:09 897324,CREDIT CARD,credit,1,-250.0,In
+2020-03-30,2020-03-30,Transfer,Transfer to *********-02S 03/30/2020 10:09 897324,CHECKING,debit,1,-250.0,Out
+2020-04-03,2020-04-03,Transfer,Transfer from *********-09S 04/03/2020 16:10 977608,EMERSYN,credit,1,-10.0,In
+2020-04-03,2020-04-03,Transfer,Transfer to *********-03S 04/03/2020 16:10 977608,CHECKING,debit,1,-10.0,Out
+2020-04-07,2020-04-07,Transfer,Transfer from *********-02S 04/06/2020 22:53 15804,CHECKING,credit,1,-600.34,In
+2020-04-07,2020-04-07,Transfer,Transfer from *********-03S 04/06/2020 22:46 15762,CHECKING,credit,1,-100.0,In
+2020-04-07,2020-04-07,Transfer,Transfer to *********-09S 04/06/2020 22:46 15762,EMERSYN,debit,1,-100.0,Out
+2020-04-07,2020-04-07,Transfer,Transfer to *********-09S 04/06/2020 22:53 15804,CREDIT CARD,debit,1,-600.34,Out
+2020-04-08,2020-04-08,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-579.67,Out
+2020-04-08,2020-04-08,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-579.67,In
+2020-04-09,2020-04-09,Transfer,*********-09s 04/09/2020 10:00 52107,VISA STARTER,credit,1,-105.6,In
+2020-04-09,2020-04-09,Transfer,Payment to*********-01L 04/09/2020 10:00 52107,CHECKING,debit,1,-105.6,Out
+2020-04-09,2020-04-09,Transfer,Transfer from *********-09S 04/09/2020 08:24 50059,SAFETY NET,credit,1,-750.0,In
+2020-04-09,2020-04-09,Transfer,Transfer from *********-09S 04/09/2020 10:00 52085,CREDIT CARD,credit,1,-250.0,In
+2020-04-09,2020-04-09,Transfer,Transfer to *********-00S 04/09/2020 08:24 50059,CHECKING,debit,1,-750.0,Out
+2020-04-09,2020-04-09,Transfer,Transfer to *********-02S 04/09/2020 10:00 52085,CHECKING,debit,1,-250.0,Out
+2020-04-10,2020-04-10,Transfer,*********-00s 04/10/2020 12:02 69554,VISA STARTER,credit,1,-100.0,In
+2020-04-10,2020-04-10,Transfer,Payment to*********-01L 04/10/2020 12:02 69554,SAFETY NET,debit,1,-100.0,Out
+2020-04-10,2020-04-10,Transfer,Transfer from *********-09S 04/10/2020 16:10 73495,EMERSYN,credit,1,-10.0,In
+2020-04-10,2020-04-10,Transfer,Transfer from *********-09S 04/10/2020 16:43 74437,SAFETY NET,credit,1,-10.0,In
+2020-04-10,2020-04-10,Transfer,Transfer from *********-09S 04/10/2020 19:26 78474,EMERSYN,credit,1,-200.0,In
+2020-04-10,2020-04-10,Transfer,Transfer from *********-09S 04/10/2020 19:26 78503,SAFETY NET,credit,1,-2700.0,In
+2020-04-10,2020-04-10,Transfer,Transfer to *********-00S 04/10/2020 16:43 74437,CHECKING,debit,1,-10.0,Out
+2020-04-10,2020-04-10,Transfer,Transfer to *********-00S 04/10/2020 19:26 78503,CHECKING,debit,1,-2700.0,Out
+2020-04-10,2020-04-10,Transfer,Transfer to *********-03S 04/10/2020 16:10 73495,CHECKING,debit,1,-10.0,Out
+2020-04-10,2020-04-10,Transfer,Transfer to *********-03S 04/10/2020 19:26 78474,CHECKING,debit,1,-200.0,Out
+2020-04-15,2020-04-15,Transfer,Transfer from *********-00S 04/15/2020 17:39 178911,CHECKING,credit,1,-200.98,In
+2020-04-15,2020-04-15,Transfer,Transfer to *********-09S 04/15/2020 17:39 178911,SAFETY NET,debit,1,-200.98,Out
+2020-04-17,2020-04-17,Transfer,Transfer from *********-09S 04/17/2020 16:10 214630,EMERSYN,credit,1,-10.0,In
+2020-04-17,2020-04-17,Transfer,Transfer to *********-03S 04/17/2020 16:10 214630,CHECKING,debit,1,-10.0,Out
+2020-04-20,2020-04-20,Transfer,Transfer from *********-00S 04/20/2020 09:16 244256,CHECKING,credit,1,-200.0,In
+2020-04-20,2020-04-20,Transfer,Transfer from *********-03S 04/20/2020 17:31 251963,CHECKING,credit,1,-142.0,In
+2020-04-20,2020-04-20,Transfer,Transfer to *********-09S 04/20/2020 09:16 244256,SAFETY NET,debit,1,-200.0,Out
+2020-04-20,2020-04-20,Transfer,Transfer to *********-09S 04/20/2020 17:31 251963,EMERSYN,debit,1,-142.0,Out
+2020-04-22,2020-04-22,Transfer,Transfer from *********-03S 04/22/2020 16:33 283098,CHECKING,credit,1,-200.0,In
+2020-04-22,2020-04-22,Transfer,Transfer to *********-09S 04/22/2020 16:33 283098,EMERSYN,debit,1,-200.0,Out
+2020-04-23,2020-04-23,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-750.0,Out
+2020-04-23,2020-04-23,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-750.0,In
+2020-04-23,2020-04-23,Transfer,Transfer from *********-02S 04/23/2020 12:22 297783,CHECKING,credit,1,-750.0,In
+2020-04-23,2020-04-23,Transfer,Transfer from *********-09S 04/23/2020 08:37 293339,CREDIT CARD,credit,1,-500.0,In
+2020-04-23,2020-04-23,Transfer,Transfer from *********-09S 04/23/2020 08:37 293351,EMERSYN,credit,1,-100.0,In
+2020-04-23,2020-04-23,Transfer,Transfer from *********-09S 04/23/2020 08:37 293360,SAFETY NET,credit,1,-400.0,In
+2020-04-23,2020-04-23,Transfer,Transfer to *********-00S 04/23/2020 08:37 293360,CHECKING,debit,1,-400.0,Out
+2020-04-23,2020-04-23,Transfer,Transfer to *********-02S 04/23/2020 08:37 293339,CHECKING,debit,1,-500.0,Out
+2020-04-23,2020-04-23,Transfer,Transfer to *********-03S 04/23/2020 08:37 293351,CHECKING,debit,1,-100.0,Out
+2020-04-23,2020-04-23,Transfer,Transfer to *********-09S 04/23/2020 12:22 297783,CREDIT CARD,debit,1,-750.0,Out
+2020-04-24,2020-04-24,Transfer,Transfer from *********-09S 04/24/2020 16:10 318209,EMERSYN,credit,1,-10.0,In
+2020-04-24,2020-04-24,Transfer,Transfer from *********-09S 04/24/2020 16:43 318977,SAFETY NET,credit,1,-10.0,In
+2020-04-24,2020-04-24,Transfer,Transfer to *********-00S 04/24/2020 16:43 318977,CHECKING,debit,1,-10.0,Out
+2020-04-24,2020-04-24,Transfer,Transfer to *********-03S 04/24/2020 16:10 318209,CHECKING,debit,1,-10.0,Out
+2020-04-25,2020-04-25,Transfer,Transfer from *********-09S 04/25/2020 08:25 325770,CREDIT CARD,credit,1,-250.0,In
+2020-04-25,2020-04-25,Transfer,Transfer to *********-02S 04/25/2020 08:25 325770,CHECKING,debit,1,-250.0,Out
+2020-04-26,2020-04-26,Transfer,Transfer from *********-00S 04/26/2020 14:19 339966,CREDIT CARD,credit,1,-800.0,In
+2020-04-26,2020-04-26,Transfer,Transfer from *********-00S 04/26/2020 17:31 342083,CHECKING,credit,1,-425.0,In
+2020-04-26,2020-04-26,Transfer,Transfer to *********-02S 04/26/2020 14:19 339966,SAFETY NET,debit,1,-800.0,Out
+2020-04-26,2020-04-26,Transfer,Transfer to *********-09S 04/26/2020 17:31 342083,SAFETY NET,debit,1,-425.0,Out
+2020-05-01,2020-05-01,Transfer,Transfer from *********-09S 05/01/2020 16:10 455138,EMERSYN,credit,1,-10.0,In
+2020-05-01,2020-05-01,Transfer,Transfer to *********-03S 05/01/2020 16:10 455138,CHECKING,debit,1,-10.0,Out
+2020-05-02,2020-05-02,Transfer,Transfer from *********-00S 05/02/2020 15:23 476086,CHECKING,credit,1,-200.0,In
+2020-05-02,2020-05-02,Transfer,Transfer to *********-09S 05/02/2020 15:23 476086,SAFETY NET,debit,1,-200.0,Out
+2020-05-04,2020-05-04,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-950.0,Out
+2020-05-04,2020-05-04,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-950.0,In
+2020-05-04,2020-05-04,Transfer,Transfer from *********-02S 05/04/2020 11:16 500478,CHECKING,credit,1,-950.0,In
+2020-05-04,2020-05-04,Transfer,Transfer to *********-09S 05/04/2020 11:16 500478,CREDIT CARD,debit,1,-950.0,Out
+2020-05-07,2020-05-07,Transfer,Transfer from *********-09S 05/07/2020 07:38 555503,CREDIT CARD,credit,1,-500.0,In
+2020-05-07,2020-05-07,Transfer,Transfer from *********-09S 05/07/2020 07:38 555521,SAFETY NET,credit,1,-600.0,In
+2020-05-07,2020-05-07,Transfer,Transfer to *********-00S 05/07/2020 07:38 555521,CHECKING,debit,1,-600.0,Out
+2020-05-07,2020-05-07,Transfer,Transfer to *********-02S 05/07/2020 07:38 555503,CHECKING,debit,1,-500.0,Out
+2020-05-08,2020-05-08,Transfer,Transfer from *********-09S 05/08/2020 09:01 576537,SAFETY NET,credit,1,-200.0,In
+2020-05-08,2020-05-08,Transfer,Transfer from *********-09S 05/08/2020 09:12 576766,MORTGAGE,credit,1,-150.0,In
+2020-05-08,2020-05-08,Transfer,Transfer from *********-09S 05/08/2020 16:10 584208,EMERSYN,credit,1,-10.0,In
+2020-05-08,2020-05-08,Transfer,Transfer from *********-09S 05/08/2020 16:43 585063,SAFETY NET,credit,1,-10.0,In
+2020-05-08,2020-05-08,Transfer,Transfer to *********-00S 05/08/2020 09:01 576537,CHECKING,debit,1,-200.0,Out
+2020-05-08,2020-05-08,Transfer,Transfer to *********-00S 05/08/2020 16:43 585063,CHECKING,debit,1,-10.0,Out
+2020-05-08,2020-05-08,Transfer,Transfer to *********-03S 05/08/2020 16:10 584208,CHECKING,debit,1,-10.0,Out
+2020-05-08,2020-05-08,Transfer,Transfer to *********-04S 05/08/2020 09:12 576766,CHECKING,debit,1,-150.0,Out
+2020-05-09,2020-05-09,Transfer,Transfer from *********-00S 05/09/2020 13:59 598704,CHECKING,credit,1,-102.29,In
+2020-05-09,2020-05-09,Transfer,Transfer to *********-09S 05/09/2020 13:59 598704,SAFETY NET,debit,1,-102.29,Out
+2020-05-11,2020-05-11,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-572.93,Out
+2020-05-11,2020-05-11,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-572.93,In
+2020-05-11,2020-05-11,Transfer,Transfer from *********-02S 05/11/2020 17:34 627822,CHECKING,credit,1,-600.08,In
+2020-05-11,2020-05-11,Transfer,Transfer to *********-09S 05/11/2020 17:34 627822,CREDIT CARD,debit,1,-600.08,Out
+2020-05-12,2020-05-12,Transfer,Transfer from *********-00S 05/12/2020 15:32 641832,CHECKING,credit,1,-100.0,In
+2020-05-12,2020-05-12,Transfer,Transfer to *********-09S 05/12/2020 15:32 641832,SAFETY NET,debit,1,-100.0,Out
+2020-05-15,2020-05-15,Transfer,Transfer from *********-09S 05/15/2020 16:10 708985,EMERSYN,credit,1,-10.0,In
+2020-05-15,2020-05-15,Transfer,Transfer to *********-03S 05/15/2020 16:10 708985,CHECKING,debit,1,-10.0,Out
+2020-05-16,2020-05-16,Transfer,Transfer from *********-00S 05/16/2020 08:42 719891,CHECKING,credit,1,-150.0,In
+2020-05-16,2020-05-16,Transfer,Transfer to *********-09S 05/16/2020 08:42 719891,SAFETY NET,debit,1,-150.0,Out
+2020-05-17,2020-05-17,Transfer,Transfer from *********-08S 05/17/2020 10:58 733539,CHECKING,credit,1,-16.67,In
+2020-05-17,2020-05-17,Transfer,Transfer to *********-09S 05/17/2020 10:58 733539,HOLIDAY CLUB SAVINGS,debit,1,-16.67,Out
+2020-05-19,2020-05-19,Transfer,Transfer to Share Draft Transfer from *********-00S,CHECKING,credit,1,-100.0,In
+2020-05-19,2020-05-19,Transfer,Transfer to Share Draft Transfer to *********-09S,SAFETY NET,debit,1,-100.0,Out
+2020-05-20,2020-05-20,Transfer,Transfer from *********-00S 110 GRILL ROCHESTER ROCHESTER NHUS,CHECKING,credit,1,-100.0,In
+2020-05-20,2020-05-20,Transfer,Transfer to *********-09S 110 GRILL ROCHESTER ROCHESTER NHUS,SAFETY NET,debit,1,-100.0,Out
+2020-05-21,2020-05-21,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1000.0,Out
+2020-05-21,2020-05-21,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1000.0,In
+2020-05-21,2020-05-21,Transfer,Transfer from *********-09S 05/21/2020 09:13 798717,SAFETY NET,credit,1,-350.0,In
+2020-05-21,2020-05-21,Transfer,Transfer to *********-00S 05/21/2020 09:13 798717,CHECKING,debit,1,-350.0,Out
+2020-05-22,2020-05-22,Transfer,Transfer from *********-09S 05/22/2020 16:10 823960,EMERSYN,credit,1,-10.0,In
+2020-05-22,2020-05-22,Transfer,Transfer from *********-09S 05/22/2020 16:43 824710,SAFETY NET,credit,1,-10.0,In
+2020-05-22,2020-05-22,Transfer,Transfer to *********-00S 05/22/2020 16:43 824710,CHECKING,debit,1,-10.0,Out
+2020-05-22,2020-05-22,Transfer,Transfer to *********-03S 05/22/2020 16:10 823960,CHECKING,debit,1,-10.0,Out
+2020-05-25,2020-05-25,Transfer,Transfer from *********-00S 05/25/2020 17:45 862087,CHECKING,credit,1,-100.0,In
+2020-05-25,2020-05-25,Transfer,Transfer to *********-09S 05/25/2020 17:45 862087,SAFETY NET,debit,1,-100.0,Out
+2020-05-28,2020-05-28,Transfer,Transfer from *********-00S 05/28/2020 09:57 916364,CREDIT CARD,credit,1,-500.0,In
+2020-05-28,2020-05-28,Transfer,Transfer to *********-02S 05/28/2020 09:57 916364,SAFETY NET,debit,1,-500.0,Out
+2020-05-29,2020-05-29,Transfer,Transfer from *********-09S 05/29/2020 16:10 948168,EMERSYN,credit,1,-10.0,In
+2020-05-29,2020-05-29,Transfer,Transfer to *********-03S 05/29/2020 16:10 948168,CHECKING,debit,1,-10.0,Out
+2020-06-03,2020-06-03,Transfer,Transfer from *********-00S 06/03/2020 15:50 40762,CHECKING,credit,1,-23.58,In
+2020-06-03,2020-06-03,Transfer,Transfer from *********-04S 06/03/2020 15:50 40775,SAFETY NET,credit,1,-150.02,In
+2020-06-03,2020-06-03,Transfer,Transfer to *********-00S 06/03/2020 15:50 40775,MORTGAGE,debit,1,-150.02,Out
+2020-06-03,2020-06-03,Transfer,Transfer to *********-09S 06/03/2020 15:50 40762,SAFETY NET,debit,1,-23.58,Out
+2020-06-04,2020-06-04,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1200.0,In
+2020-06-04,2020-06-04,Transfer,LIBERTY MUTUAL DESC: PAYROLL,CHECKING,credit,1,-2485.01,In
+2020-06-04,2020-06-04,Transfer,Transfer from *********-02S 06/04/2020 07:47 53017,CHECKING,credit,1,-500.05,In
+2020-06-04,2020-06-04,Transfer,Transfer from *********-09S 06/04/2020 07:49 53056,SAFETY NET,credit,1,-550.0,In
+2020-06-04,2020-06-04,Transfer,Transfer to *********-00S 06/04/2020 07:49 53056,CHECKING,debit,1,-550.0,Out
+2020-06-04,2020-06-04,Transfer,Transfer to *********-09S 06/04/2020 07:47 53017,CREDIT CARD,debit,1,-500.05,Out
+2020-06-05,2020-06-05,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1200.0,Out
+2020-06-05,2020-06-05,Transfer,DEPT EDUCATION DESC: STUDENT LN,CHECKING,debit,1,-2450.0,Out
+2020-06-05,2020-06-05,Transfer,Transfer from *********-09S 06/05/2020 16:10 81664,EMERSYN,credit,1,-10.0,In
+2020-06-05,2020-06-05,Transfer,Transfer from *********-09S 06/05/2020 16:43 82432,SAFETY NET,credit,1,-10.0,In
+2020-06-05,2020-06-05,Transfer,Transfer to *********-00S 06/05/2020 16:43 82432,CHECKING,debit,1,-10.0,Out
+2020-06-05,2020-06-05,Transfer,Transfer to *********-03S 06/05/2020 16:10 81664,CHECKING,debit,1,-10.0,Out
+2020-06-11,2020-06-11,Transfer,Transfer from *********-00S 06/11/2020 15:39 184741,CHECKING,credit,1,-100.0,In
+2020-06-11,2020-06-11,Transfer,Transfer to *********-09S 06/11/2020 15:39 184741,SAFETY NET,debit,1,-100.0,Out
+2020-06-12,2020-06-12,Transfer,Transfer from *********-09S 06/12/2020 16:10 205903,EMERSYN,credit,1,-10.0,In
+2020-06-12,2020-06-12,Transfer,Transfer to *********-03S 06/12/2020 16:10 205903,CHECKING,debit,1,-10.0,Out
+2020-06-13,2020-06-13,Transfer,Transfer from *********-00S 06/13/2020 15:13 221080,CHECKING,credit,1,-300.0,In
+2020-06-13,2020-06-13,Transfer,Transfer to *********-09S 06/13/2020 15:13 221080,SAFETY NET,debit,1,-300.0,Out
+2020-06-15,2020-06-15,Transfer,Transfer from *********-03S 06/15/2020 06:46 240466,CHECKING,credit,1,-81.93,In
+2020-06-15,2020-06-15,Transfer,Transfer to *********-09S 06/15/2020 06:46 240466,EMERSYN,debit,1,-81.93,Out
+2020-06-18,2020-06-18,Transfer,*********-09s 06/18/2020 11:22 307650,VISA STARTER,credit,1,-43.11,In
+2020-06-18,2020-06-18,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-875.08,In
+2020-06-18,2020-06-18,Transfer,Payment to*********-01L 06/18/2020 11:22 307650,CHECKING,debit,1,-43.11,Out
+2020-06-18,2020-06-18,Transfer,Transfer from *********-09S 06/18/2020 08:01 303249,SAFETY NET,credit,1,-400.0,In
+2020-06-18,2020-06-18,Transfer,Transfer to *********-00S 06/18/2020 08:01 303249,CHECKING,debit,1,-400.0,Out
+2020-06-19,2020-06-19,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-875.08,Out
+2020-06-19,2020-06-19,Transfer,Transfer from *********-09S 06/19/2020 16:10 331190,EMERSYN,credit,1,-10.0,In
+2020-06-19,2020-06-19,Transfer,Transfer from *********-09S 06/19/2020 16:43 332083,SAFETY NET,credit,1,-10.0,In
+2020-06-19,2020-06-19,Transfer,Transfer to *********-00S 06/19/2020 16:43 332083,CHECKING,debit,1,-10.0,Out
+2020-06-19,2020-06-19,Transfer,Transfer to *********-03S 06/19/2020 16:10 331190,CHECKING,debit,1,-10.0,Out
+2020-06-22,2020-06-22,Transfer,Transfer from *********-00S 06/22/2020 10:55 368408,CHECKING,credit,1,-200.0,In
+2020-06-22,2020-06-22,Transfer,Transfer to *********-09S 06/22/2020 10:55 368408,SAFETY NET,debit,1,-200.0,Out
+2020-06-26,2020-06-26,Transfer,Transfer from *********-09S 06/26/2020 16:10 451883,EMERSYN,credit,1,-10.0,In
+2020-06-26,2020-06-26,Transfer,Transfer to *********-03S 06/26/2020 16:10 451883,CHECKING,debit,1,-10.0,Out
+2020-06-29,2020-06-29,Transfer,Transfer from *********-00S 06/29/2020 12:23 502560,CHECKING,credit,1,-120.02,In
+2020-06-29,2020-06-29,Transfer,Transfer to *********-09S 06/29/2020 12:23 502560,SAFETY NET,debit,1,-120.02,Out
+2020-07-01,2020-07-01,Transfer,Transfer from *********-00S 07/01/2020 14:40 555071,CHECKING,credit,1,-40.0,In
+2020-07-01,2020-07-01,Transfer,Transfer to *********-09S 07/01/2020 14:40 555071,SAFETY NET,debit,1,-40.0,Out
+2020-07-02,2020-07-02,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-550.0,In
+2020-07-02,2020-07-02,Transfer,Transfer from *********-09S 07/02/2020 02:27 567381,SAFETY NET,credit,1,-500.0,In
+2020-07-02,2020-07-02,Transfer,Transfer to *********-00S 07/02/2020 02:27 567381,CHECKING,debit,1,-500.0,Out
+2020-07-03,2020-07-03,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-550.0,Out
+2020-07-03,2020-07-03,Transfer,Transfer from *********-09S 07/03/2020 16:10 603564,EMERSYN,credit,1,-10.0,In
+2020-07-03,2020-07-03,Transfer,Transfer from *********-09S 07/03/2020 16:43 604455,SAFETY NET,credit,1,-10.0,In
+2020-07-03,2020-07-03,Transfer,Transfer to *********-00S 07/03/2020 16:43 604455,CHECKING,debit,1,-10.0,Out
+2020-07-03,2020-07-03,Transfer,Transfer to *********-03S 07/03/2020 16:10 603564,CHECKING,debit,1,-10.0,Out
+2020-07-05,2020-07-05,Transfer,*********-09s 07/05/2020 14:29 627908,VISA STARTER,credit,1,-15.92,In
+2020-07-05,2020-07-05,Transfer,Payment to*********-01L 07/05/2020 14:29 627908,CHECKING,debit,1,-15.92,Out
+2020-07-05,2020-07-05,Transfer,Transfer from *********-09S 07/05/2020 14:29 627896,CREDIT CARD,credit,1,-150.0,In
+2020-07-05,2020-07-05,Transfer,Transfer to *********-02S 07/05/2020 14:29 627896,CHECKING,debit,1,-150.0,Out
+2020-07-09,2020-07-09,Transfer,Transfer from *********-02S 07/09/2020 09:07 696179,CHECKING,credit,1,-150.0,In
+2020-07-09,2020-07-09,Transfer,Transfer to *********-09S 07/09/2020 09:07 696179,CREDIT CARD,debit,1,-150.0,Out
+2020-07-10,2020-07-10,Transfer,Transfer from *********-00S 07/10/2020 09:37 715362,CHECKING,credit,1,-184.0,In
+2020-07-10,2020-07-10,Transfer,Transfer from *********-09S 07/10/2020 16:10 722710,EMERSYN,credit,1,-10.0,In
+2020-07-10,2020-07-10,Transfer,Transfer to *********-03S 07/10/2020 16:10 722710,CHECKING,debit,1,-10.0,Out
+2020-07-10,2020-07-10,Transfer,Transfer to *********-09S 07/10/2020 09:37 715362,SAFETY NET,debit,1,-184.0,Out
+2020-07-16,2020-07-16,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-628.99,In
+2020-07-16,2020-07-16,Transfer,Transfer from *********-09S 07/16/2020 07:23 826591,SAFETY NET,credit,1,-800.0,In
+2020-07-16,2020-07-16,Transfer,Transfer to *********-00S 07/16/2020 07:23 826591,CHECKING,debit,1,-800.0,Out
+2020-07-17,2020-07-17,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-628.99,Out
+2020-07-17,2020-07-17,Transfer,Transfer from *********-09S 07/17/2020 16:10 857407,EMERSYN,credit,1,-10.0,In
+2020-07-17,2020-07-17,Transfer,Transfer from *********-09S 07/17/2020 16:43 858397,SAFETY NET,credit,1,-10.0,In
+2020-07-17,2020-07-17,Transfer,Transfer to *********-00S 07/17/2020 16:43 858397,CHECKING,debit,1,-10.0,Out
+2020-07-17,2020-07-17,Transfer,Transfer to *********-03S 07/17/2020 16:10 857407,CHECKING,debit,1,-10.0,Out
+2020-07-21,2020-07-21,Transfer,Venmo,CHECKING,debit,1,-10.0,Out
+2020-07-22,2020-07-22,Transfer,Transfer from *********-00S 07/22/2020 11:44 932234,CHECKING,credit,1,-80.48,In
+2020-07-22,2020-07-22,Transfer,Transfer to *********-09S 07/22/2020 11:44 932234,SAFETY NET,debit,1,-80.48,Out
+2020-07-24,2020-07-24,Transfer,Transfer from *********-09S 07/24/2020 16:10 978170,EMERSYN,credit,1,-10.0,In
+2020-07-24,2020-07-24,Transfer,Transfer to *********-03S 07/24/2020 16:10 978170,CHECKING,debit,1,-10.0,Out
+2020-07-25,2020-07-25,Transfer,*********-09s 07/25/2020 08:18 987356,VISA STARTER,credit,1,-15.68,In
+2020-07-25,2020-07-25,Transfer,Payment to*********-01L 07/25/2020 08:18 987356,CHECKING,debit,1,-15.68,Out
+2020-07-26,2020-07-26,Transfer,Transfer from *********-00S 07/26/2020 11:40 3441,CHECKING,credit,1,-500.0,In
+2020-07-26,2020-07-26,Transfer,Transfer to *********-09S 07/26/2020 11:40 3441,SAFETY NET,debit,1,-500.0,Out
+2020-07-30,2020-07-30,Transfer,Huttopia Pine Knoll,Discover,credit,1,-138.5,In
+2020-07-30,2020-07-30,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-600.0,In
+2020-07-30,2020-07-30,Transfer,Payment to*********-03L 07/30/2020 10:27 92833,CHECKING,debit,1,-140.0,Out
+2020-07-30,2020-07-30,Transfer,Transfer from *********-08S 07/30/2020 10:27 92814,EMERSYN,credit,1,-15.68,In
+2020-07-30,2020-07-30,Transfer,Transfer from *********-09S 07/30/2020 10:26 92794,SAFETY NET,credit,1,-600.0,In
+2020-07-30,2020-07-30,Transfer,Transfer from *********-09S 07/30/2020 10:27 92821,EMERSYN,credit,1,-25.0,In
+2020-07-30,2020-07-30,Transfer,Transfer to *********-00S 07/30/2020 10:26 92794,CHECKING,debit,1,-600.0,Out
+2020-07-30,2020-07-30,Transfer,Transfer to *********-03S 07/30/2020 10:27 92814,HOLIDAY CLUB SAVINGS,debit,1,-15.68,Out
+2020-07-30,2020-07-30,Transfer,Transfer to *********-03S 07/30/2020 10:27 92821,CHECKING,debit,1,-25.0,Out
+2020-07-31,2020-07-31,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-600.0,Out
+2020-07-31,2020-07-31,Transfer,Transfer from *********-09S 07/31/2020 16:10 125248,EMERSYN,credit,1,-10.0,In
+2020-07-31,2020-07-31,Transfer,Transfer from *********-09S 07/31/2020 16:43 126364,SAFETY NET,credit,1,-10.0,In
+2020-07-31,2020-07-31,Transfer,Transfer to *********-00S 07/31/2020 16:43 126364,CHECKING,debit,1,-10.0,Out
+2020-07-31,2020-07-31,Transfer,Transfer to *********-03S 07/31/2020 16:10 125248,CHECKING,debit,1,-10.0,Out
+2020-08-05,2020-08-05,Transfer,Transfer from *********-00S 08/05/2020 10:34 220798,CHECKING,credit,1,-300.0,In
+2020-08-05,2020-08-05,Transfer,Transfer to *********-09S 08/05/2020 10:34 220798,SAFETY NET,debit,1,-300.0,Out
+2020-08-07,2020-08-07,Transfer,Transfer from *********-09S 08/07/2020 16:10 271595,EMERSYN,credit,1,-10.0,In
+2020-08-07,2020-08-07,Transfer,Transfer to *********-03S 08/07/2020 16:10 271595,CHECKING,debit,1,-10.0,Out
+2020-08-08,2020-08-08,Transfer,Transfer from *********-00S 08/08/2020 12:06 285018,CHECKING,credit,1,-150.0,In
+2020-08-08,2020-08-08,Transfer,Transfer to *********-09S 08/08/2020 12:06 285018,SAFETY NET,debit,1,-150.0,Out
+2020-08-10,2020-08-10,Transfer,Transfer from *********-00S 08/10/2020 16:16 318543,CHECKING,credit,1,-25.0,In
+2020-08-10,2020-08-10,Transfer,Transfer to *********-09S 08/10/2020 16:16 318543,SAFETY NET,debit,1,-25.0,Out
+2020-08-11,2020-08-11,Transfer,Transfer from *********-00S 08/11/2020 13:01 334017,CHECKING,credit,1,-125.0,In
+2020-08-11,2020-08-11,Transfer,Transfer to *********-09S 08/11/2020 13:01 334017,SAFETY NET,debit,1,-125.0,Out
+2020-08-13,2020-08-13,Transfer,*********-09s 08/13/2020 08:23 375672,VISA STARTER,credit,1,-133.91,In
+2020-08-13,2020-08-13,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-200.0,In
+2020-08-13,2020-08-13,Transfer,Payment to*********-01L 08/13/2020 08:23 375672,CHECKING,debit,1,-133.91,Out
+2020-08-13,2020-08-13,Transfer,LIBERTY MUTUAL DESC: PAYROLL,CHECKING,credit,2,-2100.0,In
+2020-08-13,2020-08-13,Transfer,Transfer from *********-09S 08/13/2020 08:22 375670,SAFETY NET,credit,1,-500.0,In
+2020-08-13,2020-08-13,Transfer,Transfer to *********-00S 08/13/2020 08:22 375670,CHECKING,debit,1,-500.0,Out
+2020-08-14,2020-08-14,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-200.0,Out
+2020-08-14,2020-08-14,Transfer,DEPT EDUCATION DESC: STUDENT LN,CHECKING,debit,2,-2100.0,Out
+2020-08-14,2020-08-14,Transfer,Transfer from *********-09S 08/14/2020 13:06 403687,SAFETY NET,credit,1,-600.01,In
+2020-08-14,2020-08-14,Transfer,Transfer from *********-09S 08/14/2020 13:07 403709,EMERSYN,credit,1,-72.0,In
+2020-08-14,2020-08-14,Transfer,Transfer from *********-09S 08/14/2020 16:10 407387,EMERSYN,credit,1,-10.0,In
+2020-08-14,2020-08-14,Transfer,Transfer from *********-09S 08/14/2020 16:43 408443,SAFETY NET,credit,1,-10.0,In
+2020-08-14,2020-08-14,Transfer,Transfer to *********-00S 08/14/2020 13:06 403687,CHECKING,debit,1,-600.01,Out
+2020-08-14,2020-08-14,Transfer,Transfer to *********-00S 08/14/2020 16:43 408443,CHECKING,debit,1,-10.0,Out
+2020-08-14,2020-08-14,Transfer,Transfer to *********-03S 08/14/2020 13:07 403709,CHECKING,debit,1,-72.0,Out
+2020-08-14,2020-08-14,Transfer,Transfer to *********-03S 08/14/2020 16:10 407387,CHECKING,debit,1,-10.0,Out
+2020-08-21,2020-08-21,Transfer,Transfer from *********-09S 08/21/2020 16:10 537081,EMERSYN,credit,1,-10.0,In
+2020-08-21,2020-08-21,Transfer,Transfer to *********-03S 08/21/2020 16:10 537081,CHECKING,debit,1,-10.0,Out
+2020-08-22,2020-08-22,Transfer,*********-02s 08/22/2020 10:25 548136,VISA STARTER,credit,1,-74.85,In
+2020-08-22,2020-08-22,Transfer,Payment to*********-01L 08/22/2020 10:25 548136,CREDIT CARD,debit,1,-74.85,Out
+2020-08-22,2020-08-22,Transfer,Transfer from *********-08S 08/22/2020 10:25 548129,CREDIT CARD,credit,1,-500.0,In
+2020-08-22,2020-08-22,Transfer,Transfer from *********-08S 08/22/2020 18:12 555833,CHECKING,credit,1,-200.0,In
+2020-08-22,2020-08-22,Transfer,Transfer to *********-02S 08/22/2020 10:25 548129,HOLIDAY CLUB SAVINGS,debit,1,-500.0,Out
+2020-08-22,2020-08-22,Transfer,Transfer to *********-09S 08/22/2020 18:12 555833,HOLIDAY CLUB SAVINGS,debit,1,-200.0,Out
+2020-08-23,2020-08-23,Transfer,Transfer from *********-00S 08/23/2020 09:55 561414,CHECKING,credit,1,-300.0,In
+2020-08-23,2020-08-23,Transfer,Transfer to *********-09S 08/23/2020 09:55 561414,SAFETY NET,debit,1,-300.0,Out
+2020-08-24,2020-08-24,Transfer,Transfer from *********-00S 08/24/2020 10:58 577605,CHECKING,credit,1,-50.0,In
+2020-08-24,2020-08-24,Transfer,Transfer from *********-08S 08/24/2020 07:58 574445,CHECKING,credit,1,-107.97,In
+2020-08-24,2020-08-24,Transfer,Transfer to *********-09S 08/24/2020 07:58 574445,HOLIDAY CLUB SAVINGS,debit,1,-107.97,Out
+2020-08-24,2020-08-24,Transfer,Transfer to *********-09S 08/24/2020 10:58 577605,SAFETY NET,debit,1,-50.0,Out
+2020-08-27,2020-08-27,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1000.0,In
+2020-08-27,2020-08-27,Transfer,Transfer from *********-02S 08/27/2020 09:46 636746,CHECKING,credit,1,-425.16,In
+2020-08-27,2020-08-27,Transfer,Transfer from *********-09S 08/27/2020 10:45 638254,SAFETY NET,credit,1,-800.0,In
+2020-08-27,2020-08-27,Transfer,Transfer from *********-09S 08/27/2020 15:50 644852,EMERSYN,credit,1,-75.0,In
+2020-08-27,2020-08-27,Transfer,Transfer to *********-00S 08/27/2020 10:45 638254,CHECKING,debit,1,-800.0,Out
+2020-08-27,2020-08-27,Transfer,Transfer to *********-03S 08/27/2020 15:50 644852,CHECKING,debit,1,-75.0,Out
+2020-08-27,2020-08-27,Transfer,Transfer to *********-09S 08/27/2020 09:46 636746,CREDIT CARD,debit,1,-425.16,Out
+2020-08-28,2020-08-28,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1000.0,Out
+2020-08-28,2020-08-28,Transfer,Transfer from *********-09S 08/28/2020 16:10 676248,EMERSYN,credit,1,-10.0,In
+2020-08-28,2020-08-28,Transfer,Transfer from *********-09S 08/28/2020 16:43 677410,SAFETY NET,credit,1,-10.0,In
+2020-08-28,2020-08-28,Transfer,Transfer to *********-00S 08/28/2020 16:43 677410,CHECKING,debit,1,-10.0,Out
+2020-08-28,2020-08-28,Transfer,Transfer to *********-03S 08/28/2020 16:10 676248,CHECKING,debit,1,-10.0,Out
+2020-08-31,2020-08-31,Transfer,*********-09s 08/31/2020 10:25 722616,VISA STARTER,credit,1,-45.93,In
+2020-08-31,2020-08-31,Transfer,Payment to*********-01L 08/31/2020 10:25 722616,CHECKING,debit,1,-45.93,Out
+2020-08-31,2020-08-31,Transfer,Venmo,CHECKING,debit,1,-20.0,Out
+2020-09-02,2020-09-02,Transfer,E*TRADE DESC: ACH TRNSFR,SAFETY NET,debit,1,-10000.0,Out
+2020-09-04,2020-09-04,Transfer,Transfer from *********-09S 09/04/2020 16:10 838191,EMERSYN,credit,1,-10.0,In
+2020-09-04,2020-09-04,Transfer,Transfer to *********-03S 09/04/2020 16:10 838191,CHECKING,debit,1,-10.0,Out
+2020-09-08,2020-09-08,Transfer,Transfer from *********-00S 09/08/2020 07:21 892007,CREDIT CARD,credit,1,-600.37,In
+2020-09-08,2020-09-08,Transfer,Transfer from *********-00S 09/08/2020 13:27 899132,CHECKING,credit,1,-100.0,In
+2020-09-08,2020-09-08,Transfer,Transfer to *********-02S 09/08/2020 07:21 892007,SAFETY NET,debit,1,-600.37,Out
+2020-09-08,2020-09-08,Transfer,Transfer to *********-09S 09/08/2020 13:27 899132,SAFETY NET,debit,1,-100.0,Out
+2020-09-10,2020-09-10,Transfer,*********-09s 09/10/2020 08:21 937093,VISA STARTER,credit,1,-108.53,In
+2020-09-10,2020-09-10,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1000.0,In
+2020-09-10,2020-09-10,Transfer,Payment to*********-01L 09/10/2020 08:21 937093,CHECKING,debit,1,-108.53,Out
+2020-09-10,2020-09-10,Transfer,Transfer from *********-02S 09/10/2020 07:07 935231,CHECKING,credit,1,-600.38,In
+2020-09-10,2020-09-10,Transfer,Transfer from *********-09S 09/10/2020 08:21 937078,SAFETY NET,credit,1,-800.0,In
+2020-09-10,2020-09-10,Transfer,Transfer to *********-00S 09/10/2020 08:21 937078,CHECKING,debit,1,-800.0,Out
+2020-09-10,2020-09-10,Transfer,Transfer to *********-09S 09/10/2020 07:07 935231,CREDIT CARD,debit,1,-600.38,Out
+2020-09-11,2020-09-11,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1000.0,Out
+2020-09-11,2020-09-11,Transfer,Transfer from *********-09S 09/11/2020 16:10 975222,EMERSYN,credit,1,-10.0,In
+2020-09-11,2020-09-11,Transfer,Transfer from *********-09S 09/11/2020 16:43 976361,SAFETY NET,credit,1,-10.0,In
+2020-09-11,2020-09-11,Transfer,Transfer to *********-00S 09/11/2020 16:43 976361,CHECKING,debit,1,-10.0,Out
+2020-09-11,2020-09-11,Transfer,Transfer to *********-03S 09/11/2020 16:10 975222,CHECKING,debit,1,-10.0,Out
+2020-09-16,2020-09-16,Transfer,Transfer from *********-00S 09/16/2020 09:01 58920,CHECKING,credit,1,-93.8,In
+2020-09-16,2020-09-16,Transfer,Transfer to *********-09S 09/16/2020 09:01 58920,SAFETY NET,debit,1,-93.8,Out
+2020-09-17,2020-09-17,Transfer,CITIZENM BOSTON BOSTON MA,Discover,debit,1,-1.0,Out
+2020-09-17,2020-09-17,Transfer,Citizenm Boston Boston,Discover,credit,1,-1.0,In
+2020-09-18,2020-09-18,Transfer,Direct Deposit Online Deposit,SAFETY NET,credit,1,-5698.0,In
+2020-09-18,2020-09-18,Transfer,Transfer from *********-08S 09/18/2020 17:25 114629,CHECKING,credit,1,-207.91,In
+2020-09-18,2020-09-18,Transfer,Transfer from *********-09S 09/18/2020 16:10 112334,EMERSYN,credit,1,-10.0,In
+2020-09-18,2020-09-18,Transfer,Transfer to *********-03S 09/18/2020 16:10 112334,CHECKING,debit,1,-10.0,Out
+2020-09-18,2020-09-18,Transfer,Transfer to *********-09S 09/18/2020 17:25 114629,HOLIDAY CLUB SAVINGS,debit,1,-207.91,Out
+2020-09-19,2020-09-19,Transfer,Transfer from *********-00S 09/19/2020 17:53 131909,CHECKING,credit,1,-100.0,In
+2020-09-19,2020-09-19,Transfer,Transfer to *********-09S 09/19/2020 17:53 131909,SAFETY NET,debit,1,-100.0,Out
+2020-09-21,2020-09-21,Transfer,Transfer from *********-00S 09/21/2020 15:50 160014,CHECKING,credit,1,-100.0,In
+2020-09-21,2020-09-21,Transfer,Transfer from *********-03S 09/21/2020 09:18 152649,CHECKING,credit,1,-30.26,In
+2020-09-21,2020-09-21,Transfer,Transfer to *********-09S 09/21/2020 09:18 152649,EMERSYN,debit,1,-30.26,Out
+2020-09-21,2020-09-21,Transfer,Transfer to *********-09S 09/21/2020 15:50 160014,SAFETY NET,debit,1,-100.0,Out
+2020-09-22,2020-09-22,Transfer,*********-00s 09/22/2020 13:32 176434,VISA STARTER,credit,1,-105.8,In
+2020-09-22,2020-09-22,Transfer,Payment to*********-01L 09/22/2020 13:32 176434,SAFETY NET,debit,1,-105.8,Out
+2020-09-22,2020-09-22,Transfer,Transfer from *********-00S 09/22/2020 13:32 176443,CREDIT CARD,credit,1,-692.2,In
+2020-09-22,2020-09-22,Transfer,Transfer to *********-02S 09/22/2020 13:32 176443,SAFETY NET,debit,1,-692.2,Out
+2020-09-24,2020-09-24,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-500.0,In
+2020-09-24,2020-09-24,Transfer,Transfer from *********-02S 09/24/2020 14:28 219853,CHECKING,credit,1,-500.0,In
+2020-09-24,2020-09-24,Transfer,Transfer from *********-09S 09/24/2020 07:20 209899,CREDIT CARD,credit,1,-400.0,In
+2020-09-24,2020-09-24,Transfer,Transfer from *********-09S 09/24/2020 07:21 209910,SAFETY NET,credit,1,-736.92,In
+2020-09-24,2020-09-24,Transfer,Transfer to *********-00S 09/24/2020 07:21 209910,CHECKING,debit,1,-736.92,Out
+2020-09-24,2020-09-24,Transfer,Transfer to *********-02S 09/24/2020 07:20 209899,CHECKING,debit,1,-400.0,Out
+2020-09-24,2020-09-24,Transfer,Transfer to *********-09S 09/24/2020 14:28 219853,CREDIT CARD,debit,1,-500.0,Out
+2020-09-25,2020-09-25,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-500.0,Out
+2020-09-25,2020-09-25,Transfer,Airbnb,Discover,credit,1,-792.03,In
+2020-09-25,2020-09-25,Transfer,Transfer from *********-02S 09/25/2020 16:16 242452,CHECKING,credit,1,-192.2,In
+2020-09-25,2020-09-25,Transfer,Transfer from *********-09S 09/25/2020 16:10 242276,EMERSYN,credit,1,-10.0,In
+2020-09-25,2020-09-25,Transfer,Transfer from *********-09S 09/25/2020 16:43 243292,SAFETY NET,credit,1,-10.0,In
+2020-09-25,2020-09-25,Transfer,Transfer to *********-00S 09/25/2020 16:43 243292,CHECKING,debit,1,-10.0,Out
+2020-09-25,2020-09-25,Transfer,Transfer to *********-03S 09/25/2020 16:10 242276,CHECKING,debit,1,-10.0,Out
+2020-09-25,2020-09-25,Transfer,Transfer to *********-09S 09/25/2020 16:16 242452,CREDIT CARD,debit,1,-192.2,Out
+2020-09-26,2020-09-26,Transfer,Transfer from *********-00S 09/26/2020 10:18 254226,CHECKING,credit,1,-246.92,In
+2020-09-26,2020-09-26,Transfer,Transfer to *********-09S 09/26/2020 10:18 254226,SAFETY NET,debit,1,-246.92,Out
+2020-09-28,2020-09-28,Transfer,Transfer from *********-00S 09/28/2020 11:12 285378,CHECKING,credit,1,-251.62,In
+2020-09-28,2020-09-28,Transfer,Transfer to *********-09S 09/28/2020 11:12 285378,SAFETY NET,debit,1,-251.62,Out
+2020-09-30,2020-09-30,Transfer,Transfer from *********-02S 09/30/2020 11:31 342473,EMERSYN,credit,1,-400.0,In
+2020-09-30,2020-09-30,Transfer,Transfer from *********-03S 09/30/2020 11:31 342457,CHECKING,credit,1,-310.0,In
+2020-09-30,2020-09-30,Transfer,Transfer to *********-03S 09/30/2020 11:31 342473,CREDIT CARD,debit,1,-400.0,Out
+2020-09-30,2020-09-30,Transfer,Transfer to *********-09S 09/30/2020 11:31 342457,EMERSYN,debit,1,-310.0,Out
+2020-10-02,2020-10-02,Transfer,Transfer from *********-09S 10/02/2020 16:10 413623,EMERSYN,credit,1,-10.0,In
+2020-10-02,2020-10-02,Transfer,Transfer to *********-03S 10/02/2020 16:10 413623,CHECKING,debit,1,-10.0,Out
+2020-10-04,2020-10-04,Transfer,Transfer from *********-03S 10/04/2020 14:59 448303,CHECKING,credit,1,-110.89,In
+2020-10-04,2020-10-04,Transfer,Transfer to *********-09S 10/04/2020 14:59 448303,EMERSYN,debit,1,-110.89,Out
+2020-10-07,2020-10-07,Transfer,Transfer from *********-00S 10/07/2020 15:20 507436,CHECKING,credit,1,-11.94,In
+2020-10-07,2020-10-07,Transfer,Transfer to *********-09S 10/07/2020 15:20 507436,SAFETY NET,debit,1,-11.94,Out
+2020-10-08,2020-10-08,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-459.01,In
+2020-10-08,2020-10-08,Transfer,Transfer from *********-09S 10/08/2020 07:32 521004,SAFETY NET,credit,1,-1000.29,In
+2020-10-08,2020-10-08,Transfer,Transfer to *********-00S 10/08/2020 07:32 521004,CHECKING,debit,1,-1000.29,Out
+2020-10-09,2020-10-09,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-459.01,Out
+2020-10-09,2020-10-09,Transfer,Transfer from *********-09S 10/09/2020 16:10 555037,EMERSYN,credit,1,-10.0,In
+2020-10-09,2020-10-09,Transfer,Transfer from *********-09S 10/09/2020 16:43 556081,SAFETY NET,credit,1,-10.0,In
+2020-10-09,2020-10-09,Transfer,Transfer to *********-00S 10/09/2020 16:43 556081,CHECKING,debit,1,-10.0,Out
+2020-10-09,2020-10-09,Transfer,Transfer to *********-03S 10/09/2020 16:10 555037,CHECKING,debit,1,-10.0,Out
+2020-10-11,2020-10-11,Transfer,*********-00s 10/11/2020 11:20 586682,VISA STARTER,credit,1,-100.0,In
+2020-10-11,2020-10-11,Transfer,Payment to*********-01L 10/11/2020 11:20 586682,SAFETY NET,debit,1,-100.0,Out
+2020-10-11,2020-10-11,Transfer,Transfer from *********-00S 10/11/2020 11:20 586691,CHECKING,credit,1,-210.29,In
+2020-10-11,2020-10-11,Transfer,Transfer to *********-09S 10/11/2020 11:20 586691,SAFETY NET,debit,1,-210.29,Out
+2020-10-14,2020-10-14,Transfer,Payroll  E*TRADE DESC: ACH TRNSFR,SAFETY NET,credit,1,-1500.0,In
+2020-10-15,2020-10-15,Transfer,Transfer from *********-09S 10/15/2020 15:58 673442,CLUB SAVINGS,credit,1,-24.98,In
+2020-10-15,2020-10-15,Transfer,Transfer to *********-06S 10/15/2020 15:58 673442,CHECKING,debit,1,-24.98,Out
+2020-10-16,2020-10-16,Transfer,Transfer from *********-00S 10/16/2020 07:50 686233,CHECKING,credit,1,-51.63,In
+2020-10-16,2020-10-16,Transfer,Transfer from *********-09S 10/16/2020 16:10 697053,EMERSYN,credit,1,-10.0,In
+2020-10-16,2020-10-16,Transfer,Transfer to *********-03S 10/16/2020 16:10 697053,CHECKING,debit,1,-10.0,Out
+2020-10-16,2020-10-16,Transfer,Transfer to *********-09S 10/16/2020 07:50 686233,SAFETY NET,debit,1,-51.63,Out
+2020-10-19,2020-10-19,Transfer,Transfer from *********-09S 10/19/2020 12:06 741195,CLUB SAVINGS,credit,1,-60.0,In
+2020-10-19,2020-10-19,Transfer,Transfer to *********-06S 10/19/2020 12:06 741195,CHECKING,debit,1,-60.0,Out
+2020-10-21,2020-10-21,Transfer,Transfer from *********-00S 10/21/2020 10:36 778647,CHECKING,credit,1,-100.0,In
+2020-10-21,2020-10-21,Transfer,Transfer from *********-03S 10/21/2020 14:28 783015,CHECKING,credit,1,-20.0,In
+2020-10-21,2020-10-21,Transfer,Transfer from *********-09S 10/21/2020 07:31 775412,CLUB SAVINGS,credit,1,-75.0,In
+2020-10-21,2020-10-21,Transfer,Transfer to *********-06S 10/21/2020 07:31 775412,CHECKING,debit,1,-75.0,Out
+2020-10-21,2020-10-21,Transfer,Transfer to *********-09S 10/21/2020 10:36 778647,SAFETY NET,debit,1,-100.0,Out
+2020-10-21,2020-10-21,Transfer,Transfer to *********-09S 10/21/2020 14:28 783015,EMERSYN,debit,1,-20.0,Out
+2020-10-22,2020-10-22,Transfer,*********-09s 10/22/2020 08:01 798302,VISA STARTER,credit,1,-40.52,In
+2020-10-22,2020-10-22,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-599.49,In
+2020-10-22,2020-10-22,Transfer,Payment to*********-01L 10/22/2020 08:01 798302,CHECKING,debit,1,-40.52,Out
+2020-10-22,2020-10-22,Transfer,Transfer from *********-09S 10/22/2020 07:41 797781,CLUB SAVINGS,credit,1,-25.0,In
+2020-10-22,2020-10-22,Transfer,Transfer from *********-09S 10/22/2020 07:55 798166,SAFETY NET,credit,1,-800.0,In
+2020-10-22,2020-10-22,Transfer,Transfer to *********-00S 10/22/2020 07:55 798166,CHECKING,debit,1,-800.0,Out
+2020-10-22,2020-10-22,Transfer,Transfer to *********-06S 10/22/2020 07:41 797781,CHECKING,debit,1,-25.0,Out
+2020-10-23,2020-10-23,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-599.49,Out
+2020-10-23,2020-10-23,Transfer,Transfer from *********-09S 10/23/2020 16:10 829672,EMERSYN,credit,1,-10.0,In
+2020-10-23,2020-10-23,Transfer,Transfer from *********-09S 10/23/2020 16:43 830650,SAFETY NET,credit,1,-10.0,In
+2020-10-23,2020-10-23,Transfer,Transfer to *********-00S 10/23/2020 16:43 830650,CHECKING,debit,1,-10.0,Out
+2020-10-23,2020-10-23,Transfer,Transfer to *********-03S 10/23/2020 16:10 829672,CHECKING,debit,1,-10.0,Out
+2020-10-26,2020-10-26,Transfer,Transfer from *********-09S 10/26/2020 12:38 874114,CLUB SAVINGS,credit,1,-125.0,In
+2020-10-26,2020-10-26,Transfer,Transfer to *********-06S 10/26/2020 12:38 874114,CHECKING,debit,1,-125.0,Out
+2020-10-27,2020-10-27,Transfer,DEPT EDUCATION DESC: STUDENT LN,SAFETY NET,debit,1,-5698.0,Out
+2020-10-30,2020-10-30,Transfer,Transfer from *********-00S 10/30/2020 07:49 969708,CHECKING,credit,1,-363.63,In
+2020-10-30,2020-10-30,Transfer,Transfer from *********-09S 10/30/2020 16:10 982542,EMERSYN,credit,1,-10.0,In
+2020-10-30,2020-10-30,Transfer,Transfer to *********-03S 10/30/2020 16:10 982542,CHECKING,debit,1,-10.0,Out
+2020-10-30,2020-10-30,Transfer,Transfer to *********-09S 10/30/2020 07:49 969708,SAFETY NET,debit,1,-363.63,Out
+2020-11-01,2020-11-01,Transfer,Transfer from *********-00S CIRCLE K 07216 SANBORNVILLE NHUS,CHECKING,credit,1,-100.0,In
+2020-11-02,2020-11-02,Transfer,Payroll  STRIPE DESC: TRANSFER,CHECKING,credit,1,-36.46,In
+2020-11-02,2020-11-02,Transfer,Transfer from *********-09S 11/02/2020 08:22 38352,CLUB SAVINGS,credit,1,-36.46,In
+2020-11-02,2020-11-02,Transfer,Transfer to *********-06S 11/02/2020 08:22 38352,CHECKING,debit,1,-36.46,Out
+2020-11-05,2020-11-05,Transfer,*********-09s 11/05/2020 11:24 116573,VISA STARTER,credit,1,-133.17,In
+2020-11-05,2020-11-05,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-800.0,In
+2020-11-05,2020-11-05,Transfer,Payment to*********-01L 11/05/2020 11:24 116573,CHECKING,debit,1,-133.17,Out
+2020-11-05,2020-11-05,Transfer,Transfer from *********-09S 11/05/2020 11:23 116553,SAFETY NET,credit,1,-1722.66,In
+2020-11-05,2020-11-05,Transfer,Transfer to *********-00S 11/05/2020 11:23 116553,CHECKING,debit,1,-1722.66,Out
+2020-11-05,2020-11-05,Transfer,Venmo,CHECKING,debit,2,-11.5,Out
+2020-11-06,2020-11-06,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-800.0,Out
+2020-11-06,2020-11-06,Transfer,Transfer from *********-09S 11/06/2020 16:10 144558,EMERSYN,credit,1,-10.0,In
+2020-11-06,2020-11-06,Transfer,Transfer from *********-09S 11/06/2020 16:43 145500,SAFETY NET,credit,1,-10.0,In
+2020-11-06,2020-11-06,Transfer,Transfer to *********-00S 11/06/2020 16:43 145500,CHECKING,debit,1,-10.0,Out
+2020-11-06,2020-11-06,Transfer,Transfer to *********-03S 11/06/2020 16:10 144558,CHECKING,debit,1,-10.0,Out
+2020-11-09,2020-11-09,Transfer,*********-09s 11/09/2020 07:04 183983,VISA STARTER,credit,1,-75.97,In
+2020-11-09,2020-11-09,Transfer,Payment to*********-01L 11/09/2020 07:04 183983,CHECKING,debit,1,-75.97,Out
+2020-11-09,2020-11-09,Transfer,Transfer from *********-09S 11/09/2020 07:03 183975,CLUB SAVINGS,credit,1,-75.0,In
+2020-11-09,2020-11-09,Transfer,Transfer from *********-09S 11/09/2020 07:04 183992,EMERSYN,credit,1,-40.0,In
+2020-11-09,2020-11-09,Transfer,Transfer from *********-09S 11/09/2020 07:08 184040,CREDIT CARD,credit,1,-300.0,In
+2020-11-09,2020-11-09,Transfer,Transfer to *********-02S 11/09/2020 07:08 184040,CHECKING,debit,1,-300.0,Out
+2020-11-09,2020-11-09,Transfer,Transfer to *********-03S 11/09/2020 07:04 183992,CHECKING,debit,1,-40.0,Out
+2020-11-09,2020-11-09,Transfer,Transfer to *********-06S 11/09/2020 07:03 183975,CHECKING,debit,1,-75.0,Out
+2020-11-11,2020-11-11,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-650.84,In
+2020-11-11,2020-11-11,Transfer,Transfer from *********-02S 11/11/2020 17:14 243158,CHECKING,credit,1,-650.0,In
+2020-11-11,2020-11-11,Transfer,Transfer from *********-09S 11/11/2020 17:11 243087,CREDIT CARD,credit,1,-383.31,In
+2020-11-11,2020-11-11,Transfer,Transfer to *********-02S 11/11/2020 17:11 243087,CHECKING,debit,1,-383.31,Out
+2020-11-11,2020-11-11,Transfer,Transfer to *********-09S 11/11/2020 17:14 243158,CREDIT CARD,debit,1,-650.0,Out
+2020-11-13,2020-11-13,Transfer,*********-09s 11/13/2020 15:14 288104,VISA STARTER,credit,1,-64.52,In
+2020-11-13,2020-11-13,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-650.84,Out
+2020-11-13,2020-11-13,Transfer,Payment to*********-01L 11/13/2020 15:14 288104,CHECKING,debit,1,-64.52,Out
+2020-11-13,2020-11-13,Transfer,Transfer from *********-00S 11/13/2020 15:13 288057,CHECKING,credit,1,-308.54,In
+2020-11-13,2020-11-13,Transfer,Transfer from *********-02S 11/13/2020 15:13 288078,CHECKING,credit,1,-33.35,In
+2020-11-13,2020-11-13,Transfer,Transfer from *********-09S 11/13/2020 16:10 289510,EMERSYN,credit,1,-10.0,In
+2020-11-13,2020-11-13,Transfer,Transfer to *********-03S 11/13/2020 16:10 289510,CHECKING,debit,1,-10.0,Out
+2020-11-13,2020-11-13,Transfer,Transfer to *********-09S 11/13/2020 15:13 288057,SAFETY NET,debit,1,-308.54,Out
+2020-11-13,2020-11-13,Transfer,Transfer to *********-09S 11/13/2020 15:13 288078,CREDIT CARD,debit,1,-33.35,Out
+2020-11-15,2020-11-15,Transfer,*********-00s 11/15/2020 06:56 315116,VISA STARTER,credit,1,-100.0,In
+2020-11-15,2020-11-15,Transfer,*********-09s 11/15/2020 15:52 323434,VISA STARTER,credit,1,-75.0,In
+2020-11-15,2020-11-15,Transfer,Payment to*********-01L 11/15/2020 06:56 315116,SAFETY NET,debit,1,-100.0,Out
+2020-11-15,2020-11-15,Transfer,Payment to*********-01L 11/15/2020 15:52 323434,CHECKING,debit,1,-75.0,Out
+2020-11-16,2020-11-16,Transfer,Transfer from *********-00S 11/16/2020 14:35 340119,CHECKING,credit,1,-1000.0,In
+2020-11-16,2020-11-16,Transfer,Transfer to *********-09S 11/16/2020 14:35 340119,SAFETY NET,debit,1,-1000.0,Out
+2020-11-18,2020-11-18,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-950.0,In
+2020-11-18,2020-11-18,Transfer,Transfer from *********-00S 11/18/2020 16:51 382671,CHECKING,credit,1,-50.0,In
+2020-11-18,2020-11-18,Transfer,Transfer from *********-00S 11/18/2020 20:02 386502,CHECKING,credit,1,-950.0,In
+2020-11-18,2020-11-18,Transfer,Transfer to *********-09S 11/18/2020 16:51 382671,SAFETY NET,debit,1,-50.0,Out
+2020-11-18,2020-11-18,Transfer,Transfer to *********-09S 11/18/2020 20:02 386502,SAFETY NET,debit,1,-950.0,Out
+2020-11-19,2020-11-19,Transfer,*********-09s 11/19/2020 08:00 394299,VISA STARTER,credit,1,-30.08,In
+2020-11-19,2020-11-19,Transfer,Payment to*********-01L 11/19/2020 08:00 394299,CHECKING,debit,1,-30.08,Out
+2020-11-19,2020-11-19,Transfer,Transfer from *********-09S 11/19/2020 07:59 394279,SAFETY NET,credit,1,-1050.0,In
+2020-11-19,2020-11-19,Transfer,Transfer from *********-09S 11/19/2020 08:00 394309,CLUB SAVINGS,credit,1,-150.0,In
+2020-11-19,2020-11-19,Transfer,Transfer to *********-00S 11/19/2020 07:59 394279,CHECKING,debit,1,-1050.0,Out
+2020-11-19,2020-11-19,Transfer,Transfer to *********-06S 11/19/2020 08:00 394309,CHECKING,debit,1,-150.0,Out
+2020-11-20,2020-11-20,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-950.0,Out
+2020-11-20,2020-11-20,Transfer,Transfer from *********-09S 11/20/2020 16:10 425365,EMERSYN,credit,1,-10.0,In
+2020-11-20,2020-11-20,Transfer,Transfer from *********-09S 11/20/2020 16:43 426441,SAFETY NET,credit,1,-10.0,In
+2020-11-20,2020-11-20,Transfer,Transfer to *********-00S 11/20/2020 16:43 426441,CHECKING,debit,1,-10.0,Out
+2020-11-20,2020-11-20,Transfer,Transfer to *********-03S 11/20/2020 16:10 425365,CHECKING,debit,1,-10.0,Out
+2020-11-23,2020-11-23,Transfer,Transfer from *********-00S 11/23/2020 17:44 477457,CHECKING,credit,1,-200.0,In
+2020-11-23,2020-11-23,Transfer,Transfer to *********-09S 11/23/2020 17:44 477457,SAFETY NET,debit,1,-200.0,Out
+2020-11-26,2020-11-26,Transfer,Transfer from *********-00S 11/26/2020 11:41 537107,CHECKING,credit,1,-160.0,In
+2020-11-26,2020-11-26,Transfer,Transfer from *********-00S 11/26/2020 11:42 537118,CREDIT CARD,credit,1,-200.0,In
+2020-11-26,2020-11-26,Transfer,Transfer to *********-02S 11/26/2020 11:42 537118,SAFETY NET,debit,1,-200.0,Out
+2020-11-26,2020-11-26,Transfer,Transfer to *********-09S 11/26/2020 11:41 537107,SAFETY NET,debit,1,-160.0,Out
+2020-11-27,2020-11-27,Transfer,Transfer from *********-09S 11/27/2020 16:10 563801,EMERSYN,credit,1,-10.0,In
+2020-11-27,2020-11-27,Transfer,Transfer to *********-03S 11/27/2020 16:10 563801,CHECKING,debit,1,-10.0,Out
+2020-12-02,2020-12-02,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-600.99,In
+2020-12-02,2020-12-02,Transfer,Transfer from *********-00S 12/02/2020 07:53 667282,CHECKING,credit,1,-432.45,In
+2020-12-02,2020-12-02,Transfer,Transfer from *********-02S 12/02/2020 07:53 667287,CHECKING,credit,1,-200.01,In
+2020-12-02,2020-12-02,Transfer,Transfer to *********-09S 12/02/2020 07:53 667282,SAFETY NET,debit,1,-432.45,Out
+2020-12-02,2020-12-02,Transfer,Transfer to *********-09S 12/02/2020 07:53 667287,CREDIT CARD,debit,1,-200.01,Out
+2020-12-03,2020-12-03,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-600.99,Out
+2020-12-03,2020-12-03,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-600.0,In
+2020-12-03,2020-12-03,Transfer,Transfer from *********-09S 12/03/2020 08:48 695916,CLUB SAVINGS,credit,1,-150.0,In
+2020-12-03,2020-12-03,Transfer,Transfer from *********-09S 12/03/2020 08:48 695932,SAFETY NET,credit,1,-1000.0,In
+2020-12-03,2020-12-03,Transfer,Transfer from *********-09S 12/03/2020 08:49 695948,EMERSYN,credit,1,-75.0,In
+2020-12-03,2020-12-03,Transfer,Transfer to *********-00S 12/03/2020 08:48 695932,CHECKING,debit,1,-1000.0,Out
+2020-12-03,2020-12-03,Transfer,Transfer to *********-03S 12/03/2020 08:49 695948,CHECKING,debit,1,-75.0,Out
+2020-12-03,2020-12-03,Transfer,Transfer to *********-06S 12/03/2020 08:48 695916,CHECKING,debit,1,-150.0,Out
+2020-12-04,2020-12-04,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-600.0,Out
+2020-12-04,2020-12-04,Transfer,Transfer from *********-09S 12/04/2020 16:10 730331,EMERSYN,credit,1,-10.0,In
+2020-12-04,2020-12-04,Transfer,Transfer from *********-09S 12/04/2020 16:43 731283,SAFETY NET,credit,1,-10.0,In
+2020-12-04,2020-12-04,Transfer,Transfer to *********-00S 12/04/2020 16:43 731283,CHECKING,debit,1,-10.0,Out
+2020-12-04,2020-12-04,Transfer,Transfer to *********-03S 12/04/2020 16:10 730331,CHECKING,debit,1,-10.0,Out
+2020-12-07,2020-12-07,Transfer,Transfer from *********-09S 12/07/2020 07:42 771560,CLUB SAVINGS,credit,1,-75.0,In
+2020-12-07,2020-12-07,Transfer,Transfer to *********-06S 12/07/2020 07:42 771560,CHECKING,debit,1,-75.0,Out
+2020-12-08,2020-12-08,Transfer,Transfer from *********-09S 12/08/2020 09:05 792901,CLUB SAVINGS,credit,1,-75.0,In
+2020-12-08,2020-12-08,Transfer,Transfer to *********-06S 12/08/2020 09:05 792901,CHECKING,debit,1,-75.0,Out
+2020-12-09,2020-12-09,Transfer,Transfer from *********-03S 12/09/2020 14:11 819600,CREDIT CARD,credit,1,-86.82,In
+2020-12-09,2020-12-09,Transfer,Transfer from *********-08S 12/09/2020 14:11 819609,CREDIT CARD,credit,1,-22.8,In
+2020-12-09,2020-12-09,Transfer,Transfer to *********-02S 12/09/2020 14:11 819600,EMERSYN,debit,1,-86.82,Out
+2020-12-09,2020-12-09,Transfer,Transfer to *********-02S 12/09/2020 14:11 819609,HOLIDAY CLUB SAVINGS,debit,1,-22.8,Out
+2020-12-09,2020-12-09,Transfer,Venmo,CHECKING,debit,1,-60.0,Out
+2020-12-11,2020-12-11,Transfer,Transfer from *********-03S 12/11/2020 14:52 866258,CHECKING,credit,1,-100.0,In
+2020-12-11,2020-12-11,Transfer,Transfer from *********-09S 12/11/2020 16:10 868030,EMERSYN,credit,1,-10.0,In
+2020-12-11,2020-12-11,Transfer,Transfer to *********-03S 12/11/2020 16:10 868030,CHECKING,debit,1,-10.0,Out
+2020-12-11,2020-12-11,Transfer,Transfer to *********-09S 12/11/2020 14:52 866258,EMERSYN,debit,1,-100.0,Out
+2020-12-12,2020-12-12,Transfer,Transfer from *********-00S 12/12/2020 13:29 884590,CHECKING,credit,1,-110.0,In
+2020-12-12,2020-12-12,Transfer,Transfer to *********-09S 12/12/2020 13:29 884590,SAFETY NET,debit,1,-110.0,Out
+2020-12-14,2020-12-14,Transfer,Transfer from *********-00S 12/14/2020 07:32 910932,CHECKING,credit,1,-50.0,In
+2020-12-14,2020-12-14,Transfer,Transfer from *********-00S 12/14/2020 16:22 923160,CHECKING,credit,1,-50.0,In
+2020-12-14,2020-12-14,Transfer,Transfer to *********-09S 12/14/2020 07:32 910932,SAFETY NET,debit,1,-50.0,Out
+2020-12-14,2020-12-14,Transfer,Transfer to *********-09S 12/14/2020 16:22 923160,SAFETY NET,debit,1,-50.0,Out
+2020-12-16,2020-12-16,Transfer,Transfer from *********-00S 12/16/2020 16:44 974450,CHECKING,credit,1,-50.0,In
+2020-12-16,2020-12-16,Transfer,Transfer to *********-09S 12/16/2020 16:44 974450,SAFETY NET,debit,1,-50.0,Out
+2020-12-17,2020-12-17,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-800.0,In
+2020-12-17,2020-12-17,Transfer,Transfer from *********-09S 12/17/2020 08:35 986892,SAFETY NET,credit,1,-550.0,In
+2020-12-17,2020-12-17,Transfer,Transfer to *********-00S 12/17/2020 08:35 986892,CHECKING,debit,1,-550.0,Out
+2020-12-18,2020-12-18,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-800.0,Out
+2020-12-18,2020-12-18,Transfer,Transfer from *********-09S 12/18/2020 16:10 16446,EMERSYN,credit,1,-10.0,In
+2020-12-18,2020-12-18,Transfer,Transfer from *********-09S 12/18/2020 16:43 17462,SAFETY NET,credit,1,-10.0,In
+2020-12-18,2020-12-18,Transfer,Transfer to *********-00S 12/18/2020 16:43 17462,CHECKING,debit,1,-10.0,Out
+2020-12-18,2020-12-18,Transfer,Transfer to *********-03S 12/18/2020 16:10 16446,CHECKING,debit,1,-10.0,Out
+2020-12-23,2020-12-23,Transfer,Transfer from *********-09S 12/23/2020 08:17 99886,CLUB SAVINGS,credit,1,-85.0,In
+2020-12-23,2020-12-23,Transfer,Transfer to *********-06S 12/23/2020 08:17 99886,CHECKING,debit,1,-85.0,Out
+2020-12-25,2020-12-25,Transfer,Transfer from *********-09S 12/25/2020 16:10 142667,EMERSYN,credit,1,-10.0,In
+2020-12-25,2020-12-25,Transfer,Transfer to *********-03S 12/25/2020 16:10 142667,CHECKING,debit,1,-10.0,Out
+2020-12-27,2020-12-27,Transfer,*********-00s 12/27/2020 08:15 162550,VISA STARTER,credit,1,-43.16,In
+2020-12-27,2020-12-27,Transfer,Payment to*********-01L 12/27/2020 08:15 162550,SAFETY NET,debit,1,-43.16,Out
+2020-12-27,2020-12-27,Transfer,Transfer from *********-08S 12/27/2020 08:14 162543,SAFETY NET,credit,1,-4000.0,In
+2020-12-27,2020-12-27,Transfer,Transfer to *********-00S 12/27/2020 08:14 162543,HOLIDAY CLUB SAVINGS,debit,1,-4000.0,Out
+2020-12-28,2020-12-28,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-617.06,In
+2020-12-28,2020-12-28,Transfer,Transfer from *********-00S 12/28/2020 12:20 182425,CHECKING,credit,1,-950.0,In
+2020-12-28,2020-12-28,Transfer,Transfer from *********-06S 12/28/2020 15:27 186161,CHECKING,credit,1,-75.0,In
+2020-12-28,2020-12-28,Transfer,Transfer to *********-09S 12/28/2020 12:20 182425,SAFETY NET,debit,1,-950.0,Out
+2020-12-28,2020-12-28,Transfer,Transfer to *********-09S 12/28/2020 15:27 186161,CLUB SAVINGS,debit,1,-75.0,Out
+2020-12-29,2020-12-29,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-617.06,Out
+2020-12-30,2020-12-30,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-800.0,In
+2020-12-31,2020-12-31,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-800.0,Out
+2021-01-01,2021-01-01,Transfer,Transfer from *********-09S 01/01/2021 16:10 323302,EMERSYN,credit,1,-10.0,In
+2021-01-01,2021-01-01,Transfer,Transfer from *********-09S 01/01/2021 16:43 325363,SAFETY NET,credit,1,-10.0,In
+2021-01-01,2021-01-01,Transfer,Transfer from *********-09S 01/01/2021 20:00 332189,SAFETY NET,credit,1,-215.54,In
+2021-01-01,2021-01-01,Transfer,Transfer to *********-00S 01/01/2021 16:43 325363,CHECKING,debit,1,-10.0,Out
+2021-01-01,2021-01-01,Transfer,Transfer to *********-00S 01/01/2021 20:00 332189,CHECKING,debit,1,-215.54,Out
+2021-01-01,2021-01-01,Transfer,Transfer to *********-03S 01/01/2021 16:10 323302,CHECKING,debit,1,-10.0,Out
+2021-01-03,2021-01-03,Transfer,Transfer from *********-09S 01/03/2021 14:16 363673,CREDIT CARD,credit,1,-250.0,In
+2021-01-03,2021-01-03,Transfer,Transfer from *********-09S 01/03/2021 14:16 363680,SAFETY NET,credit,1,-150.0,In
+2021-01-03,2021-01-03,Transfer,Transfer from *********-09S 01/03/2021 14:17 363697,EMERSYN,credit,1,-60.08,In
+2021-01-03,2021-01-03,Transfer,Transfer to *********-00S 01/03/2021 14:16 363680,CHECKING,debit,1,-150.0,Out
+2021-01-03,2021-01-03,Transfer,Transfer to *********-02S 01/03/2021 14:16 363673,CHECKING,debit,1,-250.0,Out
+2021-01-03,2021-01-03,Transfer,Transfer to *********-03S 01/03/2021 14:17 363697,CHECKING,debit,1,-60.08,Out
+2021-01-08,2021-01-08,Transfer,Transfer from *********-06S 01/08/2021 15:58 488885,CREDIT CARD,credit,1,-200.0,In
+2021-01-08,2021-01-08,Transfer,Transfer from *********-09S 01/08/2021 15:57 488869,SAFETY NET,credit,1,-400.0,In
+2021-01-08,2021-01-08,Transfer,Transfer from *********-09S 01/08/2021 15:58 488910,CLUB SAVINGS,credit,1,-200.0,In
+2021-01-08,2021-01-08,Transfer,Transfer from *********-09S 01/08/2021 15:58 488933,EMERSYN,credit,1,-98.98,In
+2021-01-08,2021-01-08,Transfer,Transfer from *********-09S 01/08/2021 15:59 488945,SAFETY NET,credit,1,-250.0,In
+2021-01-08,2021-01-08,Transfer,Transfer from *********-09S 01/08/2021 16:10 489430,EMERSYN,credit,1,-10.0,In
+2021-01-08,2021-01-08,Transfer,Transfer to *********-00S 01/08/2021 15:57 488869,CHECKING,debit,1,-400.0,Out
+2021-01-08,2021-01-08,Transfer,Transfer to *********-00S 01/08/2021 15:59 488945,CHECKING,debit,1,-250.0,Out
+2021-01-08,2021-01-08,Transfer,Transfer to *********-02S 01/08/2021 15:58 488885,CLUB SAVINGS,debit,1,-200.0,Out
+2021-01-08,2021-01-08,Transfer,Transfer to *********-03S 01/08/2021 15:58 488933,CHECKING,debit,1,-98.98,Out
+2021-01-08,2021-01-08,Transfer,Transfer to *********-03S 01/08/2021 16:10 489430,CHECKING,debit,1,-10.0,Out
+2021-01-08,2021-01-08,Transfer,Transfer to *********-06S 01/08/2021 15:58 488910,CHECKING,debit,1,-200.0,Out
+2021-01-11,2021-01-11,Transfer,Transfer from *********-00S 01/11/2021 08:43 539018,CHECKING,credit,1,-275.0,In
+2021-01-11,2021-01-11,Transfer,Transfer to *********-09S 01/11/2021 08:43 539018,SAFETY NET,debit,1,-275.0,Out
+2021-01-14,2021-01-14,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-700.0,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-00S 01/14/2021 08:23 615318,CHECKING,credit,1,-400.0,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-02S 01/14/2021 08:15 615081,CHECKING,credit,1,-559.64,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-08S 01/14/2021 08:16 615110,SAFETY NET,credit,1,-7.62,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-09S 01/14/2021 08:21 615260,SAFETY NET,credit,1,-4500.0,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-09S 01/14/2021 08:21 615276,EMERSYN,credit,1,-190.0,In
+2021-01-14,2021-01-14,Transfer,Transfer from *********-09S 01/14/2021 08:22 615298,SAFETY NET,credit,1,-203.0,In
+2021-01-14,2021-01-14,Transfer,Transfer to *********-00S 01/14/2021 08:16 615110,HOLIDAY CLUB SAVINGS,debit,1,-7.62,Out
+2021-01-14,2021-01-14,Transfer,Transfer to *********-00S 01/14/2021 08:21 615260,CHECKING,debit,1,-4500.0,Out
+2021-01-14,2021-01-14,Transfer,Transfer to *********-00S 01/14/2021 08:22 615298,CHECKING,debit,1,-203.0,Out
+2021-01-14,2021-01-14,Transfer,Transfer to *********-03S 01/14/2021 08:21 615276,CHECKING,debit,1,-190.0,Out
+2021-01-14,2021-01-14,Transfer,Transfer to *********-09S 01/14/2021 08:15 615081,CREDIT CARD,debit,1,-559.64,Out
+2021-01-14,2021-01-14,Transfer,Transfer to *********-09S 01/14/2021 08:23 615318,SAFETY NET,debit,1,-400.0,Out
+2021-01-15,2021-01-15,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-700.0,Out
+2021-01-15,2021-01-15,Transfer,Transfer from *********-09S 01/15/2021 16:10 654321,EMERSYN,credit,1,-10.0,In
+2021-01-15,2021-01-15,Transfer,Transfer from *********-09S 01/15/2021 16:43 655887,SAFETY NET,credit,1,-10.0,In
+2021-01-15,2021-01-15,Transfer,Transfer to *********-00S 01/15/2021 16:43 655887,CHECKING,debit,1,-10.0,Out
+2021-01-15,2021-01-15,Transfer,Transfer to *********-03S 01/15/2021 16:10 654321,CHECKING,debit,1,-10.0,Out
+2021-01-18,2021-01-18,Transfer,Transfer from *********-00S 01/18/2021 16:52 707677,CHECKING,credit,1,-11000.0,In
+2021-01-18,2021-01-18,Transfer,Transfer to *********-09S 01/18/2021 16:52 707677,SAFETY NET,debit,1,-11000.0,Out
+2021-01-22,2021-01-22,Transfer,Transfer from *********-09S 01/22/2021 16:10 797713,EMERSYN,credit,1,-10.0,In
+2021-01-22,2021-01-22,Transfer,Transfer to *********-03S 01/22/2021 16:10 797713,CHECKING,debit,1,-10.0,Out
+2021-01-23,2021-01-23,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-1500.0,In
+2021-01-25,2021-01-25,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-1500.0,Out
+2021-01-25,2021-01-25,Transfer,Transfer from *********-09S 01/25/2021 12:22 846182,SAFETY NET,credit,1,-14800.0,In
+2021-01-25,2021-01-25,Transfer,Transfer to *********-00S 01/25/2021 12:22 846182,CHECKING,debit,1,-14800.0,Out
+2021-01-27,2021-01-27,Transfer,Transfer from *********-09S 01/27/2021 16:51 895232,SAFETY NET,credit,1,-2000.0,In
+2021-01-27,2021-01-27,Transfer,Transfer to *********-00S 01/27/2021 16:51 895232,CHECKING,debit,1,-2000.0,Out
+2021-01-29,2021-01-29,Transfer,Transfer from *********-09S 01/29/2021 16:10 962571,EMERSYN,credit,1,-10.0,In
+2021-01-29,2021-01-29,Transfer,Transfer from *********-09S 01/29/2021 16:43 963762,SAFETY NET,credit,1,-10.0,In
+2021-01-29,2021-01-29,Transfer,Transfer to *********-00S 01/29/2021 16:43 963762,CHECKING,debit,1,-10.0,Out
+2021-01-29,2021-01-29,Transfer,Transfer to *********-03S 01/29/2021 16:10 962571,CHECKING,debit,1,-10.0,Out
+2021-02-01,2021-02-01,Transfer,Transfer from *********-09S 02/01/2021 08:05 16639,CLUB SAVINGS,credit,1,-25.0,In
+2021-02-01,2021-02-01,Transfer,Transfer to *********-06S 02/01/2021 08:05 16639,CHECKING,debit,1,-25.0,Out
+2021-02-05,2021-02-05,Transfer,Transfer from *********-09S 02/05/2021 16:10 141628,EMERSYN,credit,1,-10.0,In
+2021-02-05,2021-02-05,Transfer,Transfer to *********-03S 02/05/2021 16:10 141628,CHECKING,debit,1,-10.0,Out
+2021-02-08,2021-02-08,Transfer,Transfer from *********-00S 02/08/2021 16:54 197831,CHECKING,credit,1,-220.0,In
+2021-02-08,2021-02-08,Transfer,Transfer from *********-09S 02/08/2021 07:58 186320,CLUB SAVINGS,credit,1,-125.0,In
+2021-02-08,2021-02-08,Transfer,Transfer to *********-06S 02/08/2021 07:58 186320,CHECKING,debit,1,-125.0,Out
+2021-02-08,2021-02-08,Transfer,Transfer to *********-09S 02/08/2021 16:54 197831,SAFETY NET,debit,1,-220.0,Out
+2021-02-08,2021-02-08,Transfer,Venmo,CHECKING,debit,1,-8.0,Out
+2021-02-09,2021-02-09,Transfer,Venmo,CHECKING,debit,1,-8.0,Out
+2021-02-10,2021-02-10,Transfer,Transfer from *********-00S 02/10/2021 07:44 232150,CHECKING,credit,1,-23.64,In
+2021-02-10,2021-02-10,Transfer,Transfer to *********-09S 02/10/2021 07:44 232150,SAFETY NET,debit,1,-23.64,Out
+2021-02-11,2021-02-11,Transfer,*********-09s 02/11/2021 06:31 259851,VISA STARTER,credit,1,-40.0,In
+2021-02-11,2021-02-11,Transfer,INTERNET PAYMENT - THANK YOU,Discover,credit,1,-976.4,In
+2021-02-11,2021-02-11,Transfer,Payment to*********-01L 02/11/2021 06:31 259851,CHECKING,debit,1,-40.0,Out
+2021-02-11,2021-02-11,Transfer,Transfer from *********-09S 02/11/2021 06:31 259836,SAFETY NET,credit,1,-500.0,In
+2021-02-11,2021-02-11,Transfer,Transfer from *********-09S 02/11/2021 06:32 259862,SAFETY NET,credit,1,-250.0,In
+2021-02-11,2021-02-11,Transfer,Transfer to *********-00S 02/11/2021 06:31 259836,CHECKING,debit,1,-500.0,Out
+2021-02-11,2021-02-11,Transfer,Transfer to *********-00S 02/11/2021 06:32 259862,CHECKING,debit,1,-250.0,Out
+2021-02-12,2021-02-12,Transfer,DISCOVER DESC: E-PAYMENT,CHECKING,debit,1,-976.4,Out
+2021-02-12,2021-02-12,Transfer,Transfer from *********-09S 02/12/2021 16:10 300728,EMERSYN,credit,1,-10.0,In
+2021-02-12,2021-02-12,Transfer,Transfer from *********-09S 02/12/2021 16:43 301872,SAFETY NET,credit,1,-10.0,In
+2021-02-12,2021-02-12,Transfer,Transfer to *********-00S 02/12/2021 16:43 301872,CHECKING,debit,1,-10.0,Out
+2021-02-12,2021-02-12,Transfer,Transfer to *********-03S 02/12/2021 16:10 300728,CHECKING,debit,1,-10.0,Out
+2021-02-16,2021-02-16,Transfer,Transfer from *********-00S 02/16/2021 19:35 378939,CHECKING,credit,1,-260.0,In
+2021-02-16,2021-02-16,Transfer,Transfer to *********-09S 02/16/2021 19:35 378939,SAFETY NET,debit,1,-260.0,Out
+2021-02-17,2021-02-17,Transfer,Transfer from *********-09S 02/17/2021 07:28 385394,CREDIT CARD,credit,1,-250.0,In
+2021-02-17,2021-02-17,Transfer,Transfer to *********-02S 02/17/2021 07:28 385394,CHECKING,debit,1,-250.0,Out
+2021-02-19,2021-02-19,Transfer,Transfer from *********-09S 02/19/2021 16:10 449818,EMERSYN,credit,1,-10.0,In
+2021-02-19,2021-02-19,Transfer,Transfer to *********-03S 02/19/2021 16:10 449818,CHECKING,debit,1,-10.0,Out
+2021-02-19,2021-02-19,Transfer,Venmo,CHECKING,debit,1,-10.0,Out

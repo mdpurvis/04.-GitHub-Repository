@@ -1,0 +1,206 @@
+1.42
+---
+- replace deprecated pandas call to fix warning (github#211)
+- added --attention flag to include information on accounts which need attention (github#205)
+- added budget history (--budget_hist) (github#198)
+- various code style, README, and travis improvements
+
+1.41
+---
+- support soft token mfa method (github#193)
+- allow retrieving brokerage holdings via get_invests_json (github#192)
+- add more methods to README and fix typo (github#191, github#189)
+
+1.40
+---
+- simplify pypi long description to prevent rendering error and release blocking
+- actually release changes from 1.39
+
+1.39
+---
+- fix targetting for login/signup (github#187)
+
+1.38
+---
+- add ability to retrieve mfa code from email via IMAP (github#166)
+
+1.37
+---
+- full credit report functionality (github#169)
+
+1.36
+---
+- add ability to get credit score (github#163)
+
+1.35
+---
+- by default, persist a browser session to avoid regular MFA requests (github#160)
+
+1.34
+---
+- correctly fix usages of parse_float (github#159)
+
+1.33
+---
+- fix chromedriver download on win64 (github#158)
+- fix usages of parse_float (github#157)
+
+1.32
+---
+- don't let "accounts need attention" block closing after a successful refresh (github#156)
+
+1.31
+---
+- fix for headless chromedriver not working on Windows (github#151)
+
+1.30
+---
+- chromedriver now supports --headless option (thanks @matthewwardrop/@eschizoid)
+- chromedriver now supports --mfa-method to automate triggering sms/email (thanks @matthewwardrop/@eschizoid)
+
+1.29
+---
+- use seleniumrequests to perform all requests (thanks @jprouty!)
+
+1.28
+---
+- fix get_transactions_json when start_date predates all transactions (thanks @jprouty!)
+
+1.27
+---
+- fix NoneType error when getting cookies via chromedriver (thanks @dherg!)
+
+1.26
+---
+- properly display messages when webdriver raises a URLError (thanks @dherg!)
+
+1.25
+---
+- use Excel-compatible datetime formatting and allow customizing (thanks @felciano!)
+
+1.24
+---
+- fix "Unknown" categories when categories in budgets (thanks @drunnells!)
+
+1.23
+---
+- mintapi raises MintException instead of Exception for better exception
+  handling when used as a library (thanks @titilambert!)
+
+1.22
+---
+- more robustly match content types (thanks @jbms!)
+- eliminate an unnecessary use of pandas (thanks @jbms!)
+
+1.21
+---
+- import fix for python3
+
+1.20
+---
+- automate cookie grabbing w/ selenium+chromedriver (thanks @matthewwardrop!)
+- allow passing in required cookies via CLI/API
+- update README to cover the cookies now required
+- --include-investments now works with --transactions (thanks @felciano)
+
+1.19
+---
+- updated URLs for intuit.com domain change
+- added command-line switch for --session=ius_session_cookie
+
+1.18
+---
+- add the ability to get extended transaction information from the command line,
+  along with all its options
+
+1.17
+---
+- fix get_transactions_json to work with Mint change (github#57),
+  thanks @dtiz!
+
+1.16
+---
+- allow specifying a start date for get_transactions_json
+- add get_detailed_transactions which converts the json to a pandas
+  dataframe, adds the year to all transactions, and reverses credit
+  activity.
+
+1.15
+---
+- fix urllib3 import exception on Ubuntu/Debian, thanks @dancudds!
+
+1.14
+---
+- fix json output when using --filename
+- flake8 fixes
+
+1.13
+---
+- new get_net_worth / --net-worth options, thanks @wendlinga!
+
+1.12
+---
+- get_transactions_csv and get_transactions_json API methods
+
+1.11
+---
+- fix get_budgets with nested categories
+
+1.10.2
+---
+- re-release to actually include the intended changes from 1.10.1
+
+1.10.1
+---
+- fix for get_transactions with Python 3
+- more helpful error message when pandas is missing
+
+1.9
+---
+- keyring is lazily required, now compatible with systems where keyring
+  module is not available
+- PEP8
+
+1.8
+---
+- fix retrieving transactions (-t)
+
+1.7
+---
+- -u / --user option to save and grab password from keyring
+
+1.6
+---
+- -t / --transactions option to fetch transactions
+- -f / --filename to write results to csv/json
+
+1.5
+---
+- various changes to fix and improve scraping Mint.com
+
+1.4
+---
+- fix Python 3 compat
+- add an 'InDate' for each timestamp field that is the date as a
+  python-native datetime object
+- add unit test / travis integration for the above
+
+1.3.2
+---
+- fix setup.py for pip installations
+
+1.3
+---
+- specify SSLv3 to fix making HTTPS requests to Mint on certain Linux systems
+
+1.2
+---
+- turn into a pypi package. now use `import mintapi` from python or the `mintapi` binary.
+
+1.1
+---
+- fix login/authentication issue after Mint.com change
+
+1.0
+---
+- initial release
