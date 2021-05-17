@@ -6575,25 +6575,89 @@ Date,Month,Sub-Category,Description,Account Name,Transaction Type,Count,Category
 2021-04-23,2021-04-23,Restaurants,TUMBLEDOWN CAFE LLC 603-498-4080 NHUS,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,29.43,44.144999999999996,-29.43,82612.4
 2021-04-23,2021-04-23,Subscriptions,Apple,Discover,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-5.98,82612.4
 2021-04-24,2021-04-24,Fast Food,Big Dave's Bagel & Deli,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,16.13,8.065,-16.13,82515.01999999999
-2021-04-24,2021-04-24,Home Supplies/Servic,SIMPLE MOVING LABOR,Discover,debit,1,5,4,Home,Est,Reducable,0.8,150.0,120.0,-150.0,82515.01999999999
 2021-04-24,2021-04-24,Restaurants,ALOHA LLC - CENTER CENTER OSSIPP NHUS,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,30.45,45.675,-30.45,82515.01999999999
-2021-04-24,2021-04-24,Restaurants,SIMPLE MOVING LABOR,Discover,debit,1,2,6,Food & Dining,Est,Reducable,1.5,0.01,0.015,-0.01,82515.01999999999
 2021-04-24,2021-04-24,Subscriptions,Apple,CHECKING,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-1.99,82515.01999999999
 2021-04-24,2021-04-24,Subscriptions,Apple,Discover,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-0.99,82515.01999999999
-2021-04-25,2021-04-25,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-6.99,82315.44999999998
-2021-04-25,2021-04-25,Coffee Shops,FRONTSIDE COFFE Conway NHUS,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,12.94,14.234,-12.94,82315.44999999998
-2021-04-25,2021-04-25,Fast Food,McDonald's,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,16.86,8.43,-16.86,82315.44999999998
-2021-04-25,2021-04-25,Groceries,Hannaford,CHECKING,debit,2,2,5,Food & Dining,Est,Reducable,1.2,193.55,232.26,-193.55,82315.44999999998
-2021-04-26,2021-04-26,Auto Insurance,Geico,Discover,debit,1,1,1,Bills & Utilities,Input,Fixed,1.0,0.0,0.0,-62.99,82085.10999999999
-2021-04-26,2021-04-26,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-23.79,82085.10999999999
-2021-04-26,2021-04-26,Gifts & Donations,Venmo,CHECKING,debit,1,14,3,Gifts & Donations,Input,Reducable,1.5,0.0,0.0,-50.0,82085.10999999999
-2021-04-26,2021-04-26,Restaurants,La Corona,CHECKING,debit,2,2,6,Food & Dining,Est,Reducable,1.5,37.1,55.650000000000006,-37.1,82085.10999999999
-2021-04-27,2021-04-27,Gas & Fuel,Shell,CHECKING,debit,1,4,3,Auto & Transport,Est,Fixed,0.5,41.69,20.845,-41.69,81911.22999999998
-2021-04-27,2021-04-27,Travel,United Airlines,Discover,debit,1,12,5,Travel,Input,Fixed,1.0,0.0,0.0,-850.4,81911.22999999998
-2021-04-28,2021-04-28,Baby Supplies,Target,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-10.0,81019.13999999998
-2021-04-28,2021-04-28,Coffee Shops,Authorization Hold / AROMA JOES - 31,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,4.74,5.214,-4.74,81019.13999999998
-2021-04-28,2021-04-28,Coffee Shops,LEVELUPAROMAJOES905 855-466-5585 MAUS,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,5.12,5.632000000000001,-5.12,81019.13999999998
-2021-04-28,2021-04-28,Fast Food,McDonald's,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,2.18,1.09,-2.18,81019.13999999998
-2021-04-28,2021-04-28,Fast Food,Pizza Hut,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,25.8,12.9,-25.8,81019.13999999998
-2021-04-28,2021-04-28,Groceries,Target,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,78.4,94.08,-78.4,81019.13999999998
-2021-04-28,2021-04-28,Pharmacy,Walgreens,CHECKING,debit,1,6,4,Health & Fitness,Input,Reducable,0.7,0.0,0.0,-13.93,81019.13999999998
+2021-04-25,2021-04-25,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-6.99,82465.45999999999
+2021-04-25,2021-04-25,Coffee Shops,FRONTSIDE COFFE Conway NHUS,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,12.94,14.234,-12.94,82465.45999999999
+2021-04-25,2021-04-25,Fast Food,McDonald's,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,16.86,8.43,-16.86,82465.45999999999
+2021-04-25,2021-04-25,Groceries,Hannaford,CHECKING,debit,2,2,5,Food & Dining,Est,Reducable,1.2,193.55,232.26,-193.55,82465.45999999999
+2021-04-26,2021-04-26,Auto Insurance,Geico,Discover,debit,1,1,1,Bills & Utilities,Input,Fixed,1.0,0.0,0.0,-62.99,82235.12
+2021-04-26,2021-04-26,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-23.79,82235.12
+2021-04-26,2021-04-26,Gifts & Donations,Venmo,CHECKING,debit,1,14,3,Gifts & Donations,Input,Reducable,1.5,0.0,0.0,-50.0,82235.12
+2021-04-26,2021-04-26,Restaurants,La Corona,CHECKING,debit,2,2,6,Food & Dining,Est,Reducable,1.5,37.1,55.650000000000006,-37.1,82235.12
+2021-04-27,2021-04-27,Baby Supplies,Amazon,Discover,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-24.99,82061.23999999999
+2021-04-27,2021-04-27,Gas & Fuel,Shell,CHECKING,debit,1,4,3,Auto & Transport,Est,Fixed,0.5,41.69,20.845,-41.69,82061.23999999999
+2021-04-28,2021-04-28,Baby Supplies,Target,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-10.0,81994.56
+2021-04-28,2021-04-28,Coffee Shops,LEVELUPAROMAJOES905 855-466-5585 MAUS,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,5.12,5.632000000000001,-5.12,81994.56
+2021-04-28,2021-04-28,Fast Food,Pizza Hut,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,25.8,12.9,-25.8,81994.56
+2021-04-28,2021-04-28,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,13.27,15.924,-13.27,81994.56
+2021-04-28,2021-04-28,Groceries,Target,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,78.4,94.08,-78.4,81994.56
+2021-04-28,2021-04-28,Pharmacy,Walgreens,CHECKING,debit,1,6,4,Health & Fitness,Input,Reducable,0.7,0.0,0.0,-13.93,81994.56
+2021-04-29,2021-04-29,Baby Supplies,Amazon,Discover,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-7.97,81848.04
+2021-04-29,2021-04-29,Coffee Shops,Aroma Joe's,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,4.74,5.214,-4.74,81848.04
+2021-04-29,2021-04-29,Electronics & Software,Microsoft,Discover,debit,1,10,4,Shopping,Input,Reducable,1.0,0.0,0.0,-1.99,81848.04
+2021-04-29,2021-04-29,Fast Food,McDonald's,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,2.18,1.09,-2.18,81848.04
+2021-04-30,2021-04-30,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,21.97,26.363999999999997,-21.97,81831.15999999999
+2021-04-30,2021-04-30,Investments,DIVIDEND,CLUB SAVINGS,credit,1,30,9,Income,Est,Fixed,1.0,0.23,0.23,0.23,81831.15999999999
+2021-04-30,2021-04-30,Investments,DIVIDEND,EMERSYN,credit,1,30,9,Income,Est,Fixed,1.0,1.18,1.18,1.18,81831.15999999999
+2021-04-30,2021-04-30,Investments,DIVIDEND,SAFETY NET,credit,1,30,9,Income,Est,Fixed,1.0,14.95,14.95,14.95,81831.15999999999
+2021-05-01,2021-05-01,Air Travel,United Airlines,Discover,debit,9,12,1,Travel,Input,Fixed,1.0,0.0,0.0,-850.4000000000001,81825.54999999999
+2021-05-01,2021-05-01,Gas & Fuel,SANDBORNVLE 393 MEADOW ST SANBORNVILLE NHUS,CHECKING,debit,1,4,3,Auto & Transport,Est,Fixed,0.5,29.65,14.825,-29.65,81825.54999999999
+2021-05-01,2021-05-01,Gas Stn Snacks/Beer,SANDBORNVLE 393 MEADOW ST SANBORNVILLE NHUS,CHECKING,debit,1,2,4,Food & Dining,Est,Reducable,0.8,2.19,1.752,-2.19,81825.54999999999
+2021-05-02,2021-05-02,Baby Supplies,BUMP BOXES BUMPBOXES.COM ILUS,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-36.99,80943.30999999998
+2021-05-02,2021-05-02,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,1.19,1.428,-1.19,80943.30999999998
+2021-05-02,2021-05-02,Groceries,Hannaford,Discover,debit,1,2,5,Food & Dining,Est,Reducable,1.2,171.25,205.5,-171.25,80943.30999999998
+2021-05-02,2021-05-02,Mobile Phone,STRAIGHTTALK*SERVICES 877-430-2355 FL95441399IO3OH,Discover,debit,1,1,4,Bills & Utilities,Input,Fixed,1.0,0.0,0.0,-141.8,80943.30999999998
+2021-05-02,2021-05-02,Restaurants,Poor People's Pub Inc,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,64.46,96.69,-64.46,80943.30999999998
+2021-05-03,2021-05-03,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-8.99,80527.61999999998
+2021-05-04,2021-05-04,Coffee Shops,Dunkin Donuts,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,15.0,16.5,-15.0,80518.62999999998
+2021-05-04,2021-05-04,Restaurants,Won Tons,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,29.58,44.37,-29.58,80518.62999999998
+2021-05-05,2021-05-05,Baby Supplies,Amazon,Discover,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-52.23,80474.04999999997
+2021-05-05,2021-05-05,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,21.7,26.04,-21.7,80474.04999999997
+2021-05-05,2021-05-05,Groceries,Hannaford,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,47.3,56.76,-47.3,80474.04999999997
+2021-05-05,2021-05-05,Mortgage & Rent,APPRAISAL FEE SERVICES 877-997-8682 CA,Discover,debit,1,0,2,Loans,Input,Fixed,1.0,0.0,0.0,-525.0,80474.04999999997
+2021-05-05,2021-05-05,Restaurants,Linos Restaurant,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,32.94,49.41,-32.94,80474.04999999997
+2021-05-05,2021-05-05,Restaurants,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,2,6,Food & Dining,Est,Reducable,1.5,30.0,45.0,30.0,80474.04999999997
+2021-05-06,2021-05-06,Cash Gifts,Share Deposit Online Deposit,SAFETY NET,credit,1,30,6,Income,Input,Fixed,1.0,0.0,0.0,500.0,79824.87999999998
+2021-05-06,2021-05-06,Credit Card Rewards,CASHBACK BONUS REDEMPTION payment/STMT CRDT,Discover,credit,1,30,8,Income,Input,Fixed,1.0,0.0,0.0,26.79,79824.87999999998
+2021-05-06,2021-05-06,Paycheck,LIBERTY MUTUAL DESC: PAYROLL,CHECKING,credit,1,30,1,Income,Input,Fixed,1.0,0.0,0.0,2128.35,79824.87999999998
+2021-05-06,2021-05-06,Reimbursement,LIBERTY MUTUAL DESC: PAYROLL,CHECKING,credit,1,30,3,Income,Input,Fixed,1.0,0.0,0.0,3808.0,79824.87999999998
+2021-05-07,2021-05-07,Coffee Shops,Dunkin Donuts,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,15.0,16.5,-15.0,86288.01999999997
+2021-05-07,2021-05-07,Gas & Fuel,Exxon,CHECKING,debit,1,4,3,Auto & Transport,Est,Fixed,0.5,32.78,16.39,-32.78,86288.01999999997
+2021-05-07,2021-05-07,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,9.99,11.988,-9.99,86288.01999999997
+2021-05-07,2021-05-07,Restaurants,110 Grill,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,25.0,37.5,-25.0,86288.01999999997
+2021-05-07,2021-05-07,Service & Parts,Meineke,CHECKING,debit,1,4,5,Auto & Transport,Input,Fixed,1.0,0.0,0.0,-43.9,86288.01999999997
+2021-05-08,2021-05-08,Coffee Shops,AROMA JOES COFFEE - ROCHESTER NHUS,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,13.73,15.103000000000002,-13.73,86161.34999999998
+2021-05-08,2021-05-08,Subscriptions,Apple,CHECKING,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-2.99,86161.34999999998
+2021-05-08,2021-05-08,Subscriptions,Wall Street Journal,Discover,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-19.49,86161.34999999998
+2021-05-08,2021-05-08,Travel,Alamo Rent,Discover,debit,1,12,5,Travel,Input,Fixed,1.0,0.0,0.0,-326.43,86161.34999999998
+2021-05-09,2021-05-09,Baby Supplies,Amazon,Discover,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-18.89,85798.70999999998
+2021-05-09,2021-05-09,Babysitter & Daycare,Hannaford,CHECKING,debit,1,3,2,Kids,Input,Fixed,1.0,0.0,0.0,-60.0,85798.70999999998
+2021-05-09,2021-05-09,Gas Stn Snacks/Beer,7-Eleven,CHECKING,debit,1,2,4,Food & Dining,Est,Reducable,0.8,4.91,3.9280000000000004,-4.91,85798.70999999998
+2021-05-09,2021-05-09,Groceries,Hannaford,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,96.54,115.848,-96.54,85798.70999999998
+2021-05-09,2021-05-09,Restaurants,KNOTTY PINE GRILL & 603-5222265 NHUS,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,25.0,37.5,-25.0,85798.70999999998
+2021-05-09,2021-05-09,Subscriptions,Netflix,Discover,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-13.99,85798.70999999998
+2021-05-10,2021-05-10,Restaurants,KNOTTY PINE GRILL & 603-5222265 NHUS,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,20.0,30.0,-20.0,85579.37999999998
+2021-05-10,2021-05-10,Restaurants,TST* NOLAN S BRICK WOLFEBORO NHUS,CHECKING,debit,1,2,6,Food & Dining,Est,Reducable,1.5,44.43,66.645,-44.43,85579.37999999998
+2021-05-10,2021-05-10,Subscriptions,Apple,Discover,debit,1,7,1,Subscriptions,Input,Fixed,1.0,0.0,0.0,-7.97,85579.37999999998
+2021-05-11,2021-05-11,Auto Payment,5/3 INSTALL LOAN DESC: PAYMENT,CHECKING,debit,1,0,1,Loans,Input,Fixed,1.0,0.0,0.0,-400.0,85506.97999999998
+2021-05-11,2021-05-11,Fast Food,YUM YUM SHOP WOLFEBORO NHUS,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,4.36,2.18,-4.36,85506.97999999998
+2021-05-11,2021-05-11,Gas & Fuel,Shell,CHECKING,debit,1,4,3,Auto & Transport,Est,Fixed,0.5,20.61,10.305,-20.61,85506.97999999998
+2021-05-11,2021-05-11,Gas Stn Snacks/Beer,Shell,CHECKING,debit,1,2,4,Food & Dining,Est,Reducable,0.8,9.48,7.5840000000000005,-9.48,85506.97999999998
+2021-05-11,2021-05-11,Gas Stn Snacks/Beer,Sunoco,CHECKING,debit,1,2,4,Food & Dining,Est,Reducable,0.8,3.53,2.824,-3.53,85506.97999999998
+2021-05-11,2021-05-11,Groceries,Hannaford,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,30.58,36.696,-30.58,85506.97999999998
+2021-05-11,2021-05-11,Music,Amazon Music,CHECKING,debit,1,11,4,Entertainment,Est,Discretionary,0.1,3.99,0.399,-3.99,85506.97999999998
+2021-05-11,2021-05-11,Travel,Disney,Discover,debit,1,12,5,Travel,Input,Fixed,1.0,0.0,0.0,-7.32,85506.97999999998
+2021-05-12,2021-05-12,Baby Supplies,Amazon,CHECKING,debit,2,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-33.33,85027.10999999999
+2021-05-12,2021-05-12,Baby Supplies,Payroll  VENMO DESC: CASHOUT,CHECKING,credit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,4.0,85027.10999999999
+2021-05-12,2021-05-12,Fast Food,KFC,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,14.69,7.345,-14.69,85027.10999999999
+2021-05-12,2021-05-12,Fast Food,Lone Oak Ice Cream,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,12.99,6.495,-12.99,85027.10999999999
+2021-05-12,2021-05-12,Groceries,COUNTRY GOODS & 3400 PROVINCE LAKE EAST WAKEFIEL NHUS,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,20.04,24.048,-20.04,85027.10999999999
+2021-05-12,2021-05-12,Home Supplies/Servic,Amazon,Discover,debit,1,5,4,Home,Est,Reducable,0.8,34.99,27.992000000000004,-34.99,85027.10999999999
+2021-05-12,2021-05-12,Misc Shopping,Amazon,Discover,debit,1,10,6,Shopping,Input,Discretionary,1.0,0.0,0.0,-79.95,85027.10999999999
+2021-05-13,2021-05-13,Baby Supplies,Amazon,CHECKING,debit,1,3,1,Kids,Input,Fixed,1.0,0.0,0.0,-8.98,84835.11999999998
+2021-05-13,2021-05-13,Fast Food,DUELINGCHEFS EFFINGHAM NHUS,CHECKING,debit,1,2,3,Food & Dining,Est,Reducable,0.5,27.25,13.625,-27.25,84835.11999999998
+2021-05-14,2021-05-14,Babysitter & Daycare,Hannaford,CHECKING,debit,1,3,2,Kids,Input,Fixed,1.0,0.0,0.0,-60.0,84798.88999999998
+2021-05-14,2021-05-14,Groceries,Hannaford,CHECKING,debit,1,2,5,Food & Dining,Est,Reducable,1.2,83.88,100.65599999999999,-83.88,84798.88999999998
+2021-05-15,2021-05-15,Coffee Shops,Dunkin Donuts,CHECKING,debit,1,2,2,Food & Dining,Est,Reducable,1.1,15.0,16.5,-15.0,84655.00999999998
